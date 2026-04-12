@@ -28,7 +28,7 @@ jobs:
         env:
           IPINFO_TOKEN: ${{ secrets.IPINFO_TOKEN }}
         run: |
-          curl -L "https://ipinfo.io/data/free/country_asn.csv.gz?token=${IPINFO_TOKEN}" -o ipinfo_lite.csv.gz
+          curl -L "https://ipinfo.io/data/free/ipinfo_lite.csv.gz?token=${IPINFO_TOKEN}" -o ipinfo_lite.csv.gz
           gunzip ipinfo_lite.csv.gz
 
       - name: Run extraction script
