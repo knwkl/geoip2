@@ -2,7 +2,7 @@ name: Update Surge Geo Rules
 
 on:
   schedule:
-    - cron: '0 3 * * *'
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
@@ -19,34 +19,17 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: '3.x'
 
       - name: Install dependencies
-        run: pip install pandas requests
+        run: pip install pandas
 
       - name: Download IPInfo Lite CSV
         env:
           IPINFO_TOKEN: ${{ secrets.IPINFO_TOKEN }}
         run: |
-          curl -L "https://ipinfo.io/data/free/ipinfo_lite.csv.gz?token=${IPINFO_TOKEN}" -o ipinfo_lite.csv.gz
-          file ipinfo_lite.csv.gz
-          if file ipinfo_lite.csv.gz | grep -q gzip; then
-            gunzip ipinfo_lite.csv.gz
-          else
-            echo "第一个地址失败，内容："
-            cat ipinfo_lite.csv.gz
-            echo "尝试第二个地址..."
-            curl -L "https://ipinfo.io/data/free/lite.csv.gz?token=${IPINFO_TOKEN}" -o ipinfo_lite.csv.gz
-            file ipinfo_lite.csv.gz
-            if file ipinfo_lite.csv.gz | grep -q gzip; then
-              gunzip ipinfo_lite.csv.gz
-            else
-              echo "第二个地址也失败，内容："
-              cat ipinfo_lite.csv.gz
-              exit 1
-            fi
-          fi
-          head -2 ipinfo_lite.csv
+          curl -L "https://ipinfo.io/data/ipinfo_lite.csv.gz?token=${IPINFO_TOKEN}" -o ipinfo_lite.csv.gz
+          gzip -df ipinfo_lite.csv.gz
 
       - name: Run extraction script
         run: python extract.py
