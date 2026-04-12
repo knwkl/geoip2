@@ -24,18 +24,20 @@ jobs:
       - name: Install dependencies
         run: pip install pandas requests
 
-      - name: Download IPInfo Lite CSV
+      - name: Download IPInfo CSV
         env:
           IPINFO_TOKEN: ${{ secrets.IPINFO_TOKEN }}
         run: |
-          curl -L "https://ipinfo.io/data/free/country_asn.csv.gz?token=${IPINFO_TOKEN}" -o test1.gz
-          echo "country_asn.csv.gz 内容："
-          cat test1.gz || true
-          curl -L "https://ipinfo.io/data/free/lite.csv.gz?token=${IPINFO_TOKEN}" -o test2.gz
-          echo "lite.csv.gz 内容："
-          cat test2.gz || true
-          curl -v "https://ipinfo.io/data/free/?token=${IPINFO_TOKEN}" 2>&1 | head -50
-
+          curl -L "https://ipinfo.io/data/free/country_asn.csv.gz?token=${IPINFO_TOKEN}" -o country_asn.csv.gz
+          gunzip country_asn.csv.gz
 
       - name: Run extraction script
         run: python extract.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add Country_CIDR/ README.md
+          git diff --cached --quiet || git commit -m "Auto update: $(date -u +'%Y-%m-%dT%H:%M:%S+00:00')"
+          git push
