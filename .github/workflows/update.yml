@@ -28,11 +28,14 @@ jobs:
         env:
           IPINFO_TOKEN: ${{ secrets.IPINFO_TOKEN }}
         run: |
-          curl -L "https://ipinfo.io/data/free/ipinfo_lite.csv.gz?token=${IPINFO_TOKEN}" -o ipinfo_lite.csv.gz
-          echo "文件大小："
-          ls -la ipinfo_lite.csv.gz
-          echo "文件内容："
-          cat ipinfo_lite.csv.gz
+          curl -L "https://ipinfo.io/data/free/country_asn.csv.gz?token=${IPINFO_TOKEN}" -o test1.gz
+          echo "country_asn.csv.gz 内容："
+          cat test1.gz || true
+          curl -L "https://ipinfo.io/data/free/lite.csv.gz?token=${IPINFO_TOKEN}" -o test2.gz
+          echo "lite.csv.gz 内容："
+          cat test2.gz || true
+          curl -v "https://ipinfo.io/data/free/?token=${IPINFO_TOKEN}" 2>&1 | head -50
+
 
       - name: Run extraction script
         run: python extract.py
