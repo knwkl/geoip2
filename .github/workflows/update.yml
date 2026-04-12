@@ -24,12 +24,29 @@ jobs:
       - name: Install dependencies
         run: pip install pandas requests
 
-      - name: Download IPInfo CSV
+      - name: Download IPInfo Lite CSV
         env:
           IPINFO_TOKEN: ${{ secrets.IPINFO_TOKEN }}
         run: |
-          curl -L "https://ipinfo.io/data/free/country_asn.csv.gz?token=${IPINFO_TOKEN}" -o country_asn.csv.gz
-          gunzip country_asn.csv.gz
+          curl -L "https://ipinfo.io/data/free/ipinfo_lite.csv.gz?token=${IPINFO_TOKEN}" -o ipinfo_lite.csv.gz
+          file ipinfo_lite.csv.gz
+          if file ipinfo_lite.csv.gz | grep -q gzip; then
+            gunzip ipinfo_lite.csv.gz
+          else
+            echo "第一个地址失败，内容："
+            cat ipinfo_lite.csv.gz
+            echo "尝试第二个地址..."
+            curl -L "https://ipinfo.io/data/free/lite.csv.gz?token=${IPINFO_TOKEN}" -o ipinfo_lite.csv.gz
+            file ipinfo_lite.csv.gz
+            if file ipinfo_lite.csv.gz | grep -q gzip; then
+              gunzip ipinfo_lite.csv.gz
+            else
+              echo "第二个地址也失败，内容："
+              cat ipinfo_lite.csv.gz
+              exit 1
+            fi
+          fi
+          head -2 ipinfo_lite.csv
 
       - name: Run extraction script
         run: python extract.py
