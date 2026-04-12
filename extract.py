@@ -20,35 +20,33 @@ else:
 
     for cc, group in df_ipv4.groupby('country_code'):
         filename = os.path.join(output_dir, f"{cc}.list")
-        cidrs = list(group['network'])
-        print(f"生成 {filename} ({len(cidrs)} 条)...")
+        print(f"正在生成 {filename}...")
         with open(filename, 'w') as f:
             f.write(f"# {cc} IPv4 Surge Ruleset\n")
             f.write(f"# Data source: ipinfo.io (IPInfo Lite)\n")
             f.write(f"# Updated: {now}\n")
-            f.write(f"# Total: {len(cidrs)} rules\n")
+            f.write(f"# Total: {len(group)} rules\n")
             f.write("#\n")
-            for net in cidrs:
+            for net in group['network']:
                 if '/' not in str(net):
                     net = f"{net}/32"
                 f.write(f"IP-CIDR,{net}\n")
-        stats[cc] = len(cidrs)
+        stats[cc] = len(group)
 
     for cc, group in df_ipv6.groupby('country_code'):
         filename = os.path.join(output_dir, f"{cc}_IPv6.list")
-        cidrs = list(group['network'])
-        print(f"生成 {filename} ({len(cidrs)} 条)...")
+        print(f"正在生成 {filename}...")
         with open(filename, 'w') as f:
             f.write(f"# {cc} IPv6 Surge Ruleset\n")
             f.write(f"# Data source: ipinfo.io (IPInfo Lite)\n")
             f.write(f"# Updated: {now}\n")
-            f.write(f"# Total: {len(cidrs)} rules\n")
+            f.write(f"# Total: {len(group)} rules\n")
             f.write("#\n")
-            for net in cidrs:
+            for net in group['network']:
                 if '/' not in str(net):
                     net = f"{net}/128"
                 f.write(f"IP-CIDR6,{net}\n")
-        stats[f"{cc}_IPv6"] = len(cidrs)
+        stats[f"{cc}_IPv6"] = len(group)
 
     total_countries = len(set(k.replace('_IPv6', '') for k in stats))
     total_cidrs = sum(stats.values())
@@ -84,4 +82,4 @@ else:
     with open('README.md', 'w') as f:
         f.write(readme)
 
-    print("全部完成！")
+    print("批量处理完成！")
