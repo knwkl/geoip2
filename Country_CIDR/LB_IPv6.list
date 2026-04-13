@@ -1,6 +1,6 @@
 # LB IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-04-12T13:00:20+00:00
+# Updated: 2026-04-13T02:38:37+00:00
 # Total: 599 rules
 #
 IP-CIDR6,2001:470:19:ea0::/64

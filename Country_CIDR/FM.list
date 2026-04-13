@@ -1,6 +1,6 @@
 # FM IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-04-12T13:00:20+00:00
+# Updated: 2026-04-13T02:38:37+00:00
 # Total: 102 rules
 #
 IP-CIDR,14.1.90.0/23
