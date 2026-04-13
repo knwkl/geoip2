@@ -1,6 +1,6 @@
 # DE IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-04-13T02:38:37+00:00
+# Updated: 2026-04-13T03:47:17+00:00
 # Total: 80755 rules
 #
 IP-CIDR,1.84.255.217/32

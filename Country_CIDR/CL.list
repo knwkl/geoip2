@@ -1,6 +1,6 @@
 # CL IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-04-13T02:38:37+00:00
+# Updated: 2026-04-13T03:47:17+00:00
 # Total: 5197 rules
 #
 IP-CIDR,1.178.205.80/28

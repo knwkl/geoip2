@@ -1,6 +1,6 @@
 # ET IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-04-13T02:38:37+00:00
+# Updated: 2026-04-13T03:47:17+00:00
 # Total: 132 rules
 #
 IP-CIDR,5.62.60.129/32

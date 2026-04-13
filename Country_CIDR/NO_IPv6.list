@@ -1,6 +1,6 @@
 # NO IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-04-13T02:38:37+00:00
+# Updated: 2026-04-13T03:47:17+00:00
 # Total: 8628 rules
 #
 IP-CIDR6,2001:450:2002:217::/64
