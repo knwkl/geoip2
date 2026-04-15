@@ -1,6 +1,6 @@
 # MO IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-04-14T02:32:25+00:00
+# Updated: 2026-04-15T02:30:46+00:00
 # Total: 332 rules
 #
 IP-CIDR,5.62.60.241/32
