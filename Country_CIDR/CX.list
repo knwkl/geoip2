@@ -1,13 +1,12 @@
 # CX IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-04-15T02:30:46+00:00
-# Total: 19 rules
+# Updated: 2026-04-16T02:37:32+00:00
+# Total: 18 rules
 #
 IP-CIDR,5.62.60.89/32
 IP-CIDR,5.62.60.90/31
 IP-CIDR,5.62.62.84/30
 IP-CIDR,5.175.190.157/32
-IP-CIDR,44.32.192.78/32
 IP-CIDR,104.28.9.66/31
 IP-CIDR,104.28.9.68/32
 IP-CIDR,136.23.3.228/32

@@ -1,6 +1,6 @@
 # LC IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-04-15T02:30:46+00:00
+# Updated: 2026-04-16T02:37:32+00:00
 # Total: 131 rules
 #
 IP-CIDR,5.62.56.200/30
