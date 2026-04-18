@@ -1,7 +1,7 @@
 # GQ IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-04-17T02:33:11+00:00
-# Total: 219 rules
+# Updated: 2026-04-18T02:24:19+00:00
+# Total: 218 rules
 #
 IP-CIDR6,2001:470:36:ea::/64
 IP-CIDR6,2001:470:8c13::/48
@@ -14,7 +14,6 @@ IP-CIDR6,2401:b60:1422::/47
 IP-CIDR6,2401:b60:1424::/46
 IP-CIDR6,2401:b60:1428::/45
 IP-CIDR6,2401:f1e0:ffff:8439:b3aa:121c:bc56:4acb/128
-IP-CIDR6,2401:f1e0:ffff:cfb8:d3b9:9ebf:abf8:3d56/128
 IP-CIDR6,2405:b500:2e00::/64
 IP-CIDR6,2405:b500:2e20::/64
 IP-CIDR6,2405:b500:2e40::/64

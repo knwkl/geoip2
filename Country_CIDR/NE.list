@@ -1,6 +1,6 @@
 # NE IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-04-17T02:33:11+00:00
+# Updated: 2026-04-18T02:24:19+00:00
 # Total: 133 rules
 #
 IP-CIDR,5.22.192.0/22

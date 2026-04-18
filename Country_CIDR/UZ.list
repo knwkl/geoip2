@@ -1,7 +1,7 @@
 # UZ IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-04-17T02:33:11+00:00
-# Total: 724 rules
+# Updated: 2026-04-18T02:24:19+00:00
+# Total: 723 rules
 #
 IP-CIDR,2.57.149.0/24
 IP-CIDR,5.62.61.205/32
@@ -726,4 +726,3 @@ IP-CIDR,217.30.160.0/20
 IP-CIDR,217.65.77.0/24
 IP-CIDR,217.107.81.182/32
 IP-CIDR,217.217.217.0/24
-IP-CIDR,223.121.2.93/32

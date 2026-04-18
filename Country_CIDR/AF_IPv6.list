@@ -1,6 +1,6 @@
 # AF IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-04-17T02:33:11+00:00
+# Updated: 2026-04-18T02:24:19+00:00
 # Total: 1033 rules
 #
 IP-CIDR6,2001:470:5:8::/64
@@ -672,7 +672,7 @@ IP-CIDR6,2401:b60:1008::/45
 IP-CIDR6,2401:1520::/32
 IP-CIDR6,2401:8080::/32
 IP-CIDR6,2401:f1e0:ffff:515e:e298:5ecc:6843:5168/128
-IP-CIDR6,2401:f1e0:ffff:c9c4::/64
+IP-CIDR6,2401:f1e0:ffff:c9c4:3e5d:3630:66d8:fa1f/128
 IP-CIDR6,2402:1ca0::/33
 IP-CIDR6,2402:1ca0:8000::/33
 IP-CIDR6,2402:2880::/32
@@ -719,7 +719,7 @@ IP-CIDR6,2620:0:1cff:dead:beef::1b72/128
 IP-CIDR6,2620:0:1cff:dead:beef::1d30/128
 IP-CIDR6,2620:0:1cff:dead:beef::1d32/128
 IP-CIDR6,2620:0:1cff:dead:beef::1d34/128
-IP-CIDR6,2620:0:1cff:dead:beef::1d36/128
+IP-CIDR6,2620:0:1cff:dead:beef::1d36/127
 IP-CIDR6,2620:0:1cff:dead:beef::2204/128
 IP-CIDR6,2620:0:1cff:dead:beef::2728/128
 IP-CIDR6,2620:0:1cff:dead:beef::2754/128
