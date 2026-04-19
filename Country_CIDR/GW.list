@@ -1,6 +1,6 @@
 # GW IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-04-18T02:24:19+00:00
+# Updated: 2026-04-19T02:38:23+00:00
 # Total: 64 rules
 #
 IP-CIDR,5.62.60.169/32

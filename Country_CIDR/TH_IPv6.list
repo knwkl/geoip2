@@ -1,6 +1,6 @@
 # TH IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-04-18T02:24:19+00:00
+# Updated: 2026-04-19T02:38:23+00:00
 # Total: 6084 rules
 #
 IP-CIDR6,2001:218:0:1000::12/128

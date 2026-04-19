@@ -1,12 +1,11 @@
 # BF IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-04-18T02:24:19+00:00
-# Total: 427 rules
+# Updated: 2026-04-19T02:38:23+00:00
+# Total: 426 rules
 #
 IP-CIDR6,2001:470:24:908::/64
 IP-CIDR6,2001:470:24:956::/64
 IP-CIDR6,2001:470:36:9d::/64
-IP-CIDR6,2001:470:36:3f7::/64
 IP-CIDR6,2001:470:36:8b6::/64
 IP-CIDR6,2001:470:6d:1196::/64
 IP-CIDR6,2001:470:1f09:11d0::/64
