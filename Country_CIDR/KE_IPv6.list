@@ -1,7 +1,7 @@
 # KE IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-04-19T02:38:23+00:00
-# Total: 3339 rules
+# Updated: 2026-04-20T02:38:52+00:00
+# Total: 3340 rules
 #
 IP-CIDR6,2001:470:0:a6::1/128
 IP-CIDR6,2001:470:0:a6::2/128
@@ -979,9 +979,9 @@ IP-CIDR6,2620:0:1cff:dead:beef::4714/127
 IP-CIDR6,2620:0:1cff:dead:beef::56bb/128
 IP-CIDR6,2620:0:1cff:dead:beef::5d11/128
 IP-CIDR6,2620:0:1cff:dead:beef::5f51/128
-IP-CIDR6,2620:0:1cff:dead:beef::6065/128
-IP-CIDR6,2620:0:1cff:dead:beef::6075/128
-IP-CIDR6,2620:0:1cff:dead:beef::6083/128
+IP-CIDR6,2620:0:1cff:dead:beef::6064/127
+IP-CIDR6,2620:0:1cff:dead:beef::6074/127
+IP-CIDR6,2620:0:1cff:dead:beef::6082/127
 IP-CIDR6,2620:0:1cff:dead:beef::65e1/128
 IP-CIDR6,2620:0:1cff:dead:beef::6901/128
 IP-CIDR6,2620:0:1cff:dead:beef::6931/128
@@ -2391,6 +2391,7 @@ IP-CIDR6,2c0f:47a0::/32
 IP-CIDR6,2c0f:48a0::/32
 IP-CIDR6,2c0f:4920::/32
 IP-CIDR6,2c0f:4980::/32
+IP-CIDR6,2c0f:4a20::/32
 IP-CIDR6,2c0f:4b40::/32
 IP-CIDR6,2c0f:4d80::/32
 IP-CIDR6,2c0f:4e40::/32

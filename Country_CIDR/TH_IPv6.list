@@ -1,7 +1,7 @@
 # TH IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-04-19T02:38:23+00:00
-# Total: 6084 rules
+# Updated: 2026-04-20T02:38:52+00:00
+# Total: 6145 rules
 #
 IP-CIDR6,2001:218:0:1000::12/128
 IP-CIDR6,2001:218:0:2000::f2/128
@@ -3651,6 +3651,7 @@ IP-CIDR6,2600:f0f0:8104::/48
 IP-CIDR6,2600:f0f1:4840::/42
 IP-CIDR6,2600:f0f2:7022::/48
 IP-CIDR6,2602:2a9:d90::/44
+IP-CIDR6,2602:f3f8::/40
 IP-CIDR6,2602:f41d::/40
 IP-CIDR6,2602:f42c::/40
 IP-CIDR6,2602:f5c1:37::/48
@@ -4148,8 +4149,6 @@ IP-CIDR6,2620:0:1cff:dead:beee::4e4/128
 IP-CIDR6,2620:0:1cff:dead:beee::90c/127
 IP-CIDR6,2620:0:1cff:dead:beee::ac2/127
 IP-CIDR6,2620:0:1cff:dead:beee::bf4/128
-IP-CIDR6,2620:0:1cff:dead:beee::e46/128
-IP-CIDR6,2620:0:1cff:dead:beee::eb6/128
 IP-CIDR6,2620:0:1cff:dead:beee::f36/127
 IP-CIDR6,2620:0:1cff:dead:beee::fb4/128
 IP-CIDR6,2620:0:1cff:dead:beee::113c/127
@@ -4208,10 +4207,72 @@ IP-CIDR6,2620:0:1cff:dead:beef::8396/128
 IP-CIDR6,2620:0:1cff:dead:beef::8398/125
 IP-CIDR6,2620:0:1cff:dead:beef::83a0/126
 IP-CIDR6,2620:0:1cff:dead:beef::83a4/127
+IP-CIDR6,2620:0:1cff:dead:beef::841b/128
+IP-CIDR6,2620:0:1cff:dead:beef::841d/128
+IP-CIDR6,2620:0:1cff:dead:beef::841f/128
+IP-CIDR6,2620:0:1cff:dead:beef::8421/128
+IP-CIDR6,2620:0:1cff:dead:beef::8423/128
+IP-CIDR6,2620:0:1cff:dead:beef::8425/128
+IP-CIDR6,2620:0:1cff:dead:beef::8427/128
+IP-CIDR6,2620:0:1cff:dead:beef::8429/128
+IP-CIDR6,2620:0:1cff:dead:beef::842b/128
+IP-CIDR6,2620:0:1cff:dead:beef::8435/128
+IP-CIDR6,2620:0:1cff:dead:beef::8437/128
+IP-CIDR6,2620:0:1cff:dead:beef::8441/128
+IP-CIDR6,2620:0:1cff:dead:beef::8443/128
+IP-CIDR6,2620:0:1cff:dead:beef::844d/128
+IP-CIDR6,2620:0:1cff:dead:beef::844f/128
+IP-CIDR6,2620:0:1cff:dead:beef::8459/128
+IP-CIDR6,2620:0:1cff:dead:beef::845b/128
+IP-CIDR6,2620:0:1cff:dead:beef::845f/128
+IP-CIDR6,2620:0:1cff:dead:beef::8461/128
+IP-CIDR6,2620:0:1cff:dead:beef::8463/128
+IP-CIDR6,2620:0:1cff:dead:beef::8465/128
+IP-CIDR6,2620:0:1cff:dead:beef::8467/128
+IP-CIDR6,2620:0:1cff:dead:beef::8469/128
+IP-CIDR6,2620:0:1cff:dead:beef::846b/128
+IP-CIDR6,2620:0:1cff:dead:beef::8471/128
+IP-CIDR6,2620:0:1cff:dead:beef::8473/128
+IP-CIDR6,2620:0:1cff:dead:beef::8475/128
+IP-CIDR6,2620:0:1cff:dead:beef::8477/128
+IP-CIDR6,2620:0:1cff:dead:beef::847b/128
+IP-CIDR6,2620:0:1cff:dead:beef::847d/128
+IP-CIDR6,2620:0:1cff:dead:beef::8481/128
+IP-CIDR6,2620:0:1cff:dead:beef::8483/128
+IP-CIDR6,2620:0:1cff:dead:beef::8487/128
+IP-CIDR6,2620:0:1cff:dead:beef::8489/128
+IP-CIDR6,2620:0:1cff:dead:beef::848b/128
+IP-CIDR6,2620:0:1cff:dead:beef::8495/128
+IP-CIDR6,2620:0:1cff:dead:beef::8497/128
+IP-CIDR6,2620:0:1cff:dead:beef::84a1/128
+IP-CIDR6,2620:0:1cff:dead:beef::84a3/128
+IP-CIDR6,2620:0:1cff:dead:beef::84af/128
+IP-CIDR6,2620:0:1cff:dead:beef::84b9/128
 IP-CIDR6,2620:0:1cff:dead:beef::84bb/128
+IP-CIDR6,2620:0:1cff:dead:beef::84bd/128
+IP-CIDR6,2620:0:1cff:dead:beef::84bf/128
+IP-CIDR6,2620:0:1cff:dead:beef::84c1/128
+IP-CIDR6,2620:0:1cff:dead:beef::84c3/128
+IP-CIDR6,2620:0:1cff:dead:beef::84c5/128
+IP-CIDR6,2620:0:1cff:dead:beef::84c7/128
+IP-CIDR6,2620:0:1cff:dead:beef::84c9/128
 IP-CIDR6,2620:0:1cff:dead:beef::84cb/128
+IP-CIDR6,2620:0:1cff:dead:beef::84cd/128
+IP-CIDR6,2620:0:1cff:dead:beef::84cf/128
+IP-CIDR6,2620:0:1cff:dead:beef::84d3/128
+IP-CIDR6,2620:0:1cff:dead:beef::84d5/128
 IP-CIDR6,2620:0:1cff:dead:beef::84d7/128
+IP-CIDR6,2620:0:1cff:dead:beef::84d9/128
+IP-CIDR6,2620:0:1cff:dead:beef::84dd/128
+IP-CIDR6,2620:0:1cff:dead:beef::84df/128
+IP-CIDR6,2620:0:1cff:dead:beef::84e1/128
+IP-CIDR6,2620:0:1cff:dead:beef::84e3/128
+IP-CIDR6,2620:0:1cff:dead:beef::84e5/128
 IP-CIDR6,2620:0:1cff:dead:beef::84e7/128
+IP-CIDR6,2620:0:1cff:dead:beef::84e9/128
+IP-CIDR6,2620:0:1cff:dead:beef::84eb/128
+IP-CIDR6,2620:0:1cff:dead:beef::84f5/128
+IP-CIDR6,2620:0:1cff:dead:beef::84f7/128
 IP-CIDR6,2620:0:1cff:dead:beef::8501/128
 IP-CIDR6,2620:0:1cff:dead:beef::8503/128
 IP-CIDR6,2620:0:1cff:dead:beef::850d/128
