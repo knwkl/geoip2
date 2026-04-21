@@ -1,6 +1,6 @@
 # BH IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-04-20T02:38:52+00:00
+# Updated: 2026-04-21T02:34:12+00:00
 # Total: 377 rules
 #
 IP-CIDR,1.178.16.0/24
