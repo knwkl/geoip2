@@ -1,6 +1,6 @@
 # NG IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-04-21T02:34:12+00:00
+# Updated: 2026-04-22T02:32:34+00:00
 # Total: 2536 rules
 #
 IP-CIDR6,2001:470:0:605::2/128
@@ -83,6 +83,7 @@ IP-CIDR6,2001:470:f5b5::/48
 IP-CIDR6,2001:470:f62c::/48
 IP-CIDR6,2001:470:f6ad::/48
 IP-CIDR6,2001:470:f6ba::/48
+IP-CIDR6,2001:470:f850::/48
 IP-CIDR6,2001:470:f8df::/48
 IP-CIDR6,2001:470:fd80:1::/64
 IP-CIDR6,2001:470:fd80:2::/63
@@ -543,6 +544,7 @@ IP-CIDR6,2620:0:1cff:dead:beef::2dca/127
 IP-CIDR6,2620:0:1cff:dead:beef::2dcc/127
 IP-CIDR6,2620:0:1cff:dead:beef::2e1b/128
 IP-CIDR6,2620:0:1cff:dead:beef::2e1d/128
+IP-CIDR6,2620:0:1cff:dead:beef::332c/127
 IP-CIDR6,2620:0:1cff:dead:beef::36d2/127
 IP-CIDR6,2620:0:1cff:dead:beef::36d8/126
 IP-CIDR6,2620:0:1cff:dead:beef::36dd/128
@@ -552,9 +554,7 @@ IP-CIDR6,2620:0:1cff:dead:beef::3998/127
 IP-CIDR6,2620:0:1cff:dead:beef::39db/128
 IP-CIDR6,2620:0:1cff:dead:beef::39df/128
 IP-CIDR6,2620:0:1cff:dead:beef::3b47/128
-IP-CIDR6,2620:0:1cff:dead:beef::3fd6/127
-IP-CIDR6,2620:0:1cff:dead:beef::3fda/127
-IP-CIDR6,2620:0:1cff:dead:beef::3fde/127
+IP-CIDR6,2620:0:1cff:dead:beef::3fde/128
 IP-CIDR6,2620:0:1cff:dead:beef::4156/127
 IP-CIDR6,2620:0:1cff:dead:beef::415a/127
 IP-CIDR6,2620:0:1cff:dead:beef::43e4/127
@@ -623,9 +623,6 @@ IP-CIDR6,2620:0:1cff:dead:beef::7e12/127
 IP-CIDR6,2620:0:1cff:dead:beef::7e83/128
 IP-CIDR6,2620:0:1cff:dead:beef::7e84/128
 IP-CIDR6,2620:0:1cff:dead:beef::7e87/128
-IP-CIDR6,2620:0:1cff:dead:beef::8295/128
-IP-CIDR6,2620:0:1cff:dead:beef::8297/128
-IP-CIDR6,2620:0:1cff:dead:beef::8299/128
 IP-CIDR6,2620:0:1cff:dead:beef::9835/128
 IP-CIDR6,2620:0:1cff:dead:beef::9c85/128
 IP-CIDR6,2620:0:1cff:dead:beef::9c87/128
@@ -651,7 +648,10 @@ IP-CIDR6,2620:134:b054:100::28/127
 IP-CIDR6,2620:171:b8::/48
 IP-CIDR6,2620:171:c5::/48
 IP-CIDR6,2a00:ca0:2002:d000::/52
-IP-CIDR6,2a00:ca0:2004:7000::/52
+IP-CIDR6,2a00:ca0:2004:4000::/50
+IP-CIDR6,2a00:ca0:2004:9000::/52
+IP-CIDR6,2a00:ca0:2004:a000::/51
+IP-CIDR6,2a00:ca0:2004:e000::/51
 IP-CIDR6,2a00:ca0:2005:3000::/52
 IP-CIDR6,2a00:ca0:2005:b000::/52
 IP-CIDR6,2a00:ca0:201a:3000::/52

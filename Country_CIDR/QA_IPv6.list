@@ -1,7 +1,7 @@
 # QA IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-04-21T02:34:12+00:00
-# Total: 2497 rules
+# Updated: 2026-04-22T02:32:34+00:00
+# Total: 2500 rules
 #
 IP-CIDR6,2001:470:28:b70::/64
 IP-CIDR6,2001:470:6d:551::/64
@@ -569,7 +569,8 @@ IP-CIDR6,2001:1a11:1b5::/48
 IP-CIDR6,2001:1a11:1b6::/47
 IP-CIDR6,2001:1a11:1b8::/47
 IP-CIDR6,2001:1a11:1ba::/47
-IP-CIDR6,2001:1a11:1bc::/47
+IP-CIDR6,2001:1a11:1bc::/48
+IP-CIDR6,2001:1a11:1bd::/48
 IP-CIDR6,2001:1a11:1be::/48
 IP-CIDR6,2001:1a11:1bf::/48
 IP-CIDR6,2001:1a11:1c0::/47
@@ -1101,6 +1102,8 @@ IP-CIDR6,2620:0:1cff:dead:beef::4678/127
 IP-CIDR6,2620:0:1cff:dead:beef::467c/127
 IP-CIDR6,2620:0:1cff:dead:beef::4680/127
 IP-CIDR6,2620:0:1cff:dead:beef::4f8a/127
+IP-CIDR6,2620:0:1cff:dead:beef::511b/128
+IP-CIDR6,2620:0:1cff:dead:beef::511d/128
 IP-CIDR6,2620:0:1cff:dead:beef::5546/127
 IP-CIDR6,2620:0:1cff:dead:beef::5548/128
 IP-CIDR6,2620:0:1cff:dead:beef::55ed/128

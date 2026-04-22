@@ -1,6 +1,6 @@
 # BM IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-04-21T02:34:12+00:00
+# Updated: 2026-04-22T02:32:34+00:00
 # Total: 219 rules
 #
 IP-CIDR6,2001:470:19:e4b::/64
