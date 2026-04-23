@@ -1,7 +1,7 @@
 # KR IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-04-22T02:32:34+00:00
-# Total: 7095 rules
+# Updated: 2026-04-23T02:36:01+00:00
+# Total: 7094 rules
 #
 IP-CIDR6,2001:218:0:1000::45/128
 IP-CIDR6,2001:218:0:1000::46/128
@@ -4191,7 +4191,6 @@ IP-CIDR6,2a01:b747:535::/48
 IP-CIDR6,2a01:b747:536::/48
 IP-CIDR6,2a01:b747:5f1::/48
 IP-CIDR6,2a01:ce9f::/36
-IP-CIDR6,2a01:ffc7:100::/40
 IP-CIDR6,2a02:56f:ff10::/48
 IP-CIDR6,2a02:26f7:c2::/48
 IP-CIDR6,2a02:26f7:f8::/48
