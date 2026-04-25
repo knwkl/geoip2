@@ -1,7 +1,7 @@
 # PE IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-04-24T02:36:29+00:00
-# Total: 3661 rules
+# Updated: 2026-04-25T02:26:28+00:00
+# Total: 3660 rules
 #
 IP-CIDR6,2001:470:5:37::/64
 IP-CIDR6,2001:470:5:4b::/64
@@ -1792,7 +1792,6 @@ IP-CIDR6,2a00:79e0:2600::/48
 IP-CIDR6,2a00:79e0:3600::/55
 IP-CIDR6,2a00:79e0:ffe3:ad00::/56
 IP-CIDR6,2a00:79e0:ffe5:3600::/56
-IP-CIDR6,2a00:79e1:abd:ea00::/56
 IP-CIDR6,2a00:79e1:2600::/56
 IP-CIDR6,2a00:79e1:3600::/56
 IP-CIDR6,2a00:79e1:f002:1a00::/56

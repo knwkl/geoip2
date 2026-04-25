@@ -1,6 +1,6 @@
 # EG IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-04-24T02:36:29+00:00
+# Updated: 2026-04-25T02:26:28+00:00
 # Total: 3917 rules
 #
 IP-CIDR6,2001:470:8:2a2::/64
