@@ -1,7 +1,7 @@
 # SK IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-04-25T02:26:28+00:00
-# Total: 2139 rules
+# Updated: 2026-04-26T02:41:47+00:00
+# Total: 2140 rules
 #
 IP-CIDR6,2001:438:ffff::407d:1c88/128
 IP-CIDR6,2001:470:0:2c0::2/128
@@ -1077,6 +1077,7 @@ IP-CIDR6,2a01:c847:1f0::/45
 IP-CIDR6,2a01:c847:200::/40
 IP-CIDR6,2a01:c847:300::/41
 IP-CIDR6,2a01:c847:380::/44
+IP-CIDR6,2a01:c847:390::/49
 IP-CIDR6,2a01:c847:398::/45
 IP-CIDR6,2a01:c847:3a0::/45
 IP-CIDR6,2a01:c847:3a8::/46

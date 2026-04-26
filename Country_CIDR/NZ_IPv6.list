@@ -1,7 +1,7 @@
 # NZ IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-04-25T02:26:28+00:00
-# Total: 7347 rules
+# Updated: 2026-04-26T02:41:47+00:00
+# Total: 7348 rules
 #
 IP-CIDR6,2001:470:0:286::2/128
 IP-CIDR6,2001:470:0:2ac::/64
@@ -7207,7 +7207,8 @@ IP-CIDR6,2c0f:f530:f035::/48
 IP-CIDR6,2c0f:f530:f036::/47
 IP-CIDR6,2c0f:f530:f038::/45
 IP-CIDR6,2c0f:f530:f040::/45
-IP-CIDR6,2c0f:f530:f049::/48
+IP-CIDR6,2c0f:f530:f048::/47
+IP-CIDR6,2c0f:f530:f04a::/48
 IP-CIDR6,2c0f:f530:f04c:1::/64
 IP-CIDR6,2c0f:f530:f04c:2::/63
 IP-CIDR6,2c0f:f530:f04c:4::/62

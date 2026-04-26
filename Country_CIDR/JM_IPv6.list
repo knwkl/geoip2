@@ -1,7 +1,7 @@
 # JM IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-04-25T02:26:28+00:00
-# Total: 451 rules
+# Updated: 2026-04-26T02:41:47+00:00
+# Total: 452 rules
 #
 IP-CIDR6,2001:470:5:cc::/64
 IP-CIDR6,2001:470:5:186::/64
@@ -220,6 +220,7 @@ IP-CIDR6,2a02:26f7:bdd0::/46
 IP-CIDR6,2a02:26f7:bdd4:4000::/64
 IP-CIDR6,2a02:26f7:bdd4:4800::/62
 IP-CIDR6,2a02:26f7:bdd4:4804::/64
+IP-CIDR6,2a02:26f7:bdd4:8000::/49
 IP-CIDR6,2a02:26f7:bdd5::/48
 IP-CIDR6,2a02:26f7:bdd6::/47
 IP-CIDR6,2a02:26f7:bdd8::/45
