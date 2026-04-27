@@ -1,7 +1,7 @@
 # KZ IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-04-26T02:41:47+00:00
-# Total: 3286 rules
+# Updated: 2026-04-27T02:43:50+00:00
+# Total: 3287 rules
 #
 IP-CIDR6,2001:470:5:216::/64
 IP-CIDR6,2001:470:5:4e3::/64
@@ -1260,6 +1260,7 @@ IP-CIDR6,2a02:6bf:a020:5400::/56
 IP-CIDR6,2a02:6bf:a021:6500::/56
 IP-CIDR6,2a02:6bf:a021:6600::/55
 IP-CIDR6,2a02:6bf:a021:6800::/56
+IP-CIDR6,2a02:6bf:a022:b500::/56
 IP-CIDR6,2a02:6bf:a028::/56
 IP-CIDR6,2a02:26f7:ce00:4000::/64
 IP-CIDR6,2a02:26f7:ce00:d2c0::/62

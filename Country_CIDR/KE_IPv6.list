@@ -1,7 +1,7 @@
 # KE IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-04-26T02:41:47+00:00
-# Total: 3477 rules
+# Updated: 2026-04-27T02:43:50+00:00
+# Total: 3422 rules
 #
 IP-CIDR6,2001:470:0:a6::1/128
 IP-CIDR6,2001:470:0:a6::2/128
@@ -1023,7 +1023,6 @@ IP-CIDR6,2a00:1450:401a:4::/63
 IP-CIDR6,2a00:79e0:8b::/48
 IP-CIDR6,2a00:79e0:287f::/48
 IP-CIDR6,2a00:79e0:3801::/55
-IP-CIDR6,2a00:79e0:ffe5:7500::/56
 IP-CIDR6,2a00:79e0:ffe5:7a00::/56
 IP-CIDR6,2a00:79e1:2800:7f00::/56
 IP-CIDR6,2a00:79e1:3800:8000::/56
@@ -3324,26 +3323,7 @@ IP-CIDR6,2c0f:fe40:fffe:8000::/49
 IP-CIDR6,2c0f:fe40:ffff::/48
 IP-CIDR6,2c0f:fe88::/32
 IP-CIDR6,2c0f:feb0:0:1::/64
-IP-CIDR6,2c0f:feb0:0:2::/63
-IP-CIDR6,2c0f:feb0:0:4::/63
-IP-CIDR6,2c0f:feb0:0:7::/64
-IP-CIDR6,2c0f:feb0:0:e::/63
-IP-CIDR6,2c0f:feb0:0:11::/64
-IP-CIDR6,2c0f:feb0:0:13::/64
-IP-CIDR6,2c0f:feb0:0:15::/64
-IP-CIDR6,2c0f:feb0:0:16::/64
-IP-CIDR6,2c0f:feb0:0:18::/61
-IP-CIDR6,2c0f:feb0:0:20::/59
-IP-CIDR6,2c0f:feb0:0:40::/58
-IP-CIDR6,2c0f:feb0:0:80::/57
-IP-CIDR6,2c0f:feb0:0:100::/56
-IP-CIDR6,2c0f:feb0:0:200::/55
-IP-CIDR6,2c0f:feb0:0:400::/54
-IP-CIDR6,2c0f:feb0:0:800::/53
-IP-CIDR6,2c0f:feb0:0:1000::/52
-IP-CIDR6,2c0f:feb0:0:2000::/51
-IP-CIDR6,2c0f:feb0:0:4000::/50
-IP-CIDR6,2c0f:feb0:0:8000::/49
+IP-CIDR6,2c0f:feb0:0:2::/64
 IP-CIDR6,2c0f:feb0:1::2/128
 IP-CIDR6,2c0f:feb0:1::5/128
 IP-CIDR6,2c0f:feb0:1::6/128
@@ -3412,48 +3392,13 @@ IP-CIDR6,2c0f:feb0:1:2::acd/128
 IP-CIDR6,2c0f:feb0:1:2::b81/128
 IP-CIDR6,2c0f:feb0:1:2::bd6/128
 IP-CIDR6,2c0f:feb0:2::/47
-IP-CIDR6,2c0f:feb0:4:2::/64
-IP-CIDR6,2c0f:feb0:4:4::/64
-IP-CIDR6,2c0f:feb0:4:4000::/50
-IP-CIDR6,2c0f:feb0:4:8000::/49
-IP-CIDR6,2c0f:feb0:5::/48
-IP-CIDR6,2c0f:feb0:6::/48
-IP-CIDR6,2c0f:feb0:7:4000::/50
-IP-CIDR6,2c0f:feb0:7:8000::/49
-IP-CIDR6,2c0f:feb0:9:4000::/50
-IP-CIDR6,2c0f:feb0:9:8000::/49
-IP-CIDR6,2c0f:feb0:d:4000::/50
-IP-CIDR6,2c0f:feb0:d:8000::/49
-IP-CIDR6,2c0f:feb0:e:4000::/50
-IP-CIDR6,2c0f:feb0:e:8000::/49
-IP-CIDR6,2c0f:feb0:f::/48
-IP-CIDR6,2c0f:feb0:10::/48
-IP-CIDR6,2c0f:feb0:11:4000::/50
-IP-CIDR6,2c0f:feb0:11:8000::/49
-IP-CIDR6,2c0f:feb0:12::/48
-IP-CIDR6,2c0f:feb0:13:4000::/50
-IP-CIDR6,2c0f:feb0:13:8000::/49
-IP-CIDR6,2c0f:feb0:14::/48
 IP-CIDR6,2c0f:feb0:16::/47
-IP-CIDR6,2c0f:feb0:18::/47
-IP-CIDR6,2c0f:feb0:1a::/48
-IP-CIDR6,2c0f:feb0:1b:4000::/50
-IP-CIDR6,2c0f:feb0:1b:8000::/49
-IP-CIDR6,2c0f:feb0:1d:4000::/50
-IP-CIDR6,2c0f:feb0:1d:8000::/49
-IP-CIDR6,2c0f:feb0:21::/48
-IP-CIDR6,2c0f:feb0:22::/47
-IP-CIDR6,2c0f:feb0:24::/46
-IP-CIDR6,2c0f:feb0:28::/48
-IP-CIDR6,2c0f:feb1::/48
 IP-CIDR6,2c0f:feb1:4::/48
 IP-CIDR6,2c0f:feb1:6::/48
-IP-CIDR6,2c0f:feb1:a::/47
+IP-CIDR6,2c0f:feb1:a::/48
 IP-CIDR6,2c0f:feb1:d::/48
-IP-CIDR6,2c0f:feb1:e::/48
 IP-CIDR6,2c0f:feb1:ff7f::d/128
 IP-CIDR6,2c0f:feb1:ff7f::15/128
-IP-CIDR6,2c0f:feb1:ff7f:8::/64
 IP-CIDR6,2c0f:fef0:0:a::/64
 IP-CIDR6,2c0f:fef0:0:c::/64
 IP-CIDR6,2c0f:fef0:0:e::/63

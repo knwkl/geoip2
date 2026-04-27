@@ -1,9 +1,8 @@
 # MZ IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-04-26T02:41:47+00:00
-# Total: 1083 rules
+# Updated: 2026-04-27T02:43:50+00:00
+# Total: 1100 rules
 #
-IP-CIDR6,2001:470:24:63e::/64
 IP-CIDR6,2001:470:36:208::/64
 IP-CIDR6,2001:470:36:43a::/64
 IP-CIDR6,2001:470:36:5fd::/64
@@ -1069,6 +1068,7 @@ IP-CIDR6,2c0f:fb48::/32
 IP-CIDR6,2c0f:fb90::/32
 IP-CIDR6,2c0f:fd50:2:4000::/50
 IP-CIDR6,2c0f:fd50:2:8000::/49
+IP-CIDR6,2c0f:feb0:0:8::/64
 IP-CIDR6,2c0f:feb0:1::61/128
 IP-CIDR6,2c0f:feb0:1::62/128
 IP-CIDR6,2c0f:feb0:1::65/128
@@ -1086,3 +1086,20 @@ IP-CIDR6,2c0f:feb0:1:2::47e/128
 IP-CIDR6,2c0f:feb0:1:2::87e/128
 IP-CIDR6,2c0f:feb0:1:2::889/128
 IP-CIDR6,2c0f:feb0:1:2::88d/128
+IP-CIDR6,2c0f:feb0:9::/48
+IP-CIDR6,2c0f:feb0:1d::/64
+IP-CIDR6,2c0f:feb0:1d:2::/63
+IP-CIDR6,2c0f:feb0:1d:4::/62
+IP-CIDR6,2c0f:feb0:1d:8::/61
+IP-CIDR6,2c0f:feb0:1d:10::/60
+IP-CIDR6,2c0f:feb0:1d:20::/59
+IP-CIDR6,2c0f:feb0:1d:40::/58
+IP-CIDR6,2c0f:feb0:1d:80::/57
+IP-CIDR6,2c0f:feb0:1d:100::/56
+IP-CIDR6,2c0f:feb0:1d:200::/55
+IP-CIDR6,2c0f:feb0:1d:400::/54
+IP-CIDR6,2c0f:feb0:1d:800::/53
+IP-CIDR6,2c0f:feb0:1d:1000::/52
+IP-CIDR6,2c0f:feb0:1d:2000::/51
+IP-CIDR6,2c0f:feb0:1d:4000::/50
+IP-CIDR6,2c0f:feb0:1d:8000::/49
