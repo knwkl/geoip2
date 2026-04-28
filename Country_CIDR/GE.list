@@ -1,7 +1,7 @@
 # GE IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-04-27T02:43:50+00:00
-# Total: 648 rules
+# Updated: 2026-04-28T02:51:48+00:00
+# Total: 647 rules
 #
 IP-CIDR,2.27.26.192/27
 IP-CIDR,2.57.60.0/24
@@ -150,7 +150,6 @@ IP-CIDR,72.56.63.0/24
 IP-CIDR,72.56.216.0/24
 IP-CIDR,72.56.217.0/24
 IP-CIDR,72.56.222.0/23
-IP-CIDR,72.56.254.0/23
 IP-CIDR,74.1.222.0/23
 IP-CIDR,77.74.40.0/21
 IP-CIDR,77.92.224.0/19
