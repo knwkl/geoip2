@@ -1,6 +1,6 @@
 # SX IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-04-29T02:50:43+00:00
+# Updated: 2026-04-30T02:52:19+00:00
 # Total: 78 rules
 #
 IP-CIDR,5.175.190.60/32

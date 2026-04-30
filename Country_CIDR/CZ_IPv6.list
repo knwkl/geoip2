@@ -1,6 +1,6 @@
 # CZ IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-04-29T02:50:43+00:00
+# Updated: 2026-04-30T02:52:19+00:00
 # Total: 9774 rules
 #
 IP-CIDR6,2001:470:0:f1::1/128
