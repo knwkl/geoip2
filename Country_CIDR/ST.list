@@ -1,7 +1,7 @@
 # ST IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-04-30T02:52:19+00:00
-# Total: 63 rules
+# Updated: 2026-05-01T02:59:10+00:00
+# Total: 61 rules
 #
 IP-CIDR,5.62.61.121/32
 IP-CIDR,5.62.61.122/31
@@ -64,5 +64,3 @@ IP-CIDR,196.197.170.0/24
 IP-CIDR,196.198.170.0/24
 IP-CIDR,196.199.170.0/24
 IP-CIDR,197.159.160.0/19
-IP-CIDR,216.66.84.56/32
-IP-CIDR,216.66.84.59/32
