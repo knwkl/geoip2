@@ -1,7 +1,7 @@
 # HU IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-05-01T02:59:10+00:00
-# Total: 4013 rules
+# Updated: 2026-05-02T02:39:55+00:00
+# Total: 4014 rules
 #
 IP-CIDR6,2001:470:0:7f::/64
 IP-CIDR6,2001:470:0:2ba::/64
@@ -595,6 +595,7 @@ IP-CIDR6,2001:470:1f1b:4d3::/64
 IP-CIDR6,2001:470:1f1b:4d5::/64
 IP-CIDR6,2001:470:1f1b:4d8::/63
 IP-CIDR6,2001:470:1f1b:4dc::/63
+IP-CIDR6,2001:470:1f1b:4e3::/64
 IP-CIDR6,2001:470:1f1b:502::/64
 IP-CIDR6,2001:470:1f1b:506::/63
 IP-CIDR6,2001:470:1f1b:514::/63
