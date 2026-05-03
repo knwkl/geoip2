@@ -1,6 +1,6 @@
 # SB IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-05-02T02:39:55+00:00
+# Updated: 2026-05-03T02:51:38+00:00
 # Total: 79 rules
 #
 IP-CIDR,5.62.56.212/30

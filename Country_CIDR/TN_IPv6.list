@@ -1,11 +1,12 @@
 # TN IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-05-02T02:39:55+00:00
-# Total: 465 rules
+# Updated: 2026-05-03T02:51:38+00:00
+# Total: 466 rules
 #
 IP-CIDR6,2001:470:26:2a2::/64
 IP-CIDR6,2001:470:1f13:237::/64
 IP-CIDR6,2001:470:1f13:395::/64
+IP-CIDR6,2001:470:1f13:489::/64
 IP-CIDR6,2001:470:1f13:5be::/64
 IP-CIDR6,2001:470:1f13:6bd::/64
 IP-CIDR6,2001:470:1f13:844::/64

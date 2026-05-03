@@ -1,7 +1,7 @@
 # TZ IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-05-02T02:39:55+00:00
-# Total: 620 rules
+# Updated: 2026-05-03T02:51:38+00:00
+# Total: 616 rules
 #
 IP-CIDR6,2001:470:24:8a0::/64
 IP-CIDR6,2001:470:28:6be::/64
@@ -264,11 +264,7 @@ IP-CIDR6,2a0f:1cc5:b14:ef00::/56
 IP-CIDR6,2a0f:1cc5:b15:ef00::/56
 IP-CIDR6,2a0f:1cc5:b16:ef00::/56
 IP-CIDR6,2a0f:1cc5:b17:ef00::/56
-IP-CIDR6,2a0f:6284:190::/47
-IP-CIDR6,2a0f:6284:192::/48
-IP-CIDR6,2a0f:6284:193::/48
-IP-CIDR6,2a0f:6284:194::/46
-IP-CIDR6,2a0f:6284:198::/45
+IP-CIDR6,2a0f:6284:190::/44
 IP-CIDR6,2a0f:85c1:340::c7:0/112
 IP-CIDR6,2a0f:85c1:81b:fae0::/60
 IP-CIDR6,2a0f:9403:c50::/44
