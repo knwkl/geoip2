@@ -1,7 +1,7 @@
 # XK IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-05-03T02:51:38+00:00
-# Total: 243 rules
+# Updated: 2026-05-04T02:49:01+00:00
+# Total: 244 rules
 #
 IP-CIDR6,2001:470:19:9a::/64
 IP-CIDR6,2001:470:19:48d::/64
@@ -161,17 +161,18 @@ IP-CIDR6,2620:0:1cff:dead:bef1:100:1:106/128
 IP-CIDR6,2620:0:1cff:dead:bef1:100:1:115/128
 IP-CIDR6,2620:0:1cff:dead:bef1:100:1:53f/128
 IP-CIDR6,2620:0:1cff:dead:bef1:100:2:115/128
-IP-CIDR6,2620:0:1cff:dead:bef1:100:3:b5/128
 IP-CIDR6,2620:0:1cff:dead:bef1:100:3:1e9/128
+IP-CIDR6,2620:0:1cff:dead:bef1:100:3:203/128
 IP-CIDR6,2620:0:1cff:dead:bef1:100:3:541/128
 IP-CIDR6,2620:0:1cff:dead:bef1:100:11:115/128
 IP-CIDR6,2620:0:1cff:dead:bef1:100:11:201/128
 IP-CIDR6,2620:0:1cff:dead:bef1:100:11:28b/128
-IP-CIDR6,2620:0:1cff:dead:bef1:100:12:201/128
-IP-CIDR6,2620:0:1cff:dead:bef1:100:12:541/128
+IP-CIDR6,2620:0:1cff:dead:bef1:100:12:af/128
 IP-CIDR6,2620:0:1cff:dead:bef1:100:13:af/128
 IP-CIDR6,2620:0:1cff:dead:bef1:100:13:115/128
 IP-CIDR6,2620:0:1cff:dead:bef1:100:13:201/128
+IP-CIDR6,2620:0:1cff:dead:bef1:100:13:53f/128
+IP-CIDR6,2620:0:1cff:dead:bef1:100:14:af/128
 IP-CIDR6,2620:0:1cff:dead:bef1:100:14:104/128
 IP-CIDR6,2620:0:1cff:dead:bef1:100:14:115/128
 IP-CIDR6,2a00:73a0::/32

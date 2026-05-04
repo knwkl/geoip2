@@ -1,7 +1,7 @@
 # MG IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-05-03T02:51:38+00:00
-# Total: 302 rules
+# Updated: 2026-05-04T02:49:01+00:00
+# Total: 303 rules
 #
 IP-CIDR6,2001:470:19:b48::/64
 IP-CIDR6,2001:470:24:5a0::/64
@@ -93,9 +93,10 @@ IP-CIDR6,2607:8940:4191:7900::/56
 IP-CIDR6,2607:8940:4191:7a00::/56
 IP-CIDR6,2620:0:876:6400::/56
 IP-CIDR6,2620:0:1cff:dead:bef1:100:1:17d/128
-IP-CIDR6,2620:0:1cff:dead:bef1:100:4:141/128
+IP-CIDR6,2620:0:1cff:dead:bef1:100:2:5d5/128
 IP-CIDR6,2620:0:1cff:dead:bef1:100:4:45f/128
 IP-CIDR6,2620:0:1cff:dead:bef1:100:4:465/128
+IP-CIDR6,2620:0:1cff:dead:bef1:100:13:481/128
 IP-CIDR6,2620:0:1cff:dead:bef1:100:13:483/128
 IP-CIDR6,2620:0:1cff:dead:bef1:100:14:13b/128
 IP-CIDR6,2620:0:1cff:dead:bef1:100:14:485/128
