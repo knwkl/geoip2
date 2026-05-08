@@ -1,6 +1,6 @@
 # TW IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-05-07T02:48:50+00:00
+# Updated: 2026-05-08T02:52:13+00:00
 # Total: 11181 rules
 #
 IP-CIDR6,2001:218:0:1000::c/127

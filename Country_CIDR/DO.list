@@ -1,6 +1,6 @@
 # DO IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-05-07T02:48:50+00:00
+# Updated: 2026-05-08T02:52:13+00:00
 # Total: 918 rules
 #
 IP-CIDR,5.53.3.30/32
