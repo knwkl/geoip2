@@ -1,9 +1,8 @@
 # GS IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-05-08T02:52:13+00:00
-# Total: 16 rules
+# Updated: 2026-05-09T02:46:49+00:00
+# Total: 15 rules
 #
-IP-CIDR,5.175.190.186/32
 IP-CIDR,45.136.137.82/31
 IP-CIDR,104.28.10.101/32
 IP-CIDR,104.28.10.102/31

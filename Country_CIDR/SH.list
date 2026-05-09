@@ -1,13 +1,12 @@
 # SH IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-05-08T02:52:13+00:00
-# Total: 24 rules
+# Updated: 2026-05-09T02:46:49+00:00
+# Total: 23 rules
 #
 IP-CIDR,5.62.61.113/32
 IP-CIDR,5.62.61.114/31
 IP-CIDR,5.62.63.89/32
 IP-CIDR,5.62.63.90/31
-IP-CIDR,5.175.190.174/31
 IP-CIDR,80.73.219.74/32
 IP-CIDR,80.73.219.224/27
 IP-CIDR,80.73.222.0/26
