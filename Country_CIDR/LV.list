@@ -1,7 +1,7 @@
 # LV IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-05-09T02:46:49+00:00
-# Total: 2051 rules
+# Updated: 2026-05-10T02:53:34+00:00
+# Total: 2050 rules
 #
 IP-CIDR,2.26.88.24/32
 IP-CIDR,2.26.88.34/31
@@ -56,7 +56,6 @@ IP-CIDR,31.56.117.0/24
 IP-CIDR,31.57.28.0/23
 IP-CIDR,31.57.157.0/24
 IP-CIDR,31.57.158.0/24
-IP-CIDR,31.57.197.0/24
 IP-CIDR,31.58.46.0/24
 IP-CIDR,31.58.77.0/24
 IP-CIDR,31.59.102.0/24

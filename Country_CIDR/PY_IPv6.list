@@ -1,6 +1,6 @@
 # PY IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-05-09T02:46:49+00:00
+# Updated: 2026-05-10T02:53:34+00:00
 # Total: 882 rules
 #
 IP-CIDR6,2001:470:5:307::/64
