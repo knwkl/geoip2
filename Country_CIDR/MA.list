@@ -1,12 +1,13 @@
 # MA IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-05-10T02:53:34+00:00
-# Total: 700 rules
+# Updated: 2026-05-11T03:29:21+00:00
+# Total: 701 rules
 #
 IP-CIDR,5.62.61.37/32
 IP-CIDR,5.62.61.38/31
 IP-CIDR,5.62.63.28/30
 IP-CIDR,5.175.190.161/32
+IP-CIDR,5.182.131.56/31
 IP-CIDR,13.104.140.136/30
 IP-CIDR,23.27.214.0/24
 IP-CIDR,23.247.31.0/24

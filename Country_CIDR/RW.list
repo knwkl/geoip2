@@ -1,13 +1,12 @@
 # RW IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-05-10T02:53:34+00:00
-# Total: 291 rules
+# Updated: 2026-05-11T03:29:21+00:00
+# Total: 290 rules
 #
 IP-CIDR,5.62.61.109/32
 IP-CIDR,5.62.61.110/31
 IP-CIDR,5.62.63.84/30
 IP-CIDR,41.59.100.62/32
-IP-CIDR,41.60.26.105/32
 IP-CIDR,41.74.160.0/20
 IP-CIDR,41.138.80.0/21
 IP-CIDR,41.173.24.0/21

@@ -1,6 +1,6 @@
 # PG IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-05-10T02:53:34+00:00
+# Updated: 2026-05-11T03:29:21+00:00
 # Total: 281 rules
 #
 IP-CIDR6,2001:470:19:8ab::/64
