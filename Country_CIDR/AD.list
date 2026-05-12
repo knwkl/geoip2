@@ -1,6 +1,6 @@
 # AD IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-05-11T03:29:21+00:00
+# Updated: 2026-05-12T02:54:17+00:00
 # Total: 246 rules
 #
 IP-CIDR,2.27.138.0/24

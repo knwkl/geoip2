@@ -1,6 +1,6 @@
 # TG IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-05-11T03:29:21+00:00
+# Updated: 2026-05-12T02:54:17+00:00
 # Total: 128 rules
 #
 IP-CIDR,5.62.61.181/32

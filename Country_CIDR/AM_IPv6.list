@@ -1,13 +1,14 @@
 # AM IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-05-11T03:29:21+00:00
-# Total: 2195 rules
+# Updated: 2026-05-12T02:54:17+00:00
+# Total: 2196 rules
 #
 IP-CIDR6,2001:470:5:19e::/64
 IP-CIDR6,2001:470:5:33e::/64
 IP-CIDR6,2001:470:8:4fc::/64
 IP-CIDR6,2001:470:d:14e::/64
 IP-CIDR6,2001:470:d:32b::/64
+IP-CIDR6,2001:470:d:348::/64
 IP-CIDR6,2001:470:d:3ab::/64
 IP-CIDR6,2001:470:d:46f::/64
 IP-CIDR6,2001:470:d:b7c::/64
