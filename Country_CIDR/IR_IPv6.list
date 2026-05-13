@@ -1,7 +1,7 @@
 # IR IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-05-12T02:54:17+00:00
-# Total: 8624 rules
+# Updated: 2026-05-13T02:58:40+00:00
+# Total: 8640 rules
 #
 IP-CIDR6,2001:470:d:10b3::/64
 IP-CIDR6,2001:470:d:12d9::/64
@@ -7999,7 +7999,23 @@ IP-CIDR6,2a0c:a5c0::/29
 IP-CIDR6,2a0c:a700::/29
 IP-CIDR6,2a0c:a7c0::/30
 IP-CIDR6,2a0c:a7c4::/31
-IP-CIDR6,2a0c:a7c6::/32
+IP-CIDR6,2a0c:a7c6::/43
+IP-CIDR6,2a0c:a7c6:20::/45
+IP-CIDR6,2a0c:a7c6:28::/47
+IP-CIDR6,2a0c:a7c6:2a::/48
+IP-CIDR6,2a0c:a7c6:2b::/48
+IP-CIDR6,2a0c:a7c6:2c::/46
+IP-CIDR6,2a0c:a7c6:30::/44
+IP-CIDR6,2a0c:a7c6:40::/42
+IP-CIDR6,2a0c:a7c6:80::/41
+IP-CIDR6,2a0c:a7c6:100::/40
+IP-CIDR6,2a0c:a7c6:200::/39
+IP-CIDR6,2a0c:a7c6:400::/38
+IP-CIDR6,2a0c:a7c6:800::/37
+IP-CIDR6,2a0c:a7c6:1000::/36
+IP-CIDR6,2a0c:a7c6:2000::/35
+IP-CIDR6,2a0c:a7c6:4000::/34
+IP-CIDR6,2a0c:a7c6:8000::/33
 IP-CIDR6,2a0c:a7c7:100::/40
 IP-CIDR6,2a0c:a7c7:200::/39
 IP-CIDR6,2a0c:a7c7:400::/38
