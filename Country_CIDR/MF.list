@@ -1,6 +1,6 @@
 # MF IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-05-13T02:58:40+00:00
+# Updated: 2026-05-14T03:23:46+00:00
 # Total: 88 rules
 #
 IP-CIDR,5.102.77.0/24

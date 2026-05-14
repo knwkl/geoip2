@@ -1,6 +1,6 @@
 # NG IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-05-13T02:58:40+00:00
+# Updated: 2026-05-14T03:23:46+00:00
 # Total: 2779 rules
 #
 IP-CIDR,3.175.217.0/24

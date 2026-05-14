@@ -1,6 +1,6 @@
 # NP IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-05-13T02:58:40+00:00
+# Updated: 2026-05-14T03:23:46+00:00
 # Total: 553 rules
 #
 IP-CIDR,5.62.24.0/24
