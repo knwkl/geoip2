@@ -1,7 +1,7 @@
 # KI IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-05-15T03:27:50+00:00
-# Total: 275 rules
+# Updated: 2026-05-16T02:51:06+00:00
+# Total: 274 rules
 #
 IP-CIDR6,2001:470:24:409::/64
 IP-CIDR6,2001:470:24:4eb::/64
@@ -228,7 +228,6 @@ IP-CIDR6,2a12:bec4:12a6:95a8::/61
 IP-CIDR6,2a12:bec4:12a6:95b0::/60
 IP-CIDR6,2a12:bec4:12a6:95c0::/61
 IP-CIDR6,2a12:bec4:12a6:95c8::/63
-IP-CIDR6,2a12:bec4:12a8:7b00::/56
 IP-CIDR6,2a12:f001:9000::/36
 IP-CIDR6,2a12:f381:6a00::/40
 IP-CIDR6,2a12:f382:6a00::/40

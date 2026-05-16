@@ -1,7 +1,7 @@
 # LA IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-05-15T03:27:50+00:00
-# Total: 471 rules
+# Updated: 2026-05-16T02:51:06+00:00
+# Total: 470 rules
 #
 IP-CIDR6,2001:470:19:168::/64
 IP-CIDR6,2001:470:19:2ca::/64
@@ -429,7 +429,6 @@ IP-CIDR6,2a11:f145:4000::/36
 IP-CIDR6,2a12:bec4:12a6:2ec0::/58
 IP-CIDR6,2a12:bec4:12a6:2f00::/61
 IP-CIDR6,2a12:bec4:12a6:2f08::/62
-IP-CIDR6,2a12:bec4:12a8:8300::/56
 IP-CIDR6,2a12:f001:d000::/36
 IP-CIDR6,2a12:f381:5e00::/40
 IP-CIDR6,2a12:f382:5e00::/40

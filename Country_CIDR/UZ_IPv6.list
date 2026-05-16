@@ -1,7 +1,7 @@
 # UZ IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-05-15T03:27:50+00:00
-# Total: 1330 rules
+# Updated: 2026-05-16T02:51:06+00:00
+# Total: 1329 rules
 #
 IP-CIDR6,2001:470:19:438::/64
 IP-CIDR6,2001:470:19:e89::/64
@@ -1242,7 +1242,6 @@ IP-CIDR6,2a12:bec4:12a6:5790::/60
 IP-CIDR6,2a12:bec4:12a6:57a0::/59
 IP-CIDR6,2a12:bec4:12a6:57c0::/58
 IP-CIDR6,2a12:bec4:12a6:5800::/61
-IP-CIDR6,2a12:bec4:12a8:ef00::/56
 IP-CIDR6,2a12:ef83::/32
 IP-CIDR6,2a12:f381:f400::/40
 IP-CIDR6,2a12:f382:f400::/40

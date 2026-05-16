@@ -1,7 +1,7 @@
 # KY IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-05-15T03:27:50+00:00
-# Total: 174 rules
+# Updated: 2026-05-16T02:51:06+00:00
+# Total: 173 rules
 #
 IP-CIDR6,2001:470:5:682::/64
 IP-CIDR6,2001:470:24:5cc::/64
@@ -150,7 +150,6 @@ IP-CIDR6,2a12:bec4:12a4:468::/61
 IP-CIDR6,2a12:bec4:12a4:470::/61
 IP-CIDR6,2a12:bec4:12a4:478::/62
 IP-CIDR6,2a12:bec4:12a4:47c::/64
-IP-CIDR6,2a12:bec4:12a8:8100::/56
 IP-CIDR6,2a12:f001:c000::/36
 IP-CIDR6,2a12:f381:6f00::/40
 IP-CIDR6,2a12:f382:6f00::/40
