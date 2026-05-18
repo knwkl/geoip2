@@ -1,8 +1,9 @@
 # SD IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-05-17T03:23:48+00:00
-# Total: 215 rules
+# Updated: 2026-05-18T03:38:11+00:00
+# Total: 216 rules
 #
+IP-CIDR6,2001:470:b:25a::/64
 IP-CIDR6,2001:470:36:185::/64
 IP-CIDR6,2001:470:36:485::/64
 IP-CIDR6,2001:470:6d:26d::/64
