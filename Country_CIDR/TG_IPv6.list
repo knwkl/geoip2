@@ -1,6 +1,6 @@
 # TG IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-05-18T03:38:11+00:00
+# Updated: 2026-05-19T03:31:21+00:00
 # Total: 337 rules
 #
 IP-CIDR6,2001:67c:a38:f228::/64

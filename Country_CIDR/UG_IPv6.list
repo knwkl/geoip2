@@ -1,7 +1,7 @@
 # UG IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-05-18T03:38:11+00:00
-# Total: 660 rules
+# Updated: 2026-05-19T03:31:21+00:00
+# Total: 656 rules
 #
 IP-CIDR6,2001:470:19:344::/64
 IP-CIDR6,2001:470:19:5b8::/64
@@ -547,7 +547,6 @@ IP-CIDR6,2c0f:fe40:2:45::fbf/128
 IP-CIDR6,2c0f:fe40:2:45::fc1/128
 IP-CIDR6,2c0f:fe40:2:84::/64
 IP-CIDR6,2c0f:fe40:fffe::/64
-IP-CIDR6,2c0f:feb0:0:3::/64
 IP-CIDR6,2c0f:feb0:1::25/128
 IP-CIDR6,2c0f:feb0:1::26/128
 IP-CIDR6,2c0f:feb0:1::2a/128
@@ -592,10 +591,7 @@ IP-CIDR6,2c0f:feb0:1:2::7b9/128
 IP-CIDR6,2c0f:feb0:1:2::7ba/128
 IP-CIDR6,2c0f:feb0:1:2::b0d/128
 IP-CIDR6,2c0f:feb0:1:2::b82/128
-IP-CIDR6,2c0f:feb0:4::/48
-IP-CIDR6,2c0f:feb0:18::/48
-IP-CIDR6,2c0f:feb1:b::/48
-IP-CIDR6,2c0f:feb1:e::/48
+IP-CIDR6,2c0f:feb0:4::/50
 IP-CIDR6,2c0f:feb1:ff7f:2::/64
 IP-CIDR6,2c0f:fec0::/32
 IP-CIDR6,2c0f:ff18:4::/46

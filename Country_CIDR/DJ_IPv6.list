@@ -1,7 +1,7 @@
 # DJ IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-05-18T03:38:11+00:00
-# Total: 384 rules
+# Updated: 2026-05-19T03:31:21+00:00
+# Total: 382 rules
 #
 IP-CIDR6,2001:470:0:281::2/128
 IP-CIDR6,2001:470:0:43d::2/128
@@ -385,5 +385,3 @@ IP-CIDR6,2a14:7585:f50b::/48
 IP-CIDR6,2c0f:44c0::/32
 IP-CIDR6,2c0f:fe40:2::1b/128
 IP-CIDR6,2c0f:fe40:2:0:5:11:12:101/128
-IP-CIDR6,2c0f:feb0:6::/48
-IP-CIDR6,2c0f:feb0:1a::/48
