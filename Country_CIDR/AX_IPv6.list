@@ -1,7 +1,7 @@
 # AX IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-05-20T03:31:44+00:00
-# Total: 516 rules
+# Updated: 2026-05-21T03:38:18+00:00
+# Total: 515 rules
 #
 IP-CIDR6,2001:470:8:13c::/64
 IP-CIDR6,2001:470:19:d10::/64
@@ -387,7 +387,6 @@ IP-CIDR6,2a00:5500:90fc:4c80::/57
 IP-CIDR6,2a00:5500:90fc:4d00::/56
 IP-CIDR6,2a00:5500:90fc:4e00::/55
 IP-CIDR6,2a00:5500:90fc:6000::/51
-IP-CIDR6,2a00:5500:90fd:7a00::/56
 IP-CIDR6,2a00:5500:90ff::/48
 IP-CIDR6,2a00:eca0::/32
 IP-CIDR6,2a01:528:8d00::/40

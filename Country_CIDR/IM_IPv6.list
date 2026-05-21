@@ -1,6 +1,6 @@
 # IM IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-05-20T03:31:44+00:00
+# Updated: 2026-05-21T03:38:18+00:00
 # Total: 876 rules
 #
 IP-CIDR6,2001:470:8:21::/64
