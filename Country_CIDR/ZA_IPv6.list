@@ -1,7 +1,7 @@
 # ZA IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-05-21T03:38:18+00:00
-# Total: 10363 rules
+# Updated: 2026-05-22T03:36:53+00:00
+# Total: 10380 rules
 #
 IP-CIDR6,2001:470:0:2d7::1/128
 IP-CIDR6,2001:470:0:303::/64
@@ -8358,7 +8358,24 @@ IP-CIDR6,2c0f:f8f0:9b20::/43
 IP-CIDR6,2c0f:f8f0:9b40::/42
 IP-CIDR6,2c0f:f8f0:9b80::/41
 IP-CIDR6,2c0f:f8f0:9c00::/38
-IP-CIDR6,2c0f:f8f0:c000::/38
+IP-CIDR6,2c0f:f8f0:c000::/40
+IP-CIDR6,2c0f:f8f0:c100::/41
+IP-CIDR6,2c0f:f8f0:c180::/44
+IP-CIDR6,2c0f:f8f0:c190::/45
+IP-CIDR6,2c0f:f8f0:c198::/47
+IP-CIDR6,2c0f:f8f0:c19a::/48
+IP-CIDR6,2c0f:f8f0:c19b:100::/56
+IP-CIDR6,2c0f:f8f0:c19b:200::/55
+IP-CIDR6,2c0f:f8f0:c19b:400::/54
+IP-CIDR6,2c0f:f8f0:c19b:800::/53
+IP-CIDR6,2c0f:f8f0:c19b:1000::/52
+IP-CIDR6,2c0f:f8f0:c19b:2000::/51
+IP-CIDR6,2c0f:f8f0:c19b:4000::/50
+IP-CIDR6,2c0f:f8f0:c19b:8000::/49
+IP-CIDR6,2c0f:f8f0:c19c::/46
+IP-CIDR6,2c0f:f8f0:c1a0::/43
+IP-CIDR6,2c0f:f8f0:c1c0::/42
+IP-CIDR6,2c0f:f8f0:c200::/39
 IP-CIDR6,2c0f:f8f0:c400::/39
 IP-CIDR6,2c0f:f8f0:c601::/48
 IP-CIDR6,2c0f:f8f0:c602::/47
