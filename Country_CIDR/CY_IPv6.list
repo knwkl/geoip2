@@ -1,7 +1,7 @@
 # CY IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-05-22T03:36:53+00:00
-# Total: 2718 rules
+# Updated: 2026-05-23T02:53:55+00:00
+# Total: 2719 rules
 #
 IP-CIDR6,2001:470:24:25f::/64
 IP-CIDR6,2001:470:26:825::/64
@@ -2700,6 +2700,7 @@ IP-CIDR6,2a14:e80:3::/48
 IP-CIDR6,2a14:e80:4::/46
 IP-CIDR6,2a14:e80:8::/45
 IP-CIDR6,2a14:2b40::/48
+IP-CIDR6,2a14:2d45:3600::/40
 IP-CIDR6,2a14:3d40::/29
 IP-CIDR6,2a14:67c1:b635::/48
 IP-CIDR6,2a14:67c2:85d::/48

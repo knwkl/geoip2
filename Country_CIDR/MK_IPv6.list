@@ -1,7 +1,7 @@
 # MK IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-05-22T03:36:53+00:00
-# Total: 483 rules
+# Updated: 2026-05-23T02:53:55+00:00
+# Total: 484 rules
 #
 IP-CIDR6,2001:470:0:648::/64
 IP-CIDR6,2001:470:0:70d::2/128
@@ -470,6 +470,7 @@ IP-CIDR6,2a14:1c1:3000::/37
 IP-CIDR6,2a14:7c5:540::/42
 IP-CIDR6,2a14:7c5:580::/44
 IP-CIDR6,2a14:2680::/29
+IP-CIDR6,2a14:2d45:8f00::/40
 IP-CIDR6,2a14:2d84::/32
 IP-CIDR6,2a14:67c1:b68e::/48
 IP-CIDR6,2a14:67c2:873::/48

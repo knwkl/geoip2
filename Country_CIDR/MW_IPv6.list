@@ -1,7 +1,7 @@
 # MW IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-05-22T03:36:53+00:00
-# Total: 1147 rules
+# Updated: 2026-05-23T02:53:55+00:00
+# Total: 1148 rules
 #
 IP-CIDR6,2001:470:36:144::/64
 IP-CIDR6,2001:470:71:6f1::/64
@@ -1068,6 +1068,7 @@ IP-CIDR6,2a13:ef45:9440::/43
 IP-CIDR6,2a13:ef45:9460::/46
 IP-CIDR6,2a13:ef45:9464::/47
 IP-CIDR6,2a14:1c7:800::/37
+IP-CIDR6,2a14:2d45:9b00::/40
 IP-CIDR6,2a14:3d06:8000::/36
 IP-CIDR6,2a14:67c1:b69a::/48
 IP-CIDR6,2a14:67c2:84f::/48
