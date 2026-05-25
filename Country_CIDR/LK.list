@@ -1,13 +1,12 @@
 # LK IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-05-24T03:33:34+00:00
-# Total: 592 rules
+# Updated: 2026-05-25T03:44:08+00:00
+# Total: 591 rules
 #
 IP-CIDR,5.62.61.153/32
 IP-CIDR,5.62.61.154/31
 IP-CIDR,5.62.63.132/30
 IP-CIDR,5.157.88.0/24
-IP-CIDR,5.175.190.96/32
 IP-CIDR,14.1.78.0/23
 IP-CIDR,14.140.56.0/21
 IP-CIDR,23.249.55.169/32

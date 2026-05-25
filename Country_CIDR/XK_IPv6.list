@@ -1,7 +1,7 @@
 # XK IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-05-24T03:33:34+00:00
-# Total: 234 rules
+# Updated: 2026-05-25T03:44:08+00:00
+# Total: 233 rules
 #
 IP-CIDR6,2001:470:19:9a::/64
 IP-CIDR6,2001:470:19:48d::/64
@@ -166,7 +166,6 @@ IP-CIDR6,2620:0:1cff:dead:bef1:100:12:28b/128
 IP-CIDR6,2620:0:1cff:dead:bef1:100:12:541/128
 IP-CIDR6,2620:0:1cff:dead:bef1:100:13:28b/128
 IP-CIDR6,2620:0:1cff:dead:bef1:100:14:104/128
-IP-CIDR6,2620:0:1cff:dead:bef1:100:14:53f/128
 IP-CIDR6,2a00:73a0::/32
 IP-CIDR6,2a02:26f7:dc80:d887::/64
 IP-CIDR6,2a02:26f7:dc80:d8a2::/64

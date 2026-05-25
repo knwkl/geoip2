@@ -1,9 +1,8 @@
 # PF IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-05-24T03:33:34+00:00
-# Total: 116 rules
+# Updated: 2026-05-25T03:44:08+00:00
+# Total: 115 rules
 #
-IP-CIDR,5.175.190.154/31
 IP-CIDR,38.51.136.0/22
 IP-CIDR,38.122.50.69/32
 IP-CIDR,43.249.176.0/22
