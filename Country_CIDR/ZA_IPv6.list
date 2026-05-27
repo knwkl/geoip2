@@ -1,6 +1,6 @@
 # ZA IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-05-26T03:29:46+00:00
+# Updated: 2026-05-27T03:43:31+00:00
 # Total: 9586 rules
 #
 IP-CIDR6,2001:470:0:2d7::1/128
@@ -2262,7 +2262,8 @@ IP-CIDR6,2620:0:1cff:dead:beef::300f/128
 IP-CIDR6,2620:0:1cff:dead:beef::301d/128
 IP-CIDR6,2620:0:1cff:dead:beef::302b/128
 IP-CIDR6,2620:0:1cff:dead:beef::302d/128
-IP-CIDR6,2620:0:1cff:dead:beef::3360/126
+IP-CIDR6,2620:0:1cff:dead:beef::3361/128
+IP-CIDR6,2620:0:1cff:dead:beef::3363/128
 IP-CIDR6,2620:0:1cff:dead:beef::384e/127
 IP-CIDR6,2620:0:1cff:dead:beef::3850/126
 IP-CIDR6,2620:0:1cff:dead:beef::3854/127
@@ -2298,7 +2299,6 @@ IP-CIDR6,2620:0:1cff:dead:beef::7b11/128
 IP-CIDR6,2620:0:1cff:dead:beef::7b19/128
 IP-CIDR6,2620:0:1cff:dead:beef::7b31/128
 IP-CIDR6,2620:0:1cff:dead:beef::7b39/128
-IP-CIDR6,2620:0:1cff:dead:beef::8457/128
 IP-CIDR6,2620:0:1cff:dead:beef::8510/128
 IP-CIDR6,2620:0:1cff:dead:beef::8512/127
 IP-CIDR6,2620:0:1cff:dead:beef::8514/126

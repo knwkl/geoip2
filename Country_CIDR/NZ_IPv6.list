@@ -1,7 +1,7 @@
 # NZ IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-05-26T03:29:46+00:00
-# Total: 7250 rules
+# Updated: 2026-05-27T03:43:31+00:00
+# Total: 7253 rules
 #
 IP-CIDR6,2001:470:0:286::2/128
 IP-CIDR6,2001:470:0:2ac::2/128
@@ -3474,14 +3474,16 @@ IP-CIDR6,2620:0:1cff:dead:beef::cc/128
 IP-CIDR6,2620:0:1cff:dead:beef::de/128
 IP-CIDR6,2620:0:1cff:dead:beef::e2/128
 IP-CIDR6,2620:0:1cff:dead:beef::6da/128
-IP-CIDR6,2620:0:1cff:dead:beef::22e3/128
+IP-CIDR6,2620:0:1cff:dead:beef::22e2/127
+IP-CIDR6,2620:0:1cff:dead:beef::2419/128
 IP-CIDR6,2620:0:1cff:dead:beef::27a9/128
 IP-CIDR6,2620:0:1cff:dead:beef::29ba/127
 IP-CIDR6,2620:0:1cff:dead:beef::29bc/126
 IP-CIDR6,2620:0:1cff:dead:beef::29c0/125
 IP-CIDR6,2620:0:1cff:dead:beef::29ca/127
-IP-CIDR6,2620:0:1cff:dead:beef::3318/126
-IP-CIDR6,2620:0:1cff:dead:beef::331c/127
+IP-CIDR6,2620:0:1cff:dead:beef::3318/128
+IP-CIDR6,2620:0:1cff:dead:beef::331a/128
+IP-CIDR6,2620:0:1cff:dead:beef::331c/128
 IP-CIDR6,2620:0:1cff:dead:beef::464a/128
 IP-CIDR6,2620:0:1cff:dead:beef::464e/128
 IP-CIDR6,2620:0:1cff:dead:beef::6332/128
@@ -5236,6 +5238,7 @@ IP-CIDR6,2a0a:6043:f000::/36
 IP-CIDR6,2a0a:6044:77ab::/48
 IP-CIDR6,2a0a:6044:77fe:aa::/64
 IP-CIDR6,2a0a:6044:a142:69ad::/64
+IP-CIDR6,2a0a:6044:aca8::/48
 IP-CIDR6,2a0a:6044:ae04::/48
 IP-CIDR6,2a0a:6044:f1ff::/48
 IP-CIDR6,2a0a:6044:f200::/45
@@ -6896,7 +6899,7 @@ IP-CIDR6,2c0f:f530:f007:ce80::/57
 IP-CIDR6,2c0f:f530:f007:cf00::/56
 IP-CIDR6,2c0f:f530:f007:d000::/52
 IP-CIDR6,2c0f:f530:f007:e000::/51
-IP-CIDR6,2c0f:f530:f008::/48
+IP-CIDR6,2c0f:f530:f008::/47
 IP-CIDR6,2c0f:f530:f00a::/48
 IP-CIDR6,2c0f:f530:f00b:1::/64
 IP-CIDR6,2c0f:f530:f00b:2::/63

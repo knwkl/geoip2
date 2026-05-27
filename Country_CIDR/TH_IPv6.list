@@ -1,7 +1,7 @@
 # TH IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-05-26T03:29:46+00:00
-# Total: 6400 rules
+# Updated: 2026-05-27T03:43:31+00:00
+# Total: 6348 rules
 #
 IP-CIDR6,2001:218:0:1000::12/128
 IP-CIDR6,2001:218:0:2000::f2/128
@@ -315,6 +315,7 @@ IP-CIDR6,2001:470:36:556::/64
 IP-CIDR6,2001:470:36:55b::/64
 IP-CIDR6,2001:470:36:572::/64
 IP-CIDR6,2001:470:36:576::/64
+IP-CIDR6,2001:470:36:594::/64
 IP-CIDR6,2001:470:36:5b9::/64
 IP-CIDR6,2001:470:36:5e0::/64
 IP-CIDR6,2001:470:36:5fe::/64
@@ -3850,6 +3851,12 @@ IP-CIDR6,2602:f9a9:5:521::/64
 IP-CIDR6,2602:fa80:c::/48
 IP-CIDR6,2602:fa93:e:521::/64
 IP-CIDR6,2602:faa8:455:521::/64
+IP-CIDR6,2602:fb26::/38
+IP-CIDR6,2602:fb26:400::/39
+IP-CIDR6,2602:fb26:814::/47
+IP-CIDR6,2602:fb26:816::/48
+IP-CIDR6,2602:fb26:8d8::/45
+IP-CIDR6,2602:fb26:8e0::/43
 IP-CIDR6,2602:fbdb:180::/44
 IP-CIDR6,2602:fd92:b00:119::/64
 IP-CIDR6,2602:fed2:7e83:1::/64
@@ -4514,74 +4521,15 @@ IP-CIDR6,2620:0:1cff:dead:beef::8390/124
 IP-CIDR6,2620:0:1cff:dead:beef::83a0/128
 IP-CIDR6,2620:0:1cff:dead:beef::83a2/127
 IP-CIDR6,2620:0:1cff:dead:beef::83a4/127
-IP-CIDR6,2620:0:1cff:dead:beef::841b/128
-IP-CIDR6,2620:0:1cff:dead:beef::841f/128
-IP-CIDR6,2620:0:1cff:dead:beef::8421/128
-IP-CIDR6,2620:0:1cff:dead:beef::8423/128
-IP-CIDR6,2620:0:1cff:dead:beef::8429/128
-IP-CIDR6,2620:0:1cff:dead:beef::842b/128
-IP-CIDR6,2620:0:1cff:dead:beef::8437/128
-IP-CIDR6,2620:0:1cff:dead:beef::8441/128
-IP-CIDR6,2620:0:1cff:dead:beef::8443/128
-IP-CIDR6,2620:0:1cff:dead:beef::844d/128
-IP-CIDR6,2620:0:1cff:dead:beef::844f/128
-IP-CIDR6,2620:0:1cff:dead:beef::8459/128
-IP-CIDR6,2620:0:1cff:dead:beef::845b/128
-IP-CIDR6,2620:0:1cff:dead:beef::845d/128
-IP-CIDR6,2620:0:1cff:dead:beef::845f/128
-IP-CIDR6,2620:0:1cff:dead:beef::8461/128
-IP-CIDR6,2620:0:1cff:dead:beef::8463/128
-IP-CIDR6,2620:0:1cff:dead:beef::8465/128
-IP-CIDR6,2620:0:1cff:dead:beef::8467/128
-IP-CIDR6,2620:0:1cff:dead:beef::846b/128
-IP-CIDR6,2620:0:1cff:dead:beef::846d/128
-IP-CIDR6,2620:0:1cff:dead:beef::846f/128
-IP-CIDR6,2620:0:1cff:dead:beef::8471/128
 IP-CIDR6,2620:0:1cff:dead:beef::8473/128
-IP-CIDR6,2620:0:1cff:dead:beef::8475/128
-IP-CIDR6,2620:0:1cff:dead:beef::8477/128
-IP-CIDR6,2620:0:1cff:dead:beef::8479/128
-IP-CIDR6,2620:0:1cff:dead:beef::847b/128
-IP-CIDR6,2620:0:1cff:dead:beef::847d/128
-IP-CIDR6,2620:0:1cff:dead:beef::847f/128
 IP-CIDR6,2620:0:1cff:dead:beef::8481/128
-IP-CIDR6,2620:0:1cff:dead:beef::8483/128
-IP-CIDR6,2620:0:1cff:dead:beef::8485/128
-IP-CIDR6,2620:0:1cff:dead:beef::8487/128
 IP-CIDR6,2620:0:1cff:dead:beef::8489/128
 IP-CIDR6,2620:0:1cff:dead:beef::848b/128
-IP-CIDR6,2620:0:1cff:dead:beef::8495/128
-IP-CIDR6,2620:0:1cff:dead:beef::8497/128
-IP-CIDR6,2620:0:1cff:dead:beef::84a1/128
-IP-CIDR6,2620:0:1cff:dead:beef::84a3/128
-IP-CIDR6,2620:0:1cff:dead:beef::84ad/128
-IP-CIDR6,2620:0:1cff:dead:beef::84af/128
-IP-CIDR6,2620:0:1cff:dead:beef::84b9/128
-IP-CIDR6,2620:0:1cff:dead:beef::84bb/128
-IP-CIDR6,2620:0:1cff:dead:beef::84bd/128
-IP-CIDR6,2620:0:1cff:dead:beef::84bf/128
-IP-CIDR6,2620:0:1cff:dead:beef::84c1/128
 IP-CIDR6,2620:0:1cff:dead:beef::84c5/128
 IP-CIDR6,2620:0:1cff:dead:beef::84c7/128
-IP-CIDR6,2620:0:1cff:dead:beef::84cb/128
-IP-CIDR6,2620:0:1cff:dead:beef::84cd/128
 IP-CIDR6,2620:0:1cff:dead:beef::84cf/128
-IP-CIDR6,2620:0:1cff:dead:beef::84d1/128
-IP-CIDR6,2620:0:1cff:dead:beef::84d3/128
-IP-CIDR6,2620:0:1cff:dead:beef::84d5/128
 IP-CIDR6,2620:0:1cff:dead:beef::84d7/128
-IP-CIDR6,2620:0:1cff:dead:beef::84d9/128
-IP-CIDR6,2620:0:1cff:dead:beef::84db/128
-IP-CIDR6,2620:0:1cff:dead:beef::84dd/128
-IP-CIDR6,2620:0:1cff:dead:beef::84df/128
-IP-CIDR6,2620:0:1cff:dead:beef::84e1/128
-IP-CIDR6,2620:0:1cff:dead:beef::84e3/128
-IP-CIDR6,2620:0:1cff:dead:beef::84e5/128
-IP-CIDR6,2620:0:1cff:dead:beef::84e7/128
-IP-CIDR6,2620:0:1cff:dead:beef::84e9/128
-IP-CIDR6,2620:0:1cff:dead:beef::84eb/128
 IP-CIDR6,2620:0:1cff:dead:beef::84f5/128
-IP-CIDR6,2620:0:1cff:dead:beef::84f7/128
 IP-CIDR6,2620:0:1cff:dead:beef::8501/128
 IP-CIDR6,2620:0:1cff:dead:beef::8503/128
 IP-CIDR6,2620:0:1cff:dead:beef::850d/128
