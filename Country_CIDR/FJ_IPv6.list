@@ -1,7 +1,7 @@
 # FJ IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-05-27T03:43:31+00:00
-# Total: 364 rules
+# Updated: 2026-05-28T03:32:52+00:00
+# Total: 363 rules
 #
 IP-CIDR6,2001:470:24:893::/64
 IP-CIDR6,2001:470:28:a2c::/64
@@ -364,6 +364,5 @@ IP-CIDR6,2a14:7581:b17:4800::/56
 IP-CIDR6,2a14:7581:be0:3c80::/58
 IP-CIDR6,2a14:7581:3b51::/48
 IP-CIDR6,2a14:7583:ff3f:500::/56
-IP-CIDR6,2a14:7584:e7a0::/48
 IP-CIDR6,2a14:7585:f405::/48
 IP-CIDR6,2a14:c380:7e2::/48
