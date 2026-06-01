@@ -1,7 +1,7 @@
 # PH IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-05-31T03:46:41+00:00
-# Total: 16947 rules
+# Updated: 2026-06-01T04:00:27+00:00
+# Total: 16948 rules
 #
 IP-CIDR6,2001:470:0:148::/64
 IP-CIDR6,2001:470:0:178::2/128
@@ -14347,6 +14347,7 @@ IP-CIDR6,2a04:4e42:b075::/48
 IP-CIDR6,2a04:4e42:c075::/48
 IP-CIDR6,2a04:4e42:d075::/48
 IP-CIDR6,2a04:4e42:f075::/48
+IP-CIDR6,2a04:8281:2000::/36
 IP-CIDR6,2a05:dfc1:5ab9::/48
 IP-CIDR6,2a05:dfc1:7500::/46
 IP-CIDR6,2a05:dfc1:7504::/47
