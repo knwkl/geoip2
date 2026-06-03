@@ -1,6 +1,6 @@
 # AF IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-06-02T03:55:37+00:00
+# Updated: 2026-06-03T04:02:48+00:00
 # Total: 981 rules
 #
 IP-CIDR6,2001:438:ffff::407d:27a/128
