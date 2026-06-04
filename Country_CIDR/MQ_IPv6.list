@@ -1,7 +1,7 @@
 # MQ IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-06-03T04:02:48+00:00
-# Total: 225 rules
+# Updated: 2026-06-04T03:57:18+00:00
+# Total: 228 rules
 #
 IP-CIDR6,2001:470:8:17f::/64
 IP-CIDR6,2001:470:19:eba::/64
@@ -61,7 +61,10 @@ IP-CIDR6,2a01:cde0:8080::/41
 IP-CIDR6,2a01:cde0:8100::/48
 IP-CIDR6,2a01:cde0:8103::/48
 IP-CIDR6,2a01:cde0:8104::/46
-IP-CIDR6,2a01:cde0:8108::/48
+IP-CIDR6,2a01:cde0:8108::/50
+IP-CIDR6,2a01:cde0:8108:6000::/51
+IP-CIDR6,2a01:cde0:8108:8000::/50
+IP-CIDR6,2a01:cde0:8108:e000::/51
 IP-CIDR6,2a01:cde0:8109::/49
 IP-CIDR6,2a01:cde0:8109:8000::/50
 IP-CIDR6,2a01:cde0:810a::/47
