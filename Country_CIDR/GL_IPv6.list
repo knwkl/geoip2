@@ -1,6 +1,6 @@
 # GL IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-06-04T03:57:18+00:00
+# Updated: 2026-06-05T03:41:30+00:00
 # Total: 373 rules
 #
 IP-CIDR6,2001:470:d:3cc::/64

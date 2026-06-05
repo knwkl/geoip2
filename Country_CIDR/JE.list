@@ -1,6 +1,6 @@
 # JE IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-06-04T03:57:18+00:00
+# Updated: 2026-06-05T03:41:30+00:00
 # Total: 654 rules
 #
 IP-CIDR,5.35.160.0/27
