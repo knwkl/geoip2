@@ -1,7 +1,7 @@
 # OM IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-06-05T03:41:30+00:00
-# Total: 1353 rules
+# Updated: 2026-06-06T03:25:56+00:00
+# Total: 1354 rules
 #
 IP-CIDR6,2001:470:26:291::/64
 IP-CIDR6,2001:470:26:2fb::/64
@@ -1340,6 +1340,7 @@ IP-CIDR6,2a13:ef45:9ed0::/45
 IP-CIDR6,2a13:ef45:9ed8::/46
 IP-CIDR6,2a13:ef45:9edc::/47
 IP-CIDR6,2a14:1c7:6000::/37
+IP-CIDR6,2a14:1000:2::/64
 IP-CIDR6,2a14:2d45:aa00::/40
 IP-CIDR6,2a14:67c1:b6aa::/48
 IP-CIDR6,2a14:67c2:80b::/48

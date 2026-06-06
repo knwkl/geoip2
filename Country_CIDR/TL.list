@@ -1,10 +1,11 @@
 # TL IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-06-05T03:41:30+00:00
-# Total: 114 rules
+# Updated: 2026-06-06T03:25:56+00:00
+# Total: 115 rules
 #
 IP-CIDR,14.137.33.16/32
 IP-CIDR,14.137.54.15/32
+IP-CIDR,14.137.55.25/32
 IP-CIDR,14.137.55.29/32
 IP-CIDR,43.243.120.0/22
 IP-CIDR,43.243.176.0/22
