@@ -1,7 +1,7 @@
 # CV IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-06-06T03:25:56+00:00
-# Total: 228 rules
+# Updated: 2026-06-07T03:52:55+00:00
+# Total: 229 rules
 #
 IP-CIDR6,2001:470:8:63e::/64
 IP-CIDR6,2001:470:19:d80::/64
@@ -25,6 +25,7 @@ IP-CIDR6,2401:b60:1281::/48
 IP-CIDR6,2401:b60:1282::/47
 IP-CIDR6,2401:b60:1284::/46
 IP-CIDR6,2401:b60:1288::/45
+IP-CIDR6,2401:f1e0:ffff:6a29::/64
 IP-CIDR6,2401:f1e0:ffff:786d::/64
 IP-CIDR6,2405:b500:1b80::/64
 IP-CIDR6,2405:b500:1ba0::/64

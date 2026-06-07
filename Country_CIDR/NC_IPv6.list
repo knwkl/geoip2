@@ -1,7 +1,7 @@
 # NC IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-06-06T03:25:56+00:00
-# Total: 239 rules
+# Updated: 2026-06-07T03:52:55+00:00
+# Total: 240 rules
 #
 IP-CIDR6,2001:470:d:3e8::/64
 IP-CIDR6,2001:470:19:bd7::/64
@@ -25,6 +25,7 @@ IP-CIDR6,2401:b60:1a28::/45
 IP-CIDR6,2401:c00::/32
 IP-CIDR6,2401:c01::/32
 IP-CIDR6,2401:af00::/32
+IP-CIDR6,2401:d000:3101::152/128
 IP-CIDR6,2401:f1e0:ffff:2df6::/64
 IP-CIDR6,2403:200::/32
 IP-CIDR6,2404:2200::/32

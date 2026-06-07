@@ -1,6 +1,6 @@
 # SS IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-06-06T03:25:56+00:00
+# Updated: 2026-06-07T03:52:55+00:00
 # Total: 140 rules
 #
 IP-CIDR,38.43.72.0/22
