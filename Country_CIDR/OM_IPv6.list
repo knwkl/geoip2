@@ -1,7 +1,7 @@
 # OM IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-06-07T03:52:55+00:00
-# Total: 1254 rules
+# Updated: 2026-06-08T03:57:39+00:00
+# Total: 1262 rules
 #
 IP-CIDR6,2001:470:1d:36e::/64
 IP-CIDR6,2001:470:26:291::/64
@@ -893,20 +893,28 @@ IP-CIDR6,2620:0:1cff:dead:beef::18e4/128
 IP-CIDR6,2620:0:1cff:dead:beef::18e6/128
 IP-CIDR6,2620:0:1cff:dead:beef::1cef/128
 IP-CIDR6,2620:0:1cff:dead:beef::2059/128
-IP-CIDR6,2620:0:1cff:dead:beef::25bb/128
-IP-CIDR6,2620:0:1cff:dead:beef::25bd/128
-IP-CIDR6,2620:0:1cff:dead:beef::25bf/128
-IP-CIDR6,2620:0:1cff:dead:beef::29f1/128
+IP-CIDR6,2620:0:1cff:dead:beef::22c9/128
+IP-CIDR6,2620:0:1cff:dead:beef::23ed/128
+IP-CIDR6,2620:0:1cff:dead:beef::2536/127
+IP-CIDR6,2620:0:1cff:dead:beef::25ba/127
+IP-CIDR6,2620:0:1cff:dead:beef::25bc/126
+IP-CIDR6,2620:0:1cff:dead:beef::29f0/127
 IP-CIDR6,2620:0:1cff:dead:beef::2a75/128
-IP-CIDR6,2620:0:1cff:dead:beef::35c7/128
-IP-CIDR6,2620:0:1cff:dead:beef::3649/128
-IP-CIDR6,2620:0:1cff:dead:beef::364b/128
-IP-CIDR6,2620:0:1cff:dead:beef::385b/128
-IP-CIDR6,2620:0:1cff:dead:beef::3b6c/128
+IP-CIDR6,2620:0:1cff:dead:beef::2a78/128
+IP-CIDR6,2620:0:1cff:dead:beef::3546/127
+IP-CIDR6,2620:0:1cff:dead:beef::35c6/127
+IP-CIDR6,2620:0:1cff:dead:beef::3648/126
+IP-CIDR6,2620:0:1cff:dead:beef::37b8/128
+IP-CIDR6,2620:0:1cff:dead:beef::385a/127
+IP-CIDR6,2620:0:1cff:dead:beef::3b6c/127
+IP-CIDR6,2620:0:1cff:dead:beef::3dc2/127
+IP-CIDR6,2620:0:1cff:dead:beef::4030/127
+IP-CIDR6,2620:0:1cff:dead:beef::4034/127
 IP-CIDR6,2620:0:1cff:dead:beef::424c/128
 IP-CIDR6,2620:0:1cff:dead:beef::424e/128
 IP-CIDR6,2620:0:1cff:dead:beef::4250/128
-IP-CIDR6,2620:0:1cff:dead:beef::45ab/128
+IP-CIDR6,2620:0:1cff:dead:beef::45aa/127
+IP-CIDR6,2620:0:1cff:dead:beef::4a03/128
 IP-CIDR6,2620:0:1cff:dead:beef::4dae/127
 IP-CIDR6,2620:0:1cff:dead:beef::53ad/128
 IP-CIDR6,2620:0:1cff:dead:beef::6605/128

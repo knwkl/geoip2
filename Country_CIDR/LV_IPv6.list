@@ -1,6 +1,6 @@
 # LV IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-06-07T03:52:55+00:00
+# Updated: 2026-06-08T03:57:39+00:00
 # Total: 2942 rules
 #
 IP-CIDR6,2001:470:0:47c::1/128
