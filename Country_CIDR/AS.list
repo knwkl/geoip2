@@ -1,12 +1,13 @@
 # AS IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-06-09T03:27:34+00:00
-# Total: 62 rules
+# Updated: 2026-06-10T03:39:18+00:00
+# Total: 63 rules
 #
 IP-CIDR,5.62.56.4/30
 IP-CIDR,5.62.58.4/30
 IP-CIDR,38.101.165.0/24
 IP-CIDR,65.167.226.0/24
+IP-CIDR,65.219.178.0/24
 IP-CIDR,67.218.48.0/21
 IP-CIDR,67.218.56.0/22
 IP-CIDR,67.218.60.0/23
