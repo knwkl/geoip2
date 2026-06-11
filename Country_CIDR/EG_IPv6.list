@@ -1,7 +1,7 @@
 # EG IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-06-10T03:39:18+00:00
-# Total: 2345 rules
+# Updated: 2026-06-11T03:55:34+00:00
+# Total: 2348 rules
 #
 IP-CIDR6,2001:470:8:2a2::/64
 IP-CIDR6,2001:470:8:7f1::/64
@@ -1131,28 +1131,32 @@ IP-CIDR6,2607:f108:a00:4::/64
 IP-CIDR6,2620:0:1c00:5a::/64
 IP-CIDR6,2620:0:1cff:dead:beee::574/128
 IP-CIDR6,2620:0:1cff:dead:beee::1d1e/128
+IP-CIDR6,2620:0:1cff:dead:beef::4891/128
+IP-CIDR6,2620:0:1cff:dead:beef::4893/128
 IP-CIDR6,2620:0:1cff:dead:beef::4899/128
 IP-CIDR6,2620:0:1cff:dead:beef::489b/128
 IP-CIDR6,2620:0:1cff:dead:beef::489d/128
 IP-CIDR6,2620:0:1cff:dead:beef::489f/128
-IP-CIDR6,2620:0:1cff:dead:beef::52e5/128
-IP-CIDR6,2620:0:1cff:dead:beef::5a62/127
+IP-CIDR6,2620:0:1cff:dead:beef::52e4/127
+IP-CIDR6,2620:0:1cff:dead:beef::5a63/128
 IP-CIDR6,2620:0:1cff:dead:beef::5a64/128
 IP-CIDR6,2620:0:1cff:dead:beef::5a66/128
-IP-CIDR6,2620:0:1cff:dead:beef::5a69/128
-IP-CIDR6,2620:0:1cff:dead:beef::5a6a/127
-IP-CIDR6,2620:0:1cff:dead:beef::5a6c/127
+IP-CIDR6,2620:0:1cff:dead:beef::5a68/126
+IP-CIDR6,2620:0:1cff:dead:beef::5a6d/128
 IP-CIDR6,2620:0:1cff:dead:beef::5a6e/128
+IP-CIDR6,2620:0:1cff:dead:beef::5a70/128
 IP-CIDR6,2620:0:1cff:dead:beef::5a72/127
 IP-CIDR6,2620:0:1cff:dead:beef::5a75/128
-IP-CIDR6,2620:0:1cff:dead:beef::5a77/128
-IP-CIDR6,2620:0:1cff:dead:beef::5a78/126
+IP-CIDR6,2620:0:1cff:dead:beef::5a76/127
+IP-CIDR6,2620:0:1cff:dead:beef::5a79/128
+IP-CIDR6,2620:0:1cff:dead:beef::5a7a/127
 IP-CIDR6,2620:0:1cff:dead:beef::5a7e/127
 IP-CIDR6,2620:0:1cff:dead:beef::5a81/128
 IP-CIDR6,2620:0:1cff:dead:beef::a67a/127
 IP-CIDR6,2620:0:1cff:dead:beef::a67d/128
 IP-CIDR6,2620:0:1cff:dead:beef::a67f/128
-IP-CIDR6,2620:0:1cff:dead:beef::a680/126
+IP-CIDR6,2620:0:1cff:dead:beef::a681/128
+IP-CIDR6,2620:0:1cff:dead:beef::a682/127
 IP-CIDR6,2620:0:1cff:dead:beef::a685/128
 IP-CIDR6,2620:0:1cff:dead:beef::a687/128
 IP-CIDR6,2620:0:1cff:dead:beef::a689/128
@@ -1174,7 +1178,6 @@ IP-CIDR6,2620:0:1cff:dead:beef:ffff:ffff:f61c/128
 IP-CIDR6,2620:0:1cff:dead:beef:ffff:ffff:f7b2/128
 IP-CIDR6,2620:0:1cff:dead:beef:ffff:ffff:f7b6/128
 IP-CIDR6,2620:0:1cff:dead:beef:ffff:ffff:f7e1/128
-IP-CIDR6,2620:0:1cff:dead:beef:ffff:ffff:f862/128
 IP-CIDR6,2620:0:1cff:dead:beef:ffff:ffff:f8bd/128
 IP-CIDR6,2620:0:1cff:dead:beef:ffff:ffff:f8dd/128
 IP-CIDR6,2620:0:1cff:dead:beef:ffff:ffff:f8de/128
