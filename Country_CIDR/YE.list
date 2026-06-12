@@ -1,7 +1,7 @@
 # YE IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-06-11T03:55:34+00:00
-# Total: 160 rules
+# Updated: 2026-06-12T03:54:49+00:00
+# Total: 161 rules
 #
 IP-CIDR,5.62.61.217/32
 IP-CIDR,5.62.61.218/31
@@ -10,6 +10,7 @@ IP-CIDR,5.100.160.0/21
 IP-CIDR,5.255.0.0/21
 IP-CIDR,5.255.8.0/21
 IP-CIDR,5.255.16.0/20
+IP-CIDR,9.246.38.0/23
 IP-CIDR,31.31.176.0/20
 IP-CIDR,38.56.24.0/21
 IP-CIDR,46.35.64.0/19

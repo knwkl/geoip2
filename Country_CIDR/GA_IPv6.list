@@ -1,6 +1,6 @@
 # GA IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-06-11T03:55:34+00:00
+# Updated: 2026-06-12T03:54:49+00:00
 # Total: 226 rules
 #
 IP-CIDR6,2001:470:19:cbd::/64

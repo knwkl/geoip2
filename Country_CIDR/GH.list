@@ -1,12 +1,13 @@
 # GH IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-06-11T03:55:34+00:00
-# Total: 811 rules
+# Updated: 2026-06-12T03:54:49+00:00
+# Total: 812 rules
 #
 IP-CIDR,2.16.77.0/24
 IP-CIDR,5.62.60.149/32
 IP-CIDR,5.62.60.150/31
 IP-CIDR,5.62.62.144/30
+IP-CIDR,34.175.63.171/32
 IP-CIDR,41.66.192.0/18
 IP-CIDR,41.74.80.0/20
 IP-CIDR,41.75.48.0/20
