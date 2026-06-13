@@ -1,7 +1,7 @@
 # HU IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-06-12T03:54:49+00:00
-# Total: 5427 rules
+# Updated: 2026-06-13T03:39:39+00:00
+# Total: 5446 rules
 #
 IP-CIDR6,2001:470:0:7f::/64
 IP-CIDR6,2001:470:0:2ba::/64
@@ -4011,7 +4011,26 @@ IP-CIDR6,2a0f:85c1:e22::/48
 IP-CIDR6,2a0f:8940::/29
 IP-CIDR6,2a0f:9400:772d::/48
 IP-CIDR6,2a0f:9403:460::/44
-IP-CIDR6,2a0f:fdc0::/29
+IP-CIDR6,2a0f:fdc0::/48
+IP-CIDR6,2a0f:fdc0:1::/48
+IP-CIDR6,2a0f:fdc0:2::/47
+IP-CIDR6,2a0f:fdc0:4::/46
+IP-CIDR6,2a0f:fdc0:8::/45
+IP-CIDR6,2a0f:fdc0:10::/44
+IP-CIDR6,2a0f:fdc0:20::/43
+IP-CIDR6,2a0f:fdc0:40::/42
+IP-CIDR6,2a0f:fdc0:80::/41
+IP-CIDR6,2a0f:fdc0:100::/40
+IP-CIDR6,2a0f:fdc0:200::/39
+IP-CIDR6,2a0f:fdc0:400::/38
+IP-CIDR6,2a0f:fdc0:800::/37
+IP-CIDR6,2a0f:fdc0:1000::/36
+IP-CIDR6,2a0f:fdc0:2000::/35
+IP-CIDR6,2a0f:fdc0:4000::/34
+IP-CIDR6,2a0f:fdc0:8000::/33
+IP-CIDR6,2a0f:fdc1::/32
+IP-CIDR6,2a0f:fdc2::/31
+IP-CIDR6,2a0f:fdc4::/30
 IP-CIDR6,2a10:500:7e00::/40
 IP-CIDR6,2a10:cc0::/29
 IP-CIDR6,2a10:2f00:16c::/48
