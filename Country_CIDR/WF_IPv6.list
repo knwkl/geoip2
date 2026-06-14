@@ -1,9 +1,8 @@
 # WF IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-06-13T03:39:39+00:00
-# Total: 151 rules
+# Updated: 2026-06-14T04:00:51+00:00
+# Total: 150 rules
 #
-IP-CIDR6,2001:470:24:30a::/64
 IP-CIDR6,2001:470:36:7e2::/64
 IP-CIDR6,2001:470:36:897::/64
 IP-CIDR6,2001:470:f0ac::/48

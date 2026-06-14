@@ -1,11 +1,8 @@
 # LC IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-06-13T03:39:39+00:00
-# Total: 245 rules
+# Updated: 2026-06-14T04:00:51+00:00
+# Total: 242 rules
 #
-IP-CIDR6,2001:470:24:676::/64
-IP-CIDR6,2001:470:36:10a::/64
-IP-CIDR6,2001:470:36:648::/64
 IP-CIDR6,2001:470:eee3::/48
 IP-CIDR6,2001:470:fefc::/48
 IP-CIDR6,2001:505:150::/48
