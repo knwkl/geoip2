@@ -1,11 +1,12 @@
 # MM IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-06-14T04:00:51+00:00
-# Total: 770 rules
+# Updated: 2026-06-15T04:13:43+00:00
+# Total: 771 rules
 #
 IP-CIDR,5.62.61.45/32
 IP-CIDR,5.62.61.46/31
 IP-CIDR,5.62.63.36/30
+IP-CIDR,5.175.190.91/32
 IP-CIDR,23.199.72.0/24
 IP-CIDR,23.203.174.0/24
 IP-CIDR,23.249.58.186/32
