@@ -1,12 +1,11 @@
 # TN IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-06-15T04:13:43+00:00
-# Total: 757 rules
+# Updated: 2026-06-16T04:03:18+00:00
+# Total: 756 rules
 #
 IP-CIDR,5.62.61.185/32
 IP-CIDR,5.62.61.186/31
 IP-CIDR,5.62.63.164/30
-IP-CIDR,34.154.50.192/27
 IP-CIDR,41.62.0.0/16
 IP-CIDR,41.224.0.0/19
 IP-CIDR,41.224.32.0/23

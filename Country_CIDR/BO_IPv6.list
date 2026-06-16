@@ -1,6 +1,6 @@
 # BO IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-06-15T04:13:43+00:00
+# Updated: 2026-06-16T04:03:18+00:00
 # Total: 1025 rules
 #
 IP-CIDR6,2001:470:1f2b:cd::/64
