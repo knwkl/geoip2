@@ -1,6 +1,6 @@
 # PM IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-06-16T04:03:18+00:00
+# Updated: 2026-06-17T04:04:11+00:00
 # Total: 150 rules
 #
 IP-CIDR6,2001:470:36:7d4::/64
