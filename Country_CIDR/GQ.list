@@ -1,7 +1,7 @@
 # GQ IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-06-17T04:04:11+00:00
-# Total: 114 rules
+# Updated: 2026-06-18T03:55:09+00:00
+# Total: 113 rules
 #
 IP-CIDR,5.62.60.117/32
 IP-CIDR,5.62.60.118/31
@@ -116,4 +116,3 @@ IP-CIDR,197.214.66.128/25
 IP-CIDR,197.214.67.0/24
 IP-CIDR,197.214.68.0/22
 IP-CIDR,197.214.72.0/21
-IP-CIDR,216.139.172.96/27

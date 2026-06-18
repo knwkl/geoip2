@@ -1,6 +1,6 @@
 # TJ IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-06-17T04:04:11+00:00
+# Updated: 2026-06-18T03:55:09+00:00
 # Total: 213 rules
 #
 IP-CIDR,5.34.242.0/24
