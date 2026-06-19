@@ -1,7 +1,7 @@
 # AZ IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-06-18T03:55:09+00:00
-# Total: 1428 rules
+# Updated: 2026-06-19T04:15:10+00:00
+# Total: 1429 rules
 #
 IP-CIDR6,2001:470:28:f21::/64
 IP-CIDR6,2001:470:28:f9a:8000::/65
@@ -454,6 +454,7 @@ IP-CIDR6,2a0b:4e07:1448:1000::/52
 IP-CIDR6,2a0b:4e07:1448:2000::/51
 IP-CIDR6,2a0b:4e07:1448:4000::/50
 IP-CIDR6,2a0b:4e07:1448:8000::/49
+IP-CIDR6,2a0b:4e07:14e4::/48
 IP-CIDR6,2a0b:4e07:1700::/40
 IP-CIDR6,2a0b:f5c0::/29
 IP-CIDR6,2a0b:f9c0::/29
