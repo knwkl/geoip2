@@ -1,7 +1,7 @@
 # IQ IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-06-20T03:36:49+00:00
-# Total: 1784 rules
+# Updated: 2026-06-21T04:09:21+00:00
+# Total: 1783 rules
 #
 IP-CIDR6,2001:470:28:e6::/64
 IP-CIDR6,2001:470:28:76e::/64
@@ -1505,8 +1505,7 @@ IP-CIDR6,2a10:fa44:2000::/35
 IP-CIDR6,2a10:fa44:4000::/34
 IP-CIDR6,2a10:fa44:8000::/33
 IP-CIDR6,2a10:fa45::/32
-IP-CIDR6,2a10:fa46::/32
-IP-CIDR6,2a10:fa47::/32
+IP-CIDR6,2a10:fa46::/31
 IP-CIDR6,2a11:fc0::/50
 IP-CIDR6,2a11:29c0:3d88:174::/64
 IP-CIDR6,2a11:29c0:3d88:26d::/64
