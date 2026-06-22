@@ -1,6 +1,6 @@
 # MR IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-06-21T04:09:21+00:00
+# Updated: 2026-06-22T04:10:10+00:00
 # Total: 196 rules
 #
 IP-CIDR6,2001:470:ba0d::/48

@@ -1,7 +1,7 @@
 # GH IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-06-21T04:09:21+00:00
-# Total: 679 rules
+# Updated: 2026-06-22T04:10:10+00:00
+# Total: 680 rules
 #
 IP-CIDR6,2001:470:19:b5b::/64
 IP-CIDR6,2001:470:36:868::/64
@@ -522,6 +522,7 @@ IP-CIDR6,2c0f:ee00::96:14b/128
 IP-CIDR6,2c0f:ee00::96:220/125
 IP-CIDR6,2c0f:ee00::96:22a/127
 IP-CIDR6,2c0f:ee00::96:22c/126
+IP-CIDR6,2c0f:ee00::96:248/125
 IP-CIDR6,2c0f:ee00::97:12/128
 IP-CIDR6,2c0f:ee00::97:24/126
 IP-CIDR6,2c0f:ee00::97:28/128

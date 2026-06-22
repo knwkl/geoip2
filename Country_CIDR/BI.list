@@ -1,13 +1,12 @@
 # BI IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-06-21T04:09:21+00:00
-# Total: 82 rules
+# Updated: 2026-06-22T04:10:10+00:00
+# Total: 81 rules
 #
 IP-CIDR,2.18.11.0/24
 IP-CIDR,5.62.60.61/32
 IP-CIDR,5.62.60.62/31
 IP-CIDR,5.62.62.60/30
-IP-CIDR,41.59.249.14/32
 IP-CIDR,41.79.44.0/22
 IP-CIDR,41.79.224.0/22
 IP-CIDR,41.84.199.14/32

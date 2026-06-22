@@ -1,6 +1,6 @@
 # TC IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-06-21T04:09:21+00:00
+# Updated: 2026-06-22T04:10:10+00:00
 # Total: 140 rules
 #
 IP-CIDR6,2001:470:fc69::/48
