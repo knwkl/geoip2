@@ -1,6 +1,6 @@
 # SR IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-06-22T04:10:10+00:00
+# Updated: 2026-06-23T03:30:44+00:00
 # Total: 190 rules
 #
 IP-CIDR6,2001:470:d:5e7::/64
@@ -22,7 +22,7 @@ IP-CIDR6,2401:b60:1da1::/48
 IP-CIDR6,2401:b60:1da2::/47
 IP-CIDR6,2401:b60:1da4::/46
 IP-CIDR6,2401:b60:1da8::/45
-IP-CIDR6,2401:f1e0:ffff:4fe9::/64
+IP-CIDR6,2401:f1e0:ffff:52d7::/64
 IP-CIDR6,2405:b500:6980::/64
 IP-CIDR6,2405:b500:6980:198::/64
 IP-CIDR6,2405:b500:69a0::/64
