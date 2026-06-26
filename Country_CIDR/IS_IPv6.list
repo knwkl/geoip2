@@ -1,6 +1,6 @@
 # IS IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-06-25T03:30:11+00:00
+# Updated: 2026-06-26T03:37:44+00:00
 # Total: 1421 rules
 #
 IP-CIDR6,2001:470:19:fcf::/64
