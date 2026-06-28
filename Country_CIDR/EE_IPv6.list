@@ -1,7 +1,7 @@
 # EE IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-06-27T03:23:05+00:00
-# Total: 3390 rules
+# Updated: 2026-06-28T03:43:18+00:00
+# Total: 3391 rules
 #
 IP-CIDR6,2001:418:1:4000::/50
 IP-CIDR6,2001:418:1:8000::/49
@@ -1263,7 +1263,8 @@ IP-CIDR6,2a07:ddc1::/32
 IP-CIDR6,2a07:ddc2::/31
 IP-CIDR6,2a07:ddc4::/30
 IP-CIDR6,2a07:e000::/48
-IP-CIDR6,2a07:e000:a::/47
+IP-CIDR6,2a07:e000:a::/48
+IP-CIDR6,2a07:e000:b::/48
 IP-CIDR6,2a07:e000:c::/46
 IP-CIDR6,2a07:e000:20::/43
 IP-CIDR6,2a07:e000:40::/42
