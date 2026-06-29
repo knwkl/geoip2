@@ -1,6 +1,6 @@
 # BA IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-06-28T03:43:18+00:00
+# Updated: 2026-06-29T03:51:44+00:00
 # Total: 591 rules
 #
 IP-CIDR,5.43.64.0/18

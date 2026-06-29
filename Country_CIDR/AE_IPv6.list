@@ -1,6 +1,6 @@
 # AE IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-06-28T03:43:18+00:00
+# Updated: 2026-06-29T03:51:44+00:00
 # Total: 5461 rules
 #
 IP-CIDR6,2001:218:4000:5000::ee/127
