@@ -1,6 +1,6 @@
 # CO IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-06-29T03:51:44+00:00
+# Updated: 2026-06-30T03:35:42+00:00
 # Total: 6837 rules
 #
 IP-CIDR,2.19.162.0/23

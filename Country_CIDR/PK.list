@@ -1,6 +1,6 @@
 # PK IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-06-29T03:51:44+00:00
+# Updated: 2026-06-30T03:35:42+00:00
 # Total: 2934 rules
 #
 IP-CIDR,1.9.253.38/32
