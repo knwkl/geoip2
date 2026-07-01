@@ -1,12 +1,10 @@
 # TF IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-06-30T03:35:42+00:00
-# Total: 12 rules
+# Updated: 2026-07-01T03:46:49+00:00
+# Total: 10 rules
 #
 IP-CIDR,104.28.13.67/32
 IP-CIDR,104.28.13.68/31
-IP-CIDR,136.23.6.121/32
-IP-CIDR,136.23.20.49/32
 IP-CIDR,140.248.56.215/32
 IP-CIDR,140.248.57.215/32
 IP-CIDR,140.248.58.215/32
