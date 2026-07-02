@@ -1,6 +1,6 @@
 # GU IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-07-01T03:46:49+00:00
+# Updated: 2026-07-02T03:31:27+00:00
 # Total: 388 rules
 #
 IP-CIDR6,2001:388:cf85:5::/64

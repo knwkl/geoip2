@@ -1,6 +1,6 @@
 # RW IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-07-01T03:46:49+00:00
+# Updated: 2026-07-02T03:31:27+00:00
 # Total: 428 rules
 #
 IP-CIDR6,2001:470:1f23:23::/64
