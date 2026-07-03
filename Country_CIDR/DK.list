@@ -1,6 +1,6 @@
 # DK IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-07-02T03:31:27+00:00
+# Updated: 2026-07-03T02:54:06+00:00
 # Total: 7164 rules
 #
 IP-CIDR,2.16.63.0/24
