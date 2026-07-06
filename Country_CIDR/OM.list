@@ -1,6 +1,6 @@
 # OM IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-07-05T03:20:04+00:00
+# Updated: 2026-07-06T03:28:06+00:00
 # Total: 1046 rules
 #
 IP-CIDR,2.56.253.0/24
