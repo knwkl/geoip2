@@ -1,7 +1,7 @@
 # TZ IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-07-06T03:28:06+00:00
-# Total: 677 rules
+# Updated: 2026-07-07T03:18:20+00:00
+# Total: 671 rules
 #
 IP-CIDR6,2001:470:1ca0::/47
 IP-CIDR6,2001:470:1ca2::/48
@@ -536,11 +536,7 @@ IP-CIDR6,2c0f:fe98::/46
 IP-CIDR6,2c0f:fe98:4::/47
 IP-CIDR6,2c0f:fe98:6::/48
 IP-CIDR6,2c0f:fe98:7::/59
-IP-CIDR6,2c0f:fe98:7:20::/62
-IP-CIDR6,2c0f:fe98:7:24::/64
-IP-CIDR6,2c0f:fe98:7:25::2/127
-IP-CIDR6,2c0f:fe98:7:26::/63
-IP-CIDR6,2c0f:fe98:7:28::/61
+IP-CIDR6,2c0f:fe98:7:20::/60
 IP-CIDR6,2c0f:fe98:7:30::/63
 IP-CIDR6,2c0f:fe98:7:32::3/128
 IP-CIDR6,2c0f:fe98:7:32:197:155:95:131/128
@@ -647,21 +643,19 @@ IP-CIDR6,2c0f:feb0:0:6::/64
 IP-CIDR6,2c0f:feb0:1::44/127
 IP-CIDR6,2c0f:feb0:1::46/128
 IP-CIDR6,2c0f:feb0:1::48/126
-IP-CIDR6,2c0f:feb0:1::4d/128
 IP-CIDR6,2c0f:feb0:1::4e/128
 IP-CIDR6,2c0f:feb0:1::52/127
 IP-CIDR6,2c0f:feb0:1::ed/128
 IP-CIDR6,2c0f:feb0:1::ee/127
 IP-CIDR6,2c0f:feb0:1::164/128
 IP-CIDR6,2c0f:feb0:1:2::12/128
+IP-CIDR6,2c0f:feb0:1:2::9e/128
 IP-CIDR6,2c0f:feb0:1:2::a9/128
 IP-CIDR6,2c0f:feb0:1:2::258/128
 IP-CIDR6,2c0f:feb0:1:2::274/128
 IP-CIDR6,2c0f:feb0:1:2::278/128
 IP-CIDR6,2c0f:feb0:1:2::2ec/128
-IP-CIDR6,2c0f:feb0:1:2::3d9/128
 IP-CIDR6,2c0f:feb0:1:2::3da/128
-IP-CIDR6,2c0f:feb0:1:2::3dd/128
 IP-CIDR6,2c0f:feb0:1:2::3de/127
 IP-CIDR6,2c0f:feb0:1:2::476/128
 IP-CIDR6,2c0f:feb0:1:2::47a/128

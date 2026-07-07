@@ -1,7 +1,7 @@
 # KN IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-07-06T03:28:06+00:00
-# Total: 193 rules
+# Updated: 2026-07-07T03:18:20+00:00
+# Total: 192 rules
 #
 IP-CIDR6,2001:470:2023::/48
 IP-CIDR6,2001:470:d90c::/48
@@ -17,7 +17,6 @@ IP-CIDR6,2001:bb6:9c75:700::/64
 IP-CIDR6,2001:bb6:9c9e:b7aa::/64
 IP-CIDR6,2001:bb6:9cb9:3a00::/64
 IP-CIDR6,2001:bb6:9cbd:2300::/64
-IP-CIDR6,2001:bb6:9cdb:ab00::/64
 IP-CIDR6,2001:4b28:6c00::/40
 IP-CIDR6,2401:b60:1bf0:4000::/50
 IP-CIDR6,2401:b60:1bf0:8000::/49

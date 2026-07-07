@@ -1,7 +1,7 @@
 # PM IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-07-06T03:28:06+00:00
-# Total: 54 rules
+# Updated: 2026-07-07T03:18:20+00:00
+# Total: 55 rules
 #
 IP-CIDR,5.62.58.180/30
 IP-CIDR,5.62.63.92/30
@@ -57,3 +57,4 @@ IP-CIDR,172.225.132.0/27
 IP-CIDR,172.225.139.32/27
 IP-CIDR,172.225.236.64/27
 IP-CIDR,172.225.255.160/27
+IP-CIDR,185.66.232.114/32
