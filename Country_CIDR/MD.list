@@ -1,6 +1,6 @@
 # MD IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-07-08T02:35:48+00:00
+# Updated: 2026-07-09T02:54:39+00:00
 # Total: 919 rules
 #
 IP-CIDR,2.27.162.0/24
