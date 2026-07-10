@@ -1,6 +1,6 @@
 # SC IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-07-09T02:54:39+00:00
+# Updated: 2026-07-10T02:57:07+00:00
 # Total: 607 rules
 #
 IP-CIDR,5.10.240.0/22
