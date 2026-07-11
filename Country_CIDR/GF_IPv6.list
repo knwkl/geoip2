@@ -1,6 +1,6 @@
 # GF IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-07-10T02:57:07+00:00
+# Updated: 2026-07-11T02:33:49+00:00
 # Total: 175 rules
 #
 IP-CIDR6,2001:470:1f29:2fa::/64
@@ -55,7 +55,7 @@ IP-CIDR6,2a01:cb20:80cd:8000::/50
 IP-CIDR6,2a01:cb20:80da:8000::/50
 IP-CIDR6,2a01:cb20:883f:af00::/64
 IP-CIDR6,2a01:cb20:a004:4000::/50
-IP-CIDR6,2a01:cde0:8108:3800::/53
+IP-CIDR6,2a01:cde0:8109:1800::/53
 IP-CIDR6,2a01:cde0:8109:7000::/54
 IP-CIDR6,2a01:cde0:c000::/34
 IP-CIDR6,2a02:26f7:e980::/48
