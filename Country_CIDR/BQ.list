@@ -1,8 +1,9 @@
 # BQ IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-07-11T02:33:49+00:00
-# Total: 80 rules
+# Updated: 2026-07-12T02:40:42+00:00
+# Total: 81 rules
 #
+IP-CIDR,65.208.123.67/32
 IP-CIDR,65.208.123.113/32
 IP-CIDR,69.79.121.0/24
 IP-CIDR,69.79.122.0/24

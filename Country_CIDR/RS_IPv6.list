@@ -1,6 +1,6 @@
 # RS IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-07-11T02:33:49+00:00
+# Updated: 2026-07-12T02:40:42+00:00
 # Total: 3026 rules
 #
 IP-CIDR6,2001:470:0:33f::1/128
@@ -1676,7 +1676,7 @@ IP-CIDR6,2a09:31c0:babe::/48
 IP-CIDR6,2a09:ab00::/29
 IP-CIDR6,2a09:ab80::/29
 IP-CIDR6,2a09:bac0:120::/48
-IP-CIDR6,2a09:bac0:1000:22b::/64
+IP-CIDR6,2a09:bac0:1000:22a::/63
 IP-CIDR6,2a09:bac0:1000:324::/64
 IP-CIDR6,2a09:bac0:1000:775::/64
 IP-CIDR6,2a09:bac0:1000:879::/64
