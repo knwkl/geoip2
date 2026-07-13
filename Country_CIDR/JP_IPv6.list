@@ -1,6 +1,6 @@
 # JP IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-07-12T02:40:42+00:00
+# Updated: 2026-07-13T02:42:04+00:00
 # Total: 52800 rules
 #
 IP-CIDR6,2001:200::/37
@@ -50520,7 +50520,8 @@ IP-CIDR6,2a0f:1cc5:320::/44
 IP-CIDR6,2a0f:1cc5:350::/44
 IP-CIDR6,2a0f:1cc5:403:4000::/50
 IP-CIDR6,2a0f:1cc5:403:8000::/49
-IP-CIDR6,2a0f:1cc5:6a0::/47
+IP-CIDR6,2a0f:1cc5:6a0::/48
+IP-CIDR6,2a0f:1cc5:6a1::/48
 IP-CIDR6,2a0f:1cc5:6a2::/47
 IP-CIDR6,2a0f:1cc5:6a4::/46
 IP-CIDR6,2a0f:1cc5:6a8::/45
@@ -52136,8 +52137,7 @@ IP-CIDR6,2a12:ac46:88::/50
 IP-CIDR6,2a12:ac46:bbb::/50
 IP-CIDR6,2a12:bec0:164::/48
 IP-CIDR6,2a12:bec0:165::/48
-IP-CIDR6,2a12:bec0:166::/48
-IP-CIDR6,2a12:bec0:167::/48
+IP-CIDR6,2a12:bec0:166::/47
 IP-CIDR6,2a12:bec0:170::/48
 IP-CIDR6,2a12:bec0:1a6::/48
 IP-CIDR6,2a12:bec0:34f::/48

@@ -1,6 +1,6 @@
 # PS IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-07-12T02:40:42+00:00
+# Updated: 2026-07-13T02:42:04+00:00
 # Total: 745 rules
 #
 IP-CIDR6,2001:470:19e7::/48
