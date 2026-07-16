@@ -1,6 +1,6 @@
 # MA IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-07-15T02:23:48+00:00
+# Updated: 2026-07-16T02:31:20+00:00
 # Total: 965 rules
 #
 IP-CIDR6,2001:470:28:598::/64
