@@ -1,6 +1,6 @@
 # JM IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-07-16T02:31:20+00:00
+# Updated: 2026-07-17T02:33:38+00:00
 # Total: 364 rules
 #
 IP-CIDR6,2001:470:18a6::/48
