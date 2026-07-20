@@ -1,7 +1,7 @@
 # RU IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-07-19T02:37:19+00:00
-# Total: 30519 rules
+# Updated: 2026-07-20T02:51:55+00:00
+# Total: 30523 rules
 #
 IP-CIDR6,2001:470:5:31e::/64
 IP-CIDR6,2001:470:5:321::/64
@@ -21811,7 +21811,11 @@ IP-CIDR6,2a0e:91c0:fbe8::/45
 IP-CIDR6,2a0e:91c0:fbf0::/44
 IP-CIDR6,2a0e:91c0:fc00::/38
 IP-CIDR6,2a0e:92c0:10::/44
-IP-CIDR6,2a0e:97c0:d70::/44
+IP-CIDR6,2a0e:97c0:d70::/48
+IP-CIDR6,2a0e:97c0:d71::/48
+IP-CIDR6,2a0e:97c0:d72::/47
+IP-CIDR6,2a0e:97c0:d74::/46
+IP-CIDR6,2a0e:97c0:d78::/45
 IP-CIDR6,2a0e:97c0:da2::/48
 IP-CIDR6,2a0e:97c1::/48
 IP-CIDR6,2a0e:97c1:d::/48
