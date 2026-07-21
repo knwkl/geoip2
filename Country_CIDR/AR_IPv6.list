@@ -1,6 +1,6 @@
 # AR IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-07-20T02:51:55+00:00
+# Updated: 2026-07-21T02:35:11+00:00
 # Total: 6264 rules
 #
 IP-CIDR6,2001:450:2001:1000:0:670:1616:8100/123
