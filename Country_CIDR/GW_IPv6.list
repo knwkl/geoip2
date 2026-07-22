@@ -1,6 +1,6 @@
 # GW IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-07-21T02:35:11+00:00
+# Updated: 2026-07-22T02:58:55+00:00
 # Total: 186 rules
 #
 IP-CIDR6,2001:470:4827::/48
