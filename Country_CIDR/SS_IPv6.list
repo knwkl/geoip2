@@ -1,11 +1,10 @@
 # SS IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-07-22T03:05:06+00:00
-# Total: 184 rules
+# Updated: 2026-07-23T02:39:08+00:00
+# Total: 183 rules
 #
 IP-CIDR6,2001:470:74d6::/48
 IP-CIDR6,2001:470:ed40::/48
-IP-CIDR6,2001:470:fa09::/48
 IP-CIDR6,2001:470:fcc6::/48
 IP-CIDR6,2001:470:fd54::/48
 IP-CIDR6,2001:67c:a38:f211::/64
