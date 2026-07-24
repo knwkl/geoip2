@@ -1,6 +1,6 @@
 # BI IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-07-23T02:39:08+00:00
+# Updated: 2026-07-24T02:35:16+00:00
 # Total: 92 rules
 #
 IP-CIDR,2.18.11.0/24
