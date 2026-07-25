@@ -1,11 +1,10 @@
 # GF IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-07-24T02:35:16+00:00
-# Total: 466 rules
+# Updated: 2026-07-25T02:33:46+00:00
+# Total: 465 rules
 #
 IP-CIDR,5.102.79.0/24
-IP-CIDR,45.169.164.0/23
-IP-CIDR,45.169.166.0/24
+IP-CIDR,45.169.164.0/22
 IP-CIDR,46.193.3.116/32
 IP-CIDR,46.193.53.128/32
 IP-CIDR,46.193.54.15/32
