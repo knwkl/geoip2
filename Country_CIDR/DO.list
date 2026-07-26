@@ -1,7 +1,7 @@
 # DO IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-07-25T02:33:46+00:00
-# Total: 874 rules
+# Updated: 2026-07-26T02:41:31+00:00
+# Total: 875 rules
 #
 IP-CIDR,5.53.3.30/32
 IP-CIDR,5.53.3.90/31
@@ -27,6 +27,7 @@ IP-CIDR,38.10.131.0/24
 IP-CIDR,38.10.132.0/22
 IP-CIDR,38.10.176.0/23
 IP-CIDR,38.10.178.0/23
+IP-CIDR,38.21.0.0/19
 IP-CIDR,38.41.160.0/20
 IP-CIDR,38.41.184.0/23
 IP-CIDR,38.43.80.0/23
