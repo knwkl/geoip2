@@ -1,7 +1,7 @@
 # LB IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-07-26T02:41:31+00:00
-# Total: 723 rules
+# Updated: 2026-07-27T02:50:18+00:00
+# Total: 724 rules
 #
 IP-CIDR,5.8.128.0/19
 IP-CIDR,5.45.188.0/24
@@ -31,6 +31,7 @@ IP-CIDR,37.209.248.0/21
 IP-CIDR,38.7.148.0/22
 IP-CIDR,38.51.51.0/24
 IP-CIDR,38.56.95.0/24
+IP-CIDR,38.77.56.0/22
 IP-CIDR,38.87.122.0/24
 IP-CIDR,38.87.123.0/24
 IP-CIDR,38.121.52.0/24
