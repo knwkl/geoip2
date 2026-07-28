@@ -1,8 +1,9 @@
 # HN IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-07-27T02:50:18+00:00
-# Total: 3263 rules
+# Updated: 2026-07-28T02:28:06+00:00
+# Total: 3264 rules
 #
+IP-CIDR6,2001:470:5:23f::/64
 IP-CIDR6,2001:470:1f2b:f2::/64
 IP-CIDR6,2001:470:222d::/48
 IP-CIDR6,2001:470:8b4c::/48

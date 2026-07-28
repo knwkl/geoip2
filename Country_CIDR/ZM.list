@@ -1,6 +1,6 @@
 # ZM IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-07-27T02:50:18+00:00
+# Updated: 2026-07-28T02:28:06+00:00
 # Total: 703 rules
 #
 IP-CIDR,5.11.8.133/32
