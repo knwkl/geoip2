@@ -1,6 +1,6 @@
 # EC IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-07-29T02:32:35+00:00
+# Updated: 2026-07-30T02:16:18+00:00
 # Total: 1943 rules
 #
 IP-CIDR,2.57.225.28/31
