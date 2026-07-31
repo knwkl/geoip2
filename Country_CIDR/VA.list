@@ -1,7 +1,7 @@
 # VA IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-07-30T02:16:18+00:00
-# Total: 52 rules
+# Updated: 2026-07-31T02:43:34+00:00
+# Total: 53 rules
 #
 IP-CIDR,5.62.61.209/32
 IP-CIDR,5.62.61.210/31
@@ -53,5 +53,6 @@ IP-CIDR,193.43.128.57/32
 IP-CIDR,195.133.0.0/24
 IP-CIDR,212.77.3.82/32
 IP-CIDR,212.77.8.0/24
+IP-CIDR,212.77.30.82/32
 IP-CIDR,212.77.30.127/32
 IP-CIDR,212.77.30.152/32
