@@ -1,10 +1,11 @@
 # SX IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-07-31T02:43:34+00:00
-# Total: 93 rules
+# Updated: 2026-08-01T02:42:07+00:00
+# Total: 94 rules
 #
 IP-CIDR,5.175.190.60/32
 IP-CIDR,65.198.230.0/24
+IP-CIDR,65.208.123.204/30
 IP-CIDR,65.208.123.236/31
 IP-CIDR,65.217.50.0/24
 IP-CIDR,65.248.160.0/24

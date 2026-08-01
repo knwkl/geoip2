@@ -1,6 +1,6 @@
 # MG IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-07-31T02:43:34+00:00
+# Updated: 2026-08-01T02:42:07+00:00
 # Total: 399 rules
 #
 IP-CIDR6,2001:470:28:10f9::/64
