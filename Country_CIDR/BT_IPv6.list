@@ -1,7 +1,7 @@
 # BT IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-08-01T02:42:07+00:00
-# Total: 582 rules
+# Updated: 2026-08-02T02:41:02+00:00
+# Total: 583 rules
 #
 IP-CIDR6,2001:470:36:90e::/64
 IP-CIDR6,2001:470:5209::/48
@@ -22,6 +22,7 @@ IP-CIDR6,2001:df5:d880::/47
 IP-CIDR6,2001:df5:e700::/48
 IP-CIDR6,2001:df6:3ec0::/48
 IP-CIDR6,2001:df6:d9c0::/48
+IP-CIDR6,2001:df7:4940::/48
 IP-CIDR6,2001:4b28:9f00::/40
 IP-CIDR6,2400:1440::/32
 IP-CIDR6,2400:4e60::/32
