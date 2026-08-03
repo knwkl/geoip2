@@ -1,7 +1,7 @@
 # MD IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-08-02T02:41:02+00:00
-# Total: 1110 rules
+# Updated: 2026-08-03T02:42:21+00:00
+# Total: 1109 rules
 #
 IP-CIDR6,2001:470:28:70::/64
 IP-CIDR6,2001:470:28:9d7::/64
@@ -215,7 +215,6 @@ IP-CIDR6,2a02:26f7:ddc4:cfe4::/63
 IP-CIDR6,2a02:26f7:ddc5::/48
 IP-CIDR6,2a02:26f7:ddc6::/47
 IP-CIDR6,2a02:26f7:ddc8:4000::/64
-IP-CIDR6,2a02:26f7:ddc8:8000::/50
 IP-CIDR6,2a02:26f7:ddc8:cfe0::/62
 IP-CIDR6,2a02:26f7:ddc8:cfe4::/63
 IP-CIDR6,2a02:26f7:ddc9::/48
@@ -622,7 +621,7 @@ IP-CIDR6,2a0e:4203:3:4000::/50
 IP-CIDR6,2a0e:4203:3:8000::/49
 IP-CIDR6,2a0e:5180::/29
 IP-CIDR6,2a0e:ac40::/29
-IP-CIDR6,2a0e:acc0:ac36::/50
+IP-CIDR6,2a0e:acc0:ac36::/48
 IP-CIDR6,2a0f:1cc5:b10:8e00::/56
 IP-CIDR6,2a0f:1cc5:b11:8e00::/56
 IP-CIDR6,2a0f:1cc5:b12:8e00::/56

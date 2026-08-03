@@ -1,9 +1,10 @@
 # KH IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-08-02T02:41:02+00:00
-# Total: 1327 rules
+# Updated: 2026-08-03T02:42:21+00:00
+# Total: 1328 rules
 #
 IP-CIDR6,2001:470:0:54b::/64
+IP-CIDR6,2001:470:0:54d::/64
 IP-CIDR6,2001:470:1:eb2::/64
 IP-CIDR6,2001:470:19:1c9::/64
 IP-CIDR6,2001:470:36:4ee::/64
