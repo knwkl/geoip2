@@ -1,6 +1,6 @@
 # PG IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-08-04T02:26:16+00:00
+# Updated: 2026-08-05T02:26:18+00:00
 # Total: 350 rules
 #
 IP-CIDR6,2001:470:36:223::/64
@@ -41,7 +41,7 @@ IP-CIDR6,2401:b60:1b04::/46
 IP-CIDR6,2401:b60:1b08::/45
 IP-CIDR6,2401:d540::/32
 IP-CIDR6,2401:e8e0::/32
-IP-CIDR6,2401:f1e0:ffff:12b2::/64
+IP-CIDR6,2401:f1e0:ffff:3fe6::/64
 IP-CIDR6,2401:f680::/32
 IP-CIDR6,2402:58c0::/32
 IP-CIDR6,2403:e800:105:300::1d/128
