@@ -1,7 +1,7 @@
 # ZA IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-08-05T02:26:18+00:00
-# Total: 9681 rules
+# Updated: 2026-08-06T02:28:22+00:00
+# Total: 9680 rules
 #
 IP-CIDR6,2001:470:0:2d7::1/128
 IP-CIDR6,2001:470:0:303::/64
@@ -7414,7 +7414,6 @@ IP-CIDR6,2c0f:f830:10::/44
 IP-CIDR6,2c0f:f830:20::/43
 IP-CIDR6,2c0f:f830:40::/42
 IP-CIDR6,2c0f:f830:80::/41
-IP-CIDR6,2c0f:f830:130::/44
 IP-CIDR6,2c0f:f830:140::/42
 IP-CIDR6,2c0f:f830:180::/41
 IP-CIDR6,2c0f:f830:200::/39
