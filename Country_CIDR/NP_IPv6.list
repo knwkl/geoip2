@@ -1,6 +1,6 @@
 # NP IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-08-06T02:28:22+00:00
+# Updated: 2026-08-07T02:36:24+00:00
 # Total: 626 rules
 #
 IP-CIDR6,2001:470:36:92c::/64

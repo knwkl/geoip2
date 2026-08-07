@@ -1,6 +1,6 @@
 # AF IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-08-06T02:28:22+00:00
+# Updated: 2026-08-07T02:36:24+00:00
 # Total: 398 rules
 #
 IP-CIDR,5.62.61.237/32

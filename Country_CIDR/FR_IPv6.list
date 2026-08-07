@@ -1,7 +1,7 @@
 # FR IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-08-06T02:28:22+00:00
-# Total: 55395 rules
+# Updated: 2026-08-07T02:36:24+00:00
+# Total: 55394 rules
 #
 IP-CIDR6,2001:218:0:4000::40/126
 IP-CIDR6,2001:418:0:2000::db/128
@@ -36849,8 +36849,7 @@ IP-CIDR6,2a03:a240:4000::/34
 IP-CIDR6,2a03:a240:8000::/33
 IP-CIDR6,2a03:a2c0::/48
 IP-CIDR6,2a03:a2c0:1::/48
-IP-CIDR6,2a03:a2c0:2::/48
-IP-CIDR6,2a03:a2c0:3::/48
+IP-CIDR6,2a03:a2c0:2::/47
 IP-CIDR6,2a03:a2c0:4::/48
 IP-CIDR6,2a03:a2c0:5::/48
 IP-CIDR6,2a03:a2c0:6::/47

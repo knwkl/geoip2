@@ -1,6 +1,6 @@
 # CU IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-08-06T02:28:22+00:00
+# Updated: 2026-08-07T02:36:24+00:00
 # Total: 101 rules
 #
 IP-CIDR,2.255.249.214/32
