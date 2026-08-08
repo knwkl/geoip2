@@ -1,7 +1,7 @@
 # LS IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-08-07T02:36:24+00:00
-# Total: 87 rules
+# Updated: 2026-08-08T01:27:37+00:00
+# Total: 86 rules
 #
 IP-CIDR,5.62.60.221/32
 IP-CIDR,5.62.60.222/31
@@ -89,4 +89,3 @@ IP-CIDR,197.220.128.0/19
 IP-CIDR,197.231.32.0/19
 IP-CIDR,197.254.128.0/18
 IP-CIDR,213.156.254.8/32
-IP-CIDR,217.15.125.0/24

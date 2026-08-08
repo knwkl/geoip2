@@ -1,6 +1,6 @@
 # CM IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-08-07T02:36:24+00:00
+# Updated: 2026-08-08T01:27:37+00:00
 # Total: 346 rules
 #
 IP-CIDR,2.16.134.0/24
