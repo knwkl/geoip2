@@ -1,6 +1,6 @@
 # JE IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-08-08T01:27:37+00:00
+# Updated: 2026-08-09T01:39:39+00:00
 # Total: 1917 rules
 #
 IP-CIDR6,2001:470:24:3f2::/64

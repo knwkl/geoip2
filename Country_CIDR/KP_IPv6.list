@@ -1,7 +1,7 @@
 # KP IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-08-08T01:27:37+00:00
-# Total: 1528 rules
+# Updated: 2026-08-09T01:39:39+00:00
+# Total: 1529 rules
 #
 IP-CIDR6,2001:288:6414:2902:84f3:edd1:8f87:6671/128
 IP-CIDR6,2001:470:b:58::/64
@@ -135,6 +135,7 @@ IP-CIDR6,2001:470:eeb3::/48
 IP-CIDR6,2001:470:eefb::/48
 IP-CIDR6,2001:470:ef26::/48
 IP-CIDR6,2001:470:ef2d::/48
+IP-CIDR6,2001:470:ef4e::/48
 IP-CIDR6,2001:470:ef93::/48
 IP-CIDR6,2001:470:efc2::/48
 IP-CIDR6,2001:470:efdd::/48

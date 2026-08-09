@@ -1,9 +1,10 @@
 # MF IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-08-08T01:27:37+00:00
-# Total: 103 rules
+# Updated: 2026-08-09T01:39:39+00:00
+# Total: 104 rules
 #
 IP-CIDR,5.175.190.104/29
+IP-CIDR,5.187.121.20/30
 IP-CIDR,23.138.120.0/24
 IP-CIDR,45.15.196.0/22
 IP-CIDR,45.62.191.208/28
