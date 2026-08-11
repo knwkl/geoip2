@@ -1,6 +1,6 @@
 # KR IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-08-10T01:42:41+00:00
+# Updated: 2026-08-11T01:39:30+00:00
 # Total: 6564 rules
 #
 IP-CIDR6,2001:218:0:1000::45/128
