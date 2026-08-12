@@ -1,6 +1,6 @@
 # BO IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-08-11T01:39:30+00:00
+# Updated: 2026-08-12T01:50:29+00:00
 # Total: 622 rules
 #
 IP-CIDR,5.53.0.242/32

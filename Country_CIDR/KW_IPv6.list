@@ -1,6 +1,6 @@
 # KW IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-08-11T01:39:30+00:00
+# Updated: 2026-08-12T01:50:29+00:00
 # Total: 1231 rules
 #
 IP-CIDR6,2001:470:28:1161::/64
