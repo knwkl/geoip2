@@ -1,6 +1,6 @@
 # AQ IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-08-12T01:50:29+00:00
+# Updated: 2026-08-13T01:53:06+00:00
 # Total: 71 rules
 #
 IP-CIDR,23.158.20.216/30
