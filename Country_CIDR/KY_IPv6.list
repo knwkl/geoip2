@@ -1,11 +1,10 @@
 # KY IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-08-13T01:53:06+00:00
-# Total: 164 rules
+# Updated: 2026-08-14T01:50:24+00:00
+# Total: 163 rules
 #
 IP-CIDR6,2001:470:26:743::/64
 IP-CIDR6,2001:470:293d::/48
-IP-CIDR6,2001:470:8886::/48
 IP-CIDR6,2001:470:b6dc::/48
 IP-CIDR6,2001:470:d839::/48
 IP-CIDR6,2001:470:d902::/48
