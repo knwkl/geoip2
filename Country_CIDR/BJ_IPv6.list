@@ -1,8 +1,9 @@
 # BJ IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-08-15T01:09:15+00:00
-# Total: 265 rules
+# Updated: 2026-08-16T01:13:16+00:00
+# Total: 266 rules
 #
+IP-CIDR6,2001:470:6d:b28::/64
 IP-CIDR6,2001:470:b72d::/48
 IP-CIDR6,2001:470:f537::/48
 IP-CIDR6,2001:67c:a38:f229::/64
