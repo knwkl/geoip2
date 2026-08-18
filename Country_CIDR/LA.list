@@ -1,7 +1,7 @@
 # LA IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-08-17T01:10:59+00:00
-# Total: 257 rules
+# Updated: 2026-08-18T01:08:45+00:00
+# Total: 258 rules
 #
 IP-CIDR,5.62.60.209/32
 IP-CIDR,5.62.60.210/31
@@ -259,4 +259,5 @@ IP-CIDR,202.137.152.0/21
 IP-CIDR,202.144.184.0/21
 IP-CIDR,203.19.5.0/24
 IP-CIDR,203.110.64.0/20
+IP-CIDR,206.212.252.0/24
 IP-CIDR,223.119.82.130/32

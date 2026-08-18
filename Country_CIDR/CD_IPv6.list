@@ -1,7 +1,7 @@
 # CD IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-08-17T01:10:59+00:00
-# Total: 376 rules
+# Updated: 2026-08-18T01:08:45+00:00
+# Total: 364 rules
 #
 IP-CIDR6,2001:470:eef6::/48
 IP-CIDR6,2001:470:fcb4::/48
@@ -323,19 +323,7 @@ IP-CIDR6,2c0f:eb00:918::/45
 IP-CIDR6,2c0f:eb00:920::/43
 IP-CIDR6,2c0f:eb00:940::/42
 IP-CIDR6,2c0f:eb00:980::/41
-IP-CIDR6,2c0f:eb00:1601::/48
-IP-CIDR6,2c0f:eb00:1602::/47
-IP-CIDR6,2c0f:eb00:1604::/46
-IP-CIDR6,2c0f:eb00:1608::/46
-IP-CIDR6,2c0f:eb00:160c::/47
-IP-CIDR6,2c0f:eb00:160f::/48
-IP-CIDR6,2c0f:eb00:1611::/48
-IP-CIDR6,2c0f:eb00:1612::/47
-IP-CIDR6,2c0f:eb00:1614::/46
-IP-CIDR6,2c0f:eb00:1618::/45
-IP-CIDR6,2c0f:eb00:1620::/43
-IP-CIDR6,2c0f:eb00:1640::/42
-IP-CIDR6,2c0f:eb00:1680::/41
+IP-CIDR6,2c0f:eb00:1600::/40
 IP-CIDR6,2c0f:ebb0::/32
 IP-CIDR6,2c0f:eca0::/32
 IP-CIDR6,2c0f:eca8::/32
