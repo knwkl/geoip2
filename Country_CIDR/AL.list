@@ -1,11 +1,9 @@
 # AL IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-08-21T01:12:58+00:00
-# Total: 587 rules
+# Updated: 2026-08-22T01:09:11+00:00
+# Total: 585 rules
 #
-IP-CIDR,5.56.9.98/31
-IP-CIDR,5.56.9.110/31
-IP-CIDR,5.56.9.248/29
+IP-CIDR,5.56.9.253/32
 IP-CIDR,5.62.61.241/32
 IP-CIDR,5.62.61.242/31
 IP-CIDR,5.62.63.236/30

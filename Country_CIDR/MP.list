@@ -1,7 +1,7 @@
 # MP IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-08-21T01:12:58+00:00
-# Total: 78 rules
+# Updated: 2026-08-22T01:09:11+00:00
+# Total: 79 rules
 #
 IP-CIDR,5.62.60.165/32
 IP-CIDR,8.3.119.192/26
@@ -9,6 +9,7 @@ IP-CIDR,8.3.124.0/23
 IP-CIDR,8.3.126.0/24
 IP-CIDR,8.3.127.32/29
 IP-CIDR,8.3.127.48/28
+IP-CIDR,8.3.127.86/32
 IP-CIDR,8.3.127.129/32
 IP-CIDR,8.3.127.146/31
 IP-CIDR,8.3.127.225/32
