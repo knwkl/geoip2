@@ -1,6 +1,6 @@
 # BW IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-08-24T01:12:22+00:00
+# Updated: 2026-08-25T01:11:07+00:00
 # Total: 459 rules
 #
 IP-CIDR,5.62.60.45/32
