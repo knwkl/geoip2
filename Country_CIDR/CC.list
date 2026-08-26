@@ -1,10 +1,8 @@
 # CC IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-08-25T01:11:07+00:00
-# Total: 17 rules
+# Updated: 2026-08-26T01:13:13+00:00
+# Total: 15 rules
 #
-IP-CIDR,5.62.60.93/32
-IP-CIDR,5.62.60.94/31
 IP-CIDR,5.62.62.88/30
 IP-CIDR,103.37.63.83/32
 IP-CIDR,104.28.9.12/31
