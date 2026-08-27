@@ -1,7 +1,7 @@
 # AT IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-08-26T01:13:13+00:00
-# Total: 14500 rules
+# Updated: 2026-08-27T07:27:31+00:00
+# Total: 14498 rules
 #
 IP-CIDR6,2001:418:0:5000::c16/128
 IP-CIDR6,2001:418:16::2/127
@@ -12788,8 +12788,6 @@ IP-CIDR6,2a0f:31c6:6000::/35
 IP-CIDR6,2a0f:31c6:8000::/33
 IP-CIDR6,2a0f:3800::/29
 IP-CIDR6,2a0f:40c0::/29
-IP-CIDR6,2a0f:4ac0:1::/50
-IP-CIDR6,2a0f:4ac1:1::/50
 IP-CIDR6,2a0f:5707:20::/48
 IP-CIDR6,2a0f:6280:c846::/48
 IP-CIDR6,2a0f:6280:ca17::/48
