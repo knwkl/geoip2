@@ -1,6 +1,6 @@
 # IO IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-08-27T07:27:31+00:00
+# Updated: 2026-08-28T09:42:26+00:00
 # Total: 63 rules
 #
 IP-CIDR,41.194.34.0/25
