@@ -1,11 +1,12 @@
 # VU IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-08-29T05:45:43+00:00
-# Total: 82 rules
+# Updated: 2026-08-30T03:48:48+00:00
+# Total: 83 rules
 #
 IP-CIDR,5.62.57.96/30
 IP-CIDR,5.62.59.76/30
-IP-CIDR,14.137.37.150/32
+IP-CIDR,14.137.37.0/24
+IP-CIDR,14.137.43.0/24
 IP-CIDR,57.70.164.0/23
 IP-CIDR,57.71.80.0/20
 IP-CIDR,66.96.121.192/26

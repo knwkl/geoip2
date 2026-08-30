@@ -1,11 +1,12 @@
 # DZ IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-08-29T05:45:43+00:00
-# Total: 361 rules
+# Updated: 2026-08-30T03:48:48+00:00
+# Total: 362 rules
 #
 IP-CIDR6,2001:470:36:394::/64
 IP-CIDR6,2001:470:6d:2b9::/64
 IP-CIDR6,2001:470:1f29:39::/64
+IP-CIDR6,2001:470:1f29:2fb::/64
 IP-CIDR6,2001:470:2062::/48
 IP-CIDR6,2001:470:2859::/48
 IP-CIDR6,2001:470:2a40::/48
