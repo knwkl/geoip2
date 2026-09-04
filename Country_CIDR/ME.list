@@ -1,7 +1,7 @@
 # ME IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-09-03T03:03:28+00:00
-# Total: 245 rules
+# Updated: 2026-09-04T03:03:27+00:00
+# Total: 244 rules
 #
 IP-CIDR,5.62.63.24/30
 IP-CIDR,31.204.192.0/18
@@ -22,7 +22,6 @@ IP-CIDR,37.0.69.192/28
 IP-CIDR,37.0.70.14/32
 IP-CIDR,37.0.70.22/32
 IP-CIDR,37.0.70.98/31
-IP-CIDR,37.0.70.112/28
 IP-CIDR,37.0.70.166/32
 IP-CIDR,37.0.71.82/32
 IP-CIDR,37.0.71.161/32

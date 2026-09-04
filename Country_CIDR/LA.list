@@ -1,6 +1,6 @@
 # LA IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-09-03T03:03:28+00:00
+# Updated: 2026-09-04T03:03:27+00:00
 # Total: 309 rules
 #
 IP-CIDR,5.62.62.200/30

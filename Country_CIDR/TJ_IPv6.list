@@ -1,7 +1,7 @@
 # TJ IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-09-03T03:03:28+00:00
-# Total: 292 rules
+# Updated: 2026-09-04T03:03:27+00:00
+# Total: 291 rules
 #
 IP-CIDR6,2001:470:2101::/48
 IP-CIDR6,2001:470:2107::/48
@@ -244,7 +244,6 @@ IP-CIDR6,2a13:1b00:8000::/33
 IP-CIDR6,2a13:1b01::/32
 IP-CIDR6,2a13:1b02::/31
 IP-CIDR6,2a13:1b04::/30
-IP-CIDR6,2a13:64c3::/32
 IP-CIDR6,2a13:82c4:ff28::/48
 IP-CIDR6,2a13:a5c3:d4a8::/46
 IP-CIDR6,2a13:a5c7:25da::/48
