@@ -1,11 +1,10 @@
 # BL IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-09-05T03:05:25+00:00
-# Total: 139 rules
+# Updated: 2026-09-06T03:05:23+00:00
+# Total: 138 rules
 #
 IP-CIDR6,2001:470:ec07::/48
 IP-CIDR6,2001:470:ec29::/48
-IP-CIDR6,2001:470:f5f2::/48
 IP-CIDR6,2001:470:f9d7::/48
 IP-CIDR6,2001:470:fc36::/48
 IP-CIDR6,2001:470:fc60::/48
