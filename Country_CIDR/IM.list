@@ -1,6 +1,6 @@
 # IM IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-09-06T03:05:23+00:00
+# Updated: 2026-09-07T03:03:08+00:00
 # Total: 387 rules
 #
 IP-CIDR,5.62.81.4/30
