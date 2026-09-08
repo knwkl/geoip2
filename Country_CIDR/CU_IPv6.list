@@ -1,7 +1,7 @@
 # CU IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-09-07T03:03:08+00:00
-# Total: 271 rules
+# Updated: 2026-09-08T03:12:38+00:00
+# Total: 259 rules
 #
 IP-CIDR6,2001:470:5:f7::/64
 IP-CIDR6,2001:470:b:7a5::/64
@@ -59,18 +59,6 @@ IP-CIDR6,2606:54c3:0:9e5::/64
 IP-CIDR6,2606:54c3:0:164f::/64
 IP-CIDR6,2606:54c3:0:1a75::/64
 IP-CIDR6,2606:f188:116::/48
-IP-CIDR6,2620:0:1cff:dead:beef::5bd4/128
-IP-CIDR6,2620:0:1cff:dead:beef::5bd6/128
-IP-CIDR6,2620:0:1cff:dead:beef::5bda/128
-IP-CIDR6,2620:0:1cff:dead:beef::5bdc/128
-IP-CIDR6,2620:0:1cff:dead:beef::5d8a/128
-IP-CIDR6,2620:0:1cff:dead:beef::5df4/128
-IP-CIDR6,2620:0:1cff:dead:beef::5df6/128
-IP-CIDR6,2620:0:1cff:dead:beef::7752/128
-IP-CIDR6,2620:0:1cff:dead:beef::7758/128
-IP-CIDR6,2620:0:1cff:dead:beef::775a/128
-IP-CIDR6,2620:0:1cff:dead:beef::775c/128
-IP-CIDR6,2620:0:1cff:dead:beef:ffff:ffff:ee8a/128
 IP-CIDR6,2800:230::/32
 IP-CIDR6,2800:360::/32
 IP-CIDR6,2800:910::/32

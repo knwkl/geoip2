@@ -1,7 +1,7 @@
 # GU IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-09-07T03:03:08+00:00
-# Total: 549 rules
+# Updated: 2026-09-08T03:12:38+00:00
+# Total: 547 rules
 #
 IP-CIDR6,2001:470:0:49d::/64
 IP-CIDR6,2001:470:0:49e::2/128
@@ -413,8 +413,6 @@ IP-CIDR6,2607:8940:41b0::/55
 IP-CIDR6,2607:8940:41c0::/55
 IP-CIDR6,2620:0:876:105::/64
 IP-CIDR6,2620:0:876:205::/64
-IP-CIDR6,2620:0:1cff:dead:beef::7f8/128
-IP-CIDR6,2620:0:1cff:dead:beef::7209/128
 IP-CIDR6,2620:171:5::/48
 IP-CIDR6,2a01:528:d300::/40
 IP-CIDR6,2a01:bc80::/50

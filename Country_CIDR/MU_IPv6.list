@@ -1,7 +1,7 @@
 # MU IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-09-07T03:03:08+00:00
-# Total: 8334 rules
+# Updated: 2026-09-08T03:12:38+00:00
+# Total: 8333 rules
 #
 IP-CIDR6,2001:470:28:94f::/64
 IP-CIDR6,2001:470:1f23:4c1::/64
@@ -8230,7 +8230,6 @@ IP-CIDR6,2c0f:feb0:2b:1000::/52
 IP-CIDR6,2c0f:feb0:2b:2000::/51
 IP-CIDR6,2c0f:feb0:2b:4000::/50
 IP-CIDR6,2c0f:feb0:2b:8000::/49
-IP-CIDR6,2c0f:feb0:2e::/48
 IP-CIDR6,2c0f:feb0:30::/48
 IP-CIDR6,2c0f:feb0:32::/47
 IP-CIDR6,2c0f:feb0:35::/48
