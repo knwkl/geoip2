@@ -1,7 +1,7 @@
 # TK IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-09-08T03:12:38+00:00
-# Total: 151 rules
+# Updated: 2026-09-09T03:15:02+00:00
+# Total: 150 rules
 #
 IP-CIDR6,2001:470:1845::/48
 IP-CIDR6,2001:470:19b5::/48
@@ -128,7 +128,6 @@ IP-CIDR6,2a0f:1cc5:b15:de00::/56
 IP-CIDR6,2a0f:1cc5:b16:de00::/56
 IP-CIDR6,2a0f:1cc5:b17:de00::/56
 IP-CIDR6,2a0f:1cc5:1fe6::/48
-IP-CIDR6,2a10:fa81:18db::/48
 IP-CIDR6,2a11:29c0:3d88:ebea::/64
 IP-CIDR6,2a11:3a83:c000::/35
 IP-CIDR6,2a12:f005:9000::/36
