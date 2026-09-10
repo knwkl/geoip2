@@ -1,14 +1,13 @@
 # MV IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-09-09T03:15:02+00:00
-# Total: 337 rules
+# Updated: 2026-09-10T03:14:35+00:00
+# Total: 336 rules
 #
 IP-CIDR6,2001:470:24:35a::/64
 IP-CIDR6,2001:470:24:35c::/64
 IP-CIDR6,2001:470:36:1df::/64
 IP-CIDR6,2001:470:36:7ea::/64
 IP-CIDR6,2001:470:36:87d::/64
-IP-CIDR6,2001:470:68bf::/48
 IP-CIDR6,2001:470:69b3::/48
 IP-CIDR6,2001:470:ec68::/48
 IP-CIDR6,2001:470:ed9b::/48
