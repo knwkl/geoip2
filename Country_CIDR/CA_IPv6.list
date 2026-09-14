@@ -1,7 +1,7 @@
 # CA IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-09-13T03:20:38+00:00
-# Total: 45724 rules
+# Updated: 2026-09-14T03:32:01+00:00
+# Total: 45725 rules
 #
 IP-CIDR6,2001:410::/40
 IP-CIDR6,2001:410:100::/48
@@ -5240,6 +5240,7 @@ IP-CIDR6,2001:558:10fc:7::/64
 IP-CIDR6,2001:558:fef8::/64
 IP-CIDR6,2001:558:fef8:2::/64
 IP-CIDR6,2001:558:fef8:7::/64
+IP-CIDR6,2001:558:fef8:8::/64
 IP-CIDR6,2001:558:fef8:d::/64
 IP-CIDR6,2001:558:fef8:e::/63
 IP-CIDR6,2001:558:fef8:12::/63
