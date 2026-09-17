@@ -1,7 +1,7 @@
 # SG IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-09-16T03:29:20+00:00
-# Total: 83720 rules
+# Updated: 2026-09-17T03:34:57+00:00
+# Total: 83721 rules
 #
 IP-CIDR6,2001:200:901:5d2f::2/128
 IP-CIDR6,2001:208::/32
@@ -38978,7 +38978,8 @@ IP-CIDR6,240d:c010:1ea::/47
 IP-CIDR6,240d:c010:1ec::/48
 IP-CIDR6,240d:c010:1ed:4000::/50
 IP-CIDR6,240d:c010:1ed:8000::/49
-IP-CIDR6,240d:c010:1ee::/47
+IP-CIDR6,240d:c010:1ee::/48
+IP-CIDR6,240d:c010:1ef::/48
 IP-CIDR6,240d:c010:1f0::/48
 IP-CIDR6,240d:c010:1f1:4000::/50
 IP-CIDR6,240d:c010:1f1:8000::/49
