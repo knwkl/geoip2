@@ -1,7 +1,7 @@
 # PW IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-09-17T03:34:57+00:00
-# Total: 197 rules
+# Updated: 2026-09-18T03:20:39+00:00
+# Total: 198 rules
 #
 IP-CIDR6,2001:470:36:7d3::/64
 IP-CIDR6,2001:470:efca::/48
@@ -17,6 +17,7 @@ IP-CIDR6,2401:b60:1ad4::/46
 IP-CIDR6,2401:b60:1ad8::/45
 IP-CIDR6,2401:3620:231:bc::/64
 IP-CIDR6,2401:f1e0:ffff:4dd2::/64
+IP-CIDR6,2401:f1e0:ffff:b2c7::/64
 IP-CIDR6,2401:f1e0:ffff:e3af::/64
 IP-CIDR6,2401:f1e0:ffff:e4a2::/64
 IP-CIDR6,2404:7800::/32

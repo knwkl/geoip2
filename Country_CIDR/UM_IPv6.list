@@ -1,11 +1,12 @@
 # UM IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-09-17T03:34:57+00:00
-# Total: 129 rules
+# Updated: 2026-09-18T03:20:39+00:00
+# Total: 130 rules
 #
 IP-CIDR6,2001:470:180a::/48
 IP-CIDR6,2001:470:1aaf::/48
 IP-CIDR6,2001:470:283f::/48
+IP-CIDR6,2001:470:490a::/48
 IP-CIDR6,2001:470:5892::/48
 IP-CIDR6,2001:470:6e0e::/48
 IP-CIDR6,2001:470:7180::/48

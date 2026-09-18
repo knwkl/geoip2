@@ -1,7 +1,7 @@
 # WS IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-09-17T03:34:57+00:00
-# Total: 322 rules
+# Updated: 2026-09-18T03:20:39+00:00
+# Total: 326 rules
 #
 IP-CIDR6,2001:470:f9b0::/48
 IP-CIDR6,2001:67c:a38:f685::/64
@@ -125,6 +125,10 @@ IP-CIDR6,2401:ae60:1800::/37
 IP-CIDR6,2401:ae60:2000::/35
 IP-CIDR6,2401:ae60:4000::/34
 IP-CIDR6,2401:ae60:8000::/33
+IP-CIDR6,2401:f1e0:ffff:26::/64
+IP-CIDR6,2401:f1e0:ffff:446e::/64
+IP-CIDR6,2401:f1e0:ffff:740b::/64
+IP-CIDR6,2401:f1e0:ffff:fd37::/64
 IP-CIDR6,2402:ae80:0:4000::/50
 IP-CIDR6,2402:ae80:0:8000::/49
 IP-CIDR6,2402:ae80:1::/48

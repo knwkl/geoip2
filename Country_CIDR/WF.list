@@ -1,9 +1,8 @@
 # WF IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-09-17T03:34:57+00:00
-# Total: 35 rules
+# Updated: 2026-09-18T03:20:39+00:00
+# Total: 34 rules
 #
-IP-CIDR,5.175.190.160/29
 IP-CIDR,27.125.192.0/22
 IP-CIDR,103.235.110.0/23
 IP-CIDR,104.28.15.91/32
