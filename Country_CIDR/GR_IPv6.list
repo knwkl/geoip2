@@ -1,7 +1,7 @@
 # GR IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-09-18T03:20:39+00:00
-# Total: 4834 rules
+# Updated: 2026-09-19T03:16:56+00:00
+# Total: 4835 rules
 #
 IP-CIDR6,2001:470:0:2e2::2/128
 IP-CIDR6,2001:470:0:749::2/128
@@ -3718,7 +3718,6 @@ IP-CIDR6,2a0d:3dc1:7d12::/48
 IP-CIDR6,2a0d:3dc1:7fd3::/48
 IP-CIDR6,2a0d:3dc1:82f8::/48
 IP-CIDR6,2a0d:3dc1:8342::/48
-IP-CIDR6,2a0d:3dc1:8eeb::/48
 IP-CIDR6,2a0d:3dc1:8f43::/48
 IP-CIDR6,2a0d:3dc1:8f6f::/48
 IP-CIDR6,2a0d:3dc1:8f7b::/48
@@ -3729,6 +3728,8 @@ IP-CIDR6,2a0d:3dc1:909b::/48
 IP-CIDR6,2a0d:3dc1:90ba::/48
 IP-CIDR6,2a0d:3dc1:911f::/48
 IP-CIDR6,2a0d:3dc1:912b::/48
+IP-CIDR6,2a0d:3dc1:91af::/48
+IP-CIDR6,2a0d:3dc1:91bb::/48
 IP-CIDR6,2a0d:3dc1:91cf::/48
 IP-CIDR6,2a0d:3dc1:9281::/48
 IP-CIDR6,2a0d:3dc1:92e0::/48

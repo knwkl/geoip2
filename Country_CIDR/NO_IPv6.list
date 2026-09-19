@@ -1,7 +1,7 @@
 # NO IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-09-18T03:20:39+00:00
-# Total: 8613 rules
+# Updated: 2026-09-19T03:16:56+00:00
+# Total: 8638 rules
 #
 IP-CIDR6,2001:470:0:5af::2/128
 IP-CIDR6,2001:470:0:795::2/128
@@ -4340,7 +4340,32 @@ IP-CIDR6,2a01:ffc6:8400::/38
 IP-CIDR6,2a01:ffc6:8800::/37
 IP-CIDR6,2a01:ffc6:9000::/36
 IP-CIDR6,2a01:ffc6:a000::/35
-IP-CIDR6,2a01:ffc6:c000::/34
+IP-CIDR6,2a01:ffc6:c000::/41
+IP-CIDR6,2a01:ffc6:c080::/42
+IP-CIDR6,2a01:ffc6:c0c0::/48
+IP-CIDR6,2a01:ffc6:c0c1::/48
+IP-CIDR6,2a01:ffc6:c0c2::/47
+IP-CIDR6,2a01:ffc6:c0c4::/46
+IP-CIDR6,2a01:ffc6:c0c8::/45
+IP-CIDR6,2a01:ffc6:c0d0::/44
+IP-CIDR6,2a01:ffc6:c0e0::/43
+IP-CIDR6,2a01:ffc6:c100::/40
+IP-CIDR6,2a01:ffc6:c200::/39
+IP-CIDR6,2a01:ffc6:c400::/38
+IP-CIDR6,2a01:ffc6:c800::/39
+IP-CIDR6,2a01:ffc6:ca00::/41
+IP-CIDR6,2a01:ffc6:ca80::/42
+IP-CIDR6,2a01:ffc6:cac0::/43
+IP-CIDR6,2a01:ffc6:cae0::/44
+IP-CIDR6,2a01:ffc6:caf0::/45
+IP-CIDR6,2a01:ffc6:caf8::/46
+IP-CIDR6,2a01:ffc6:cafc::/47
+IP-CIDR6,2a01:ffc6:cafe::/48
+IP-CIDR6,2a01:ffc6:caff::/48
+IP-CIDR6,2a01:ffc6:cb00::/40
+IP-CIDR6,2a01:ffc6:cc00::/38
+IP-CIDR6,2a01:ffc6:d000::/36
+IP-CIDR6,2a01:ffc6:e000::/35
 IP-CIDR6,2a01:ffc7::/48
 IP-CIDR6,2a01:ffc7:1::/48
 IP-CIDR6,2a01:ffc7:2::/47
