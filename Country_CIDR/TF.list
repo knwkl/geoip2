@@ -1,6 +1,6 @@
 # TF IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-09-20T03:34:02+00:00
+# Updated: 2026-09-21T03:28:51+00:00
 # Total: 11 rules
 #
 IP-CIDR,104.28.13.67/32
