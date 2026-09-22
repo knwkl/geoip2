@@ -1,7 +1,7 @@
 # UA IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-09-21T03:28:51+00:00
-# Total: 8538 rules
+# Updated: 2026-09-22T03:28:51+00:00
+# Total: 8535 rules
 #
 IP-CIDR6,2001:470:0:f1::2/128
 IP-CIDR6,2001:470:0:122::2/128
@@ -4515,17 +4515,14 @@ IP-CIDR6,2a0a:2c0::/48
 IP-CIDR6,2a0a:2c0:1::/48
 IP-CIDR6,2a0a:2c0:2::/48
 IP-CIDR6,2a0a:2c0:3::/48
-IP-CIDR6,2a0a:2c0:4::/48
-IP-CIDR6,2a0a:2c0:5::/48
-IP-CIDR6,2a0a:2c0:6::/47
+IP-CIDR6,2a0a:2c0:4::/46
 IP-CIDR6,2a0a:2c0:8::/45
 IP-CIDR6,2a0a:2c0:10::/48
 IP-CIDR6,2a0a:2c0:11::/48
 IP-CIDR6,2a0a:2c0:12::/47
 IP-CIDR6,2a0a:2c0:14::/46
 IP-CIDR6,2a0a:2c0:18::/48
-IP-CIDR6,2a0a:2c0:1a::/48
-IP-CIDR6,2a0a:2c0:1b::/48
+IP-CIDR6,2a0a:2c0:1a::/47
 IP-CIDR6,2a0a:2c0:1c::/46
 IP-CIDR6,2a0a:2c0:20::/43
 IP-CIDR6,2a0a:2c0:40::/42

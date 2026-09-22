@@ -1,6 +1,6 @@
 # MH IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-09-21T03:28:51+00:00
+# Updated: 2026-09-22T03:28:51+00:00
 # Total: 131 rules
 #
 IP-CIDR,23.181.56.0/24
