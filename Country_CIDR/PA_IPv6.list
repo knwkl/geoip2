@@ -1,7 +1,7 @@
 # PA IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-09-24T03:18:27+00:00
-# Total: 955 rules
+# Updated: 2026-09-25T03:35:59+00:00
+# Total: 958 rules
 #
 IP-CIDR6,2001:470:28:5c7::/64
 IP-CIDR6,2001:470:1f2b:144::/64
@@ -614,6 +614,9 @@ IP-CIDR6,2a0d:9444:5000::/37
 IP-CIDR6,2a0e:4001:9ff:ab::/64
 IP-CIDR6,2a0e:8f01:1000:67::/64
 IP-CIDR6,2a0e:acc0:ac90::/48
+IP-CIDR6,2a0e:ad81::/33
+IP-CIDR6,2a0e:ad81:8000::/33
+IP-CIDR6,2a0e:ad82::/33
 IP-CIDR6,2a0e:b107:dc8::/48
 IP-CIDR6,2a0f:1cc5:b10:ab00::/56
 IP-CIDR6,2a0f:1cc5:b11:ab00::/56
