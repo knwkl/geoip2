@@ -1,7 +1,7 @@
 # AU IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-09-27T03:50:46+00:00
-# Total: 128718 rules
+# Updated: 2026-09-28T03:50:20+00:00
+# Total: 128714 rules
 #
 IP-CIDR6,2001:201::/32
 IP-CIDR6,2001:202::/31
@@ -101104,11 +101104,7 @@ IP-CIDR6,2406:c500:ffd8::/48
 IP-CIDR6,2406:c500:ffd9::/48
 IP-CIDR6,2406:c500:ffda::/47
 IP-CIDR6,2406:c500:ffdc::/46
-IP-CIDR6,2406:c500:ffe0::/45
-IP-CIDR6,2406:c500:ffe8::/46
-IP-CIDR6,2406:c500:ffec::/47
-IP-CIDR6,2406:c500:ffee::/48
-IP-CIDR6,2406:c500:ffef::/48
+IP-CIDR6,2406:c500:ffe0::/44
 IP-CIDR6,2406:c500:fff0::/47
 IP-CIDR6,2406:c500:fff2::/48
 IP-CIDR6,2406:c500:fff3::/48
