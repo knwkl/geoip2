@@ -1,7 +1,7 @@
 # SZ IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-09-28T03:50:20+00:00
-# Total: 215 rules
+# Updated: 2026-09-29T04:24:58+00:00
+# Total: 216 rules
 #
 IP-CIDR6,2001:470:1940::/48
 IP-CIDR6,2001:470:4974::/48
@@ -133,6 +133,7 @@ IP-CIDR6,2a0b:4e07:3:7480::/60
 IP-CIDR6,2a0c:9a40:95b4:5000::/52
 IP-CIDR6,2a0c:9a46:3d5::/48
 IP-CIDR6,2a0c:9a46:3fe:d4::/64
+IP-CIDR6,2a0d:2684:d5::/48
 IP-CIDR6,2a0d:3341:b240::/42
 IP-CIDR6,2a0d:9442:9000::/37
 IP-CIDR6,2a0e:4001:9ff:46::/64
