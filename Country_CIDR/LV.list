@@ -1,6 +1,6 @@
 # LV IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-09-30T04:08:03+00:00
+# Updated: 2026-10-01T04:20:18+00:00
 # Total: 1975 rules
 #
 IP-CIDR,2.26.94.0/24
