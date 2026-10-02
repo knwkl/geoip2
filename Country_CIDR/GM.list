@@ -1,6 +1,6 @@
 # GM IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-10-01T04:20:18+00:00
+# Updated: 2026-10-02T04:12:57+00:00
 # Total: 98 rules
 #
 IP-CIDR,5.62.62.136/30
