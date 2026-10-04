@@ -1,7 +1,7 @@
 # GM IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-10-03T03:55:45+00:00
-# Total: 199 rules
+# Updated: 2026-10-04T04:28:20+00:00
+# Total: 200 rules
 #
 IP-CIDR6,2001:43f8:970::/48
 IP-CIDR6,2405:b500:2ca0:38::/64
@@ -153,6 +153,7 @@ IP-CIDR6,2a12:f381:cd00::/40
 IP-CIDR6,2a12:f382:cd00::/40
 IP-CIDR6,2a13:241:1900::/40
 IP-CIDR6,2a13:82c4:ff5c::/48
+IP-CIDR6,2a13:9500:1e4:411::/64
 IP-CIDR6,2a13:ef41:144f::/48
 IP-CIDR6,2a13:ef41:1450::/46
 IP-CIDR6,2a13:ef41:1454::/48

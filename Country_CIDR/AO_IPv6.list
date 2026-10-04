@@ -1,7 +1,7 @@
 # AO IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-10-03T03:55:45+00:00
-# Total: 648 rules
+# Updated: 2026-10-04T04:28:20+00:00
+# Total: 649 rules
 #
 IP-CIDR6,2001:15d8:2:5::2/128
 IP-CIDR6,2001:4250::/32
@@ -196,6 +196,7 @@ IP-CIDR6,2a12:f381:8700::/40
 IP-CIDR6,2a12:f382:8700::/40
 IP-CIDR6,2a13:240:fa00::/40
 IP-CIDR6,2a13:82c4:ff4b::/48
+IP-CIDR6,2a13:9500:1e4:9f::/64
 IP-CIDR6,2a13:a5c3:d104::/46
 IP-CIDR6,2a13:b487:5018::/48
 IP-CIDR6,2a13:ef41:104f::/48

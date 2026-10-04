@@ -1,7 +1,7 @@
 # CU IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-10-03T03:55:45+00:00
-# Total: 195 rules
+# Updated: 2026-10-04T04:28:20+00:00
+# Total: 198 rules
 #
 IP-CIDR6,2001:470:5:f7::/64
 IP-CIDR6,2001:470:b:7a5::/64
@@ -169,6 +169,9 @@ IP-CIDR6,2a11:29c0:3d88:fd04::/64
 IP-CIDR6,2a12:bec0:682::/48
 IP-CIDR6,2a12:f381:b000::/40
 IP-CIDR6,2a12:f382:b000::/40
+IP-CIDR6,2a13:9500:1e4:49d::/64
+IP-CIDR6,2a13:9500:1e4:820::/64
+IP-CIDR6,2a13:9500:1e4:1278::/64
 IP-CIDR6,2a13:a5c3:d668::/46
 IP-CIDR6,2a13:b487:5007::/48
 IP-CIDR6,2a13:ef41:128a::/47

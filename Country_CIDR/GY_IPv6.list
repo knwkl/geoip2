@@ -1,7 +1,7 @@
 # GY IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-10-03T03:55:45+00:00
-# Total: 129 rules
+# Updated: 2026-10-04T04:28:20+00:00
+# Total: 130 rules
 #
 IP-CIDR6,2400:cb00:482::/48
 IP-CIDR6,2405:b500:3100::/64
@@ -118,6 +118,7 @@ IP-CIDR6,2a11:29c0:3d88:ea9b::/64
 IP-CIDR6,2a12:f381:d400::/40
 IP-CIDR6,2a12:f382:d400::/40
 IP-CIDR6,2a13:241:2000::/40
+IP-CIDR6,2a13:9500:1e4:3bc::/64
 IP-CIDR6,2a13:ef41:1487::/48
 IP-CIDR6,2a13:ef41:1488::/45
 IP-CIDR6,2a13:ef41:1490::/48

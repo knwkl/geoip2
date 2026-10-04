@@ -1,7 +1,7 @@
 # FO IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-10-03T03:55:45+00:00
-# Total: 150 rules
+# Updated: 2026-10-04T04:28:20+00:00
+# Total: 151 rules
 #
 IP-CIDR6,2001:470:1a34::/48
 IP-CIDR6,2001:470:1c07::/48
@@ -148,6 +148,7 @@ IP-CIDR6,2a11:29c0:3d88:ec1f::/64
 IP-CIDR6,2a11:29c0:3d88:f244::/64
 IP-CIDR6,2a12:f381:c400::/40
 IP-CIDR6,2a12:f382:c400::/40
+IP-CIDR6,2a13:9500:1e4:208::/64
 IP-CIDR6,2a13:b487:5028::/48
 IP-CIDR6,2a14:2d45:4900::/40
 IP-CIDR6,2a14:67c1:b648::/48

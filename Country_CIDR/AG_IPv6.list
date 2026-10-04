@@ -1,7 +1,7 @@
 # AG IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-10-03T03:55:45+00:00
-# Total: 418 rules
+# Updated: 2026-10-04T04:28:20+00:00
+# Total: 419 rules
 #
 IP-CIDR6,2001:470:1ad1::/48
 IP-CIDR6,2001:470:1f2b:1b::/64
@@ -406,6 +406,7 @@ IP-CIDR6,2a11:29c0:3d88:ebb9::/64
 IP-CIDR6,2a12:f381:8300::/40
 IP-CIDR6,2a12:f382:8300::/40
 IP-CIDR6,2a13:240:fb00::/40
+IP-CIDR6,2a13:9500:1e4:137::/64
 IP-CIDR6,2a13:b487:5017::/48
 IP-CIDR6,2a13:ef41:1030::/45
 IP-CIDR6,2a13:ef41:a030::/45

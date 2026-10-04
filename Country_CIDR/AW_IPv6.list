@@ -1,7 +1,7 @@
 # AW IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-10-03T03:55:45+00:00
-# Total: 111 rules
+# Updated: 2026-10-04T04:28:20+00:00
+# Total: 112 rules
 #
 IP-CIDR6,2405:b500:880::/64
 IP-CIDR6,2405:b500:8a0::/64
@@ -107,6 +107,7 @@ IP-CIDR6,2a11:29c0:3d88:6075::/64
 IP-CIDR6,2a11:29c0:3d88:7dc0::/64
 IP-CIDR6,2a12:f381:8c00::/40
 IP-CIDR6,2a12:f382:8c00::/40
+IP-CIDR6,2a13:9500:1e4:a1::/64
 IP-CIDR6,2a13:b487:502b::/48
 IP-CIDR6,2a13:ef41:ef5e::/48
 IP-CIDR6,2a14:2d45:d00::/40
