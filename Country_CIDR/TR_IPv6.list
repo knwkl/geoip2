@@ -1,6 +1,6 @@
 # TR IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-10-04T04:28:20+00:00
+# Updated: 2026-10-05T04:13:54+00:00
 # Total: 11189 rules
 #
 IP-CIDR6,2001:470:0:57f::2/128

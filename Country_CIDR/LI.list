@@ -1,6 +1,6 @@
 # LI IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-10-04T04:28:20+00:00
+# Updated: 2026-10-05T04:13:54+00:00
 # Total: 410 rules
 #
 IP-CIDR,5.34.248.0/29
