@@ -1,7 +1,7 @@
 # PF IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-10-07T04:29:06+00:00
-# Total: 187 rules
+# Updated: 2026-10-08T04:40:04+00:00
+# Total: 184 rules
 #
 IP-CIDR6,2001:de8:16::/48
 IP-CIDR6,2001:df6:8080::/48
@@ -177,9 +177,6 @@ IP-CIDR6,2a11:29c0:3d88:fa28::/64
 IP-CIDR6,2a12:f381:2f00::/40
 IP-CIDR6,2a12:f382:2f00::/40
 IP-CIDR6,2a13:82c4:ff48::/48
-IP-CIDR6,2a13:9500:1e4:131::/64
-IP-CIDR6,2a13:9500:1e4:c0d::/64
-IP-CIDR6,2a13:9500:1e4:18d1::/64
 IP-CIDR6,2a13:ef41:1412::/48
 IP-CIDR6,2a13:ef41:a412::/48
 IP-CIDR6,2a13:ef41:e5e6::/48

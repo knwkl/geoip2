@@ -1,7 +1,7 @@
 # KN IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-10-07T04:29:06+00:00
-# Total: 128 rules
+# Updated: 2026-10-08T04:40:04+00:00
+# Total: 127 rules
 #
 IP-CIDR6,2405:b500:3e00::/64
 IP-CIDR6,2405:b500:3e40::/64
@@ -31,7 +31,6 @@ IP-CIDR6,2607:8940:4143:8700::/56
 IP-CIDR6,2607:8940:4143:8800::/56
 IP-CIDR6,2620:6b:2000::/48
 IP-CIDR6,2620:171:b2::/48
-IP-CIDR6,2a01:d0:7fff:234::/64
 IP-CIDR6,2a02:26f7:e8c0:4000::/64
 IP-CIDR6,2a02:26f7:e8c0:cb20::/63
 IP-CIDR6,2a02:26f7:e8c1::/48

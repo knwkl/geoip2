@@ -1,6 +1,6 @@
 # UM IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-10-07T04:29:06+00:00
+# Updated: 2026-10-08T04:40:04+00:00
 # Total: 13 rules
 #
 IP-CIDR,104.28.13.151/32
