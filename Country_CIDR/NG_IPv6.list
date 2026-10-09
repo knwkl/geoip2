@@ -1,7 +1,7 @@
 # NG IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-10-08T04:40:04+00:00
-# Total: 2403 rules
+# Updated: 2026-10-09T04:43:24+00:00
+# Total: 2404 rules
 #
 IP-CIDR6,2001:470:0:604::/64
 IP-CIDR6,2001:470:0:605::2/128
@@ -2177,6 +2177,7 @@ IP-CIDR6,2c0f:f828:2::4ce/127
 IP-CIDR6,2c0f:f828:2::52c/128
 IP-CIDR6,2c0f:f828:2::90d/128
 IP-CIDR6,2c0f:f828:2::90ef/128
+IP-CIDR6,2c0f:f828:2::4000:0:0/127
 IP-CIDR6,2c0f:f828:2:6::19/128
 IP-CIDR6,2c0f:f828:2:6::1b/128
 IP-CIDR6,2c0f:f880::/32

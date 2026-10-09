@@ -1,10 +1,11 @@
 # SJ IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-10-08T04:40:04+00:00
-# Total: 19 rules
+# Updated: 2026-10-09T04:43:24+00:00
+# Total: 20 rules
 #
 IP-CIDR,5.62.63.140/30
 IP-CIDR,62.92.147.250/32
+IP-CIDR,62.92.239.166/32
 IP-CIDR,104.28.13.22/31
 IP-CIDR,104.28.13.24/32
 IP-CIDR,140.248.56.200/32
