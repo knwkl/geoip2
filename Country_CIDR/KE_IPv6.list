@@ -1,6 +1,6 @@
 # KE IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-10-09T04:43:24+00:00
+# Updated: 2026-10-10T04:29:05+00:00
 # Total: 2269 rules
 #
 IP-CIDR6,2001:470:0:a6::1/128

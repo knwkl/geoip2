@@ -1,6 +1,6 @@
 # TZ IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-10-09T04:43:24+00:00
+# Updated: 2026-10-10T04:29:05+00:00
 # Total: 1491 rules
 #
 IP-CIDR6,2001:978:2:21::f3:1b/128
