@@ -1,7 +1,7 @@
 # NE IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-10-14T03:40:04+00:00
-# Total: 1288 rules
+# Updated: 2026-10-15T03:21:05+00:00
+# Total: 1292 rules
 #
 IP-CIDR6,2001:43fe:1800::/48
 IP-CIDR6,2001:43fe:3800::/48
@@ -1248,6 +1248,10 @@ IP-CIDR6,2a0f:1cc5:b16:a000::/56
 IP-CIDR6,2a0f:1cc5:b17:a000::/56
 IP-CIDR6,2a0f:85c1:81b:f820::/60
 IP-CIDR6,2a0f:a302:a000::/37
+IP-CIDR6,2a10:24c0:d0a4::/47
+IP-CIDR6,2a10:24c0:d0a6::/48
+IP-CIDR6,2a10:24c0:f740::/47
+IP-CIDR6,2a10:24c0:f742::/48
 IP-CIDR6,2a10:fa81:18a1::/48
 IP-CIDR6,2a11:29c0:3d88:ee8::/64
 IP-CIDR6,2a11:29c0:3d88:3b70::/64

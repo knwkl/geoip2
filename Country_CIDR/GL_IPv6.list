@@ -1,7 +1,7 @@
 # GL IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-10-14T03:40:04+00:00
-# Total: 225 rules
+# Updated: 2026-10-15T03:21:05+00:00
+# Total: 227 rules
 #
 IP-CIDR6,2405:b500:2c20::/64
 IP-CIDR6,2405:b500:2c20:8::/64
@@ -185,6 +185,8 @@ IP-CIDR6,2a0f:1cc5:b17:5900::/56
 IP-CIDR6,2a0f:1cc5:1f34::/48
 IP-CIDR6,2a0f:1cc5:1f43::/48
 IP-CIDR6,2a0f:a302:4000::/37
+IP-CIDR6,2a10:24c0:fb4::/48
+IP-CIDR6,2a10:24c0:d224::/48
 IP-CIDR6,2a10:fa81:1853::/48
 IP-CIDR6,2a11:29c0:3d88:23c2::/64
 IP-CIDR6,2a11:29c0:3d88:426c::/64

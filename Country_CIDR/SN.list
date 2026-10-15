@@ -1,7 +1,7 @@
 # SN IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-10-14T03:40:04+00:00
-# Total: 278 rules
+# Updated: 2026-10-15T03:21:05+00:00
+# Total: 279 rules
 #
 IP-CIDR,5.62.63.108/30
 IP-CIDR,41.82.0.0/17
@@ -281,3 +281,4 @@ IP-CIDR,213.154.92.128/25
 IP-CIDR,213.154.93.0/24
 IP-CIDR,213.154.94.0/23
 IP-CIDR,216.139.166.0/24
+IP-CIDR,217.77.101.0/24

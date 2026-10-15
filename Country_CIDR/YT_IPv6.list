@@ -1,7 +1,7 @@
 # YT IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-10-14T03:40:04+00:00
-# Total: 134 rules
+# Updated: 2026-10-15T03:21:05+00:00
+# Total: 138 rules
 #
 IP-CIDR6,2405:b500:7d00::/64
 IP-CIDR6,2405:b500:7d20::/64
@@ -94,6 +94,10 @@ IP-CIDR6,2a0f:1cc5:b16:3200::/56
 IP-CIDR6,2a0f:1cc5:b17:3200::/56
 IP-CIDR6,2a0f:6284:46::/48
 IP-CIDR6,2a0f:a303:800::/37
+IP-CIDR6,2a10:24c0:92d4::/47
+IP-CIDR6,2a10:24c0:92d6::/48
+IP-CIDR6,2a10:24c0:b2a0::/47
+IP-CIDR6,2a10:24c0:b2a2::/48
 IP-CIDR6,2a11:29c0:3d88:13f0::/64
 IP-CIDR6,2a11:29c0:3d88:14c8::/64
 IP-CIDR6,2a11:29c0:3d88:2cf5::/64

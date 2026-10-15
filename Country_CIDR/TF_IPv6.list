@@ -1,7 +1,7 @@
 # TF IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-10-14T03:40:04+00:00
-# Total: 55 rules
+# Updated: 2026-10-15T03:21:05+00:00
+# Total: 57 rules
 #
 IP-CIDR6,2602:814:ff5c::/46
 IP-CIDR6,2602:f93d:e8::/46
@@ -37,6 +37,8 @@ IP-CIDR6,2a0f:1cc5:b14:4e00::/56
 IP-CIDR6,2a0f:1cc5:b15:4e00::/56
 IP-CIDR6,2a0f:1cc5:b16:4e00::/56
 IP-CIDR6,2a0f:1cc5:b17:4e00::/56
+IP-CIDR6,2a10:24c0:bbd5::/48
+IP-CIDR6,2a10:24c0:de3d::/48
 IP-CIDR6,2a12:f381:e700::/40
 IP-CIDR6,2a12:f382:e700::/40
 IP-CIDR6,2a13:b487:503a::/48
