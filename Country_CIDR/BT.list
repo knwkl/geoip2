@@ -1,10 +1,9 @@
 # BT IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-10-15T03:21:05+00:00
-# Total: 175 rules
+# Updated: 2026-10-16T03:16:32+00:00
+# Total: 174 rules
 #
 IP-CIDR,5.62.62.36/30
-IP-CIDR,8.20.124.0/24
 IP-CIDR,36.50.37.0/24
 IP-CIDR,43.226.8.0/22
 IP-CIDR,43.229.124.0/22

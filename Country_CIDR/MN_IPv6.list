@@ -1,7 +1,7 @@
 # MN IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-10-15T03:21:05+00:00
-# Total: 786 rules
+# Updated: 2026-10-16T03:16:32+00:00
+# Total: 784 rules
 #
 IP-CIDR6,2001:df0:1180::/48
 IP-CIDR6,2001:df1:1a80::/48
@@ -723,8 +723,6 @@ IP-CIDR6,2a0f:1cc5:b15:8d00::/56
 IP-CIDR6,2a0f:1cc5:b16:8d00::/56
 IP-CIDR6,2a0f:1cc5:b17:8d00::/56
 IP-CIDR6,2a0f:1cc5:1fc8::/48
-IP-CIDR6,2a0f:6280:ced9::/48
-IP-CIDR6,2a0f:6280:cf5b::/48
 IP-CIDR6,2a0f:7803:fed8::/48
 IP-CIDR6,2a0f:85c1:81b:f770::/60
 IP-CIDR6,2a0f:9400:616b::/48
