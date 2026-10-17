@@ -1,6 +1,6 @@
 # TC IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-10-16T03:16:32+00:00
+# Updated: 2026-10-17T03:07:19+00:00
 # Total: 113 rules
 #
 IP-CIDR6,2001:3786:bb01:100::/56
