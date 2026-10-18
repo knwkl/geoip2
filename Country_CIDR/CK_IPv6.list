@@ -1,7 +1,7 @@
 # CK IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-10-17T03:07:19+00:00
-# Total: 109 rules
+# Updated: 2026-10-18T03:10:18+00:00
+# Total: 110 rules
 #
 IP-CIDR6,2401:4d20::/32
 IP-CIDR6,2405:b500:1800::/64
@@ -83,6 +83,7 @@ IP-CIDR6,2a0b:4e07:3:1840::/60
 IP-CIDR6,2a0d:2684:2c::/48
 IP-CIDR6,2a0d:9446:1000::/37
 IP-CIDR6,2a0e:b107:2348::/45
+IP-CIDR6,2a0f:1cc1:fd40::/44
 IP-CIDR6,2a0f:1cc5:b10:3500::/56
 IP-CIDR6,2a0f:1cc5:b11:3500::/56
 IP-CIDR6,2a0f:1cc5:b12:3500::/56

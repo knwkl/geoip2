@@ -1,11 +1,11 @@
 # UG IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-10-17T03:07:19+00:00
+# Updated: 2026-10-18T03:10:18+00:00
 # Total: 879 rules
 #
 IP-CIDR,2.17.248.0/24
 IP-CIDR,5.11.8.130/32
-IP-CIDR,5.11.8.132/32
+IP-CIDR,5.11.8.132/30
 IP-CIDR,5.11.10.172/30
 IP-CIDR,5.62.63.172/30
 IP-CIDR,9.170.86.0/23

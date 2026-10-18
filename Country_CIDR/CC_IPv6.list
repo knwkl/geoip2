@@ -1,7 +1,7 @@
 # CC IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-10-17T03:07:19+00:00
-# Total: 67 rules
+# Updated: 2026-10-18T03:10:18+00:00
+# Total: 68 rules
 #
 IP-CIDR6,2602:814:fc98::/46
 IP-CIDR6,2606:40:2300::/54
@@ -43,6 +43,7 @@ IP-CIDR6,2a0b:4e07:3:1660::/60
 IP-CIDR6,2a0d:2684:26::/48
 IP-CIDR6,2a0d:9443:6800::/37
 IP-CIDR6,2a0e:b107:2318::/45
+IP-CIDR6,2a0f:1cc1:9850::/44
 IP-CIDR6,2a0f:1cc5:b10:2f00::/56
 IP-CIDR6,2a0f:1cc5:b11:2f00::/56
 IP-CIDR6,2a0f:1cc5:b12:2f00::/56

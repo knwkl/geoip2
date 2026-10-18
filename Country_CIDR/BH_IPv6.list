@@ -1,7 +1,7 @@
 # BH IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-10-17T03:07:19+00:00
-# Total: 463 rules
+# Updated: 2026-10-18T03:10:18+00:00
+# Total: 464 rules
 #
 IP-CIDR6,2001:500:15:5900::/56
 IP-CIDR6,2001:978:2:14::23:2/128
@@ -413,6 +413,7 @@ IP-CIDR6,2a0e:6700::/29
 IP-CIDR6,2a0e:b107:fd0::/44
 IP-CIDR6,2a0e:b107:2116::/48
 IP-CIDR6,2a0e:b107:22a0::/45
+IP-CIDR6,2a0f:1cc1:9830::/44
 IP-CIDR6,2a0f:1cc5:b10:e00::/56
 IP-CIDR6,2a0f:1cc5:b11:e00::/56
 IP-CIDR6,2a0f:1cc5:b12:e00::/56
