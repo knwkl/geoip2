@@ -1,6 +1,6 @@
 # NL IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-10-18T03:10:18+00:00
+# Updated: 2026-10-19T03:23:44+00:00
 # Total: 186480 rules
 #
 IP-CIDR6,2000:678:d64:4663::/64
