@@ -1,7 +1,7 @@
 # MG IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-10-21T03:26:37+00:00
-# Total: 319 rules
+# Updated: 2026-10-22T03:25:48+00:00
+# Total: 320 rules
 #
 IP-CIDR6,2001:4398::/37
 IP-CIDR6,2001:4398:800::/38
@@ -180,6 +180,7 @@ IP-CIDR6,2a04:4e41:11:2900::/56
 IP-CIDR6,2a04:4e41:13:4c::/64
 IP-CIDR6,2a04:4e41:32:6::/64
 IP-CIDR6,2a04:4e41:32:1600::/56
+IP-CIDR6,2a04:4e41:6c:dc00::/55
 IP-CIDR6,2a04:4e41:1e9::/48
 IP-CIDR6,2a04:4e41:12c7::/48
 IP-CIDR6,2a04:4e41:131c::/48

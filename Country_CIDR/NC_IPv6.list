@@ -1,11 +1,12 @@
 # NC IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-10-21T03:26:37+00:00
-# Total: 218 rules
+# Updated: 2026-10-22T03:25:48+00:00
+# Total: 219 rules
 #
 IP-CIDR6,2001:df0:77c0::/48
 IP-CIDR6,2001:df3:8900::/48
 IP-CIDR6,2001:df3:f380::/48
+IP-CIDR6,2001:3786:3338:200::/56
 IP-CIDR6,2400:cb00:208::/48
 IP-CIDR6,2401:c00::/32
 IP-CIDR6,2401:c01::/32
