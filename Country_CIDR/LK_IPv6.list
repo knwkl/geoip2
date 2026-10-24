@@ -1,7 +1,7 @@
 # LK IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-10-23T03:30:43+00:00
-# Total: 1010 rules
+# Updated: 2026-10-24T03:25:17+00:00
+# Total: 1011 rules
 #
 IP-CIDR6,2001:d30:9::/48
 IP-CIDR6,2001:d30:109::/48
@@ -356,6 +356,7 @@ IP-CIDR6,2400:cb00:111::/48
 IP-CIDR6,2400:cb00:237::/48
 IP-CIDR6,2400:cb00:260::/48
 IP-CIDR6,2400:d040::/32
+IP-CIDR6,2400:e2e0::/32
 IP-CIDR6,2400:ff00::/32
 IP-CIDR6,2401:460::/32
 IP-CIDR6,2401:dd00::/32

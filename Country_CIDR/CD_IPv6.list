@@ -1,7 +1,7 @@
 # CD IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-10-23T03:30:43+00:00
-# Total: 345 rules
+# Updated: 2026-10-24T03:25:17+00:00
+# Total: 344 rules
 #
 IP-CIDR6,2001:43f8:3c0::/47
 IP-CIDR6,2001:43f8:1460::/48
@@ -53,7 +53,6 @@ IP-CIDR6,2a00:ca0:2005:9000::/52
 IP-CIDR6,2a00:ca0:2005:e000::/52
 IP-CIDR6,2a00:ca0:201a::/52
 IP-CIDR6,2a00:ca0:202c:4000::/50
-IP-CIDR6,2a00:ca0:202d:1000::/52
 IP-CIDR6,2a00:ca0:203d:4000::/50
 IP-CIDR6,2a01:c9c0:c010::/48
 IP-CIDR6,2a02:26f7:e0c0:4000::/64
