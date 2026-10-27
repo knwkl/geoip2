@@ -1,6 +1,6 @@
 # BG IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-10-26T03:22:33+00:00
+# Updated: 2026-10-27T03:50:12+00:00
 # Total: 26456 rules
 #
 IP-CIDR6,2001:438:ffff::407d:139b/128

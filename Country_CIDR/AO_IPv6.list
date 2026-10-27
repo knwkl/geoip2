@@ -1,6 +1,6 @@
 # AO IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-10-26T03:22:33+00:00
+# Updated: 2026-10-27T03:50:12+00:00
 # Total: 731 rules
 #
 IP-CIDR6,2001:15d8:2:5::2/128

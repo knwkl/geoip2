@@ -1,6 +1,6 @@
 # NU IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-10-26T03:22:33+00:00
+# Updated: 2026-10-27T03:50:12+00:00
 # Total: 113 rules
 #
 IP-CIDR6,2001:df0:8c::/48
