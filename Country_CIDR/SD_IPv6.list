@@ -1,7 +1,7 @@
 # SD IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-10-27T03:50:12+00:00
-# Total: 174 rules
+# Updated: 2026-10-28T04:09:14+00:00
+# Total: 173 rules
 #
 IP-CIDR6,2001:4228::/32
 IP-CIDR6,2001:43f8:7f0::/47
@@ -95,7 +95,6 @@ IP-CIDR6,2a09:bac4:610::/45
 IP-CIDR6,2a09:bac4:1610::/45
 IP-CIDR6,2a09:bac5:5250::/44
 IP-CIDR6,2a09:bac6:5250::/44
-IP-CIDR6,2a0b:4e07:3:7290::/60
 IP-CIDR6,2a0d:2684:c4::/48
 IP-CIDR6,2a0d:3341:e000::/40
 IP-CIDR6,2a0d:3344:1300::/40

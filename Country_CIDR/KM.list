@@ -1,10 +1,9 @@
 # KM IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-10-27T03:50:12+00:00
-# Total: 72 rules
+# Updated: 2026-10-28T04:09:14+00:00
+# Total: 71 rules
 #
 IP-CIDR,5.62.62.92/30
-IP-CIDR,41.189.225.198/32
 IP-CIDR,41.194.32.0/25
 IP-CIDR,41.194.32.128/26
 IP-CIDR,41.194.32.192/27

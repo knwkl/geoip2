@@ -1,7 +1,7 @@
 # VU IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-10-27T03:50:12+00:00
-# Total: 328 rules
+# Updated: 2026-10-28T04:09:14+00:00
+# Total: 327 rules
 #
 IP-CIDR6,2001:dec::/48
 IP-CIDR6,2001:df0:410::/48
@@ -275,7 +275,6 @@ IP-CIDR6,2a0a:6044:f280::/45
 IP-CIDR6,2a0a:6044:f288::/46
 IP-CIDR6,2a0a:6044:f28c::/47
 IP-CIDR6,2a0a:6044:f28e::/48
-IP-CIDR6,2a0b:4e07:3:5480::/60
 IP-CIDR6,2a0d:2684:f2::/48
 IP-CIDR6,2a0d:9446:a800::/37
 IP-CIDR6,2a0f:1cc1:fea0::/44

@@ -1,7 +1,7 @@
 # BQ IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-10-27T03:50:12+00:00
-# Total: 137 rules
+# Updated: 2026-10-28T04:09:14+00:00
+# Total: 136 rules
 #
 IP-CIDR6,2405:b500:1080::/64
 IP-CIDR6,2405:b500:10a0::/64
@@ -99,7 +99,6 @@ IP-CIDR6,2a09:bac4:e8::/45
 IP-CIDR6,2a09:bac4:10e8::/45
 IP-CIDR6,2a09:bac5:568::/45
 IP-CIDR6,2a09:bac6:568::/45
-IP-CIDR6,2a0b:4e07:3:5350::/60
 IP-CIDR6,2a0d:9440:7800::/37
 IP-CIDR6,2a0f:1cc1:e760::/44
 IP-CIDR6,2a0f:1cc5:b10:9b00::/56

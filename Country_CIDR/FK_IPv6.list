@@ -1,7 +1,7 @@
 # FK IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-10-27T03:50:12+00:00
-# Total: 108 rules
+# Updated: 2026-10-28T04:09:14+00:00
+# Total: 107 rules
 #
 IP-CIDR6,2405:b500:2620::/64
 IP-CIDR6,2405:b500:2640::/64
@@ -75,7 +75,6 @@ IP-CIDR6,2a09:bac4:1238::/45
 IP-CIDR6,2a09:bac5:31d8::/45
 IP-CIDR6,2a09:bac6:31d8::/45
 IP-CIDR6,2a0a:6040:f8d::/48
-IP-CIDR6,2a0b:4e07:3:2380::/60
 IP-CIDR6,2a0b:4e07:61::/48
 IP-CIDR6,2a0b:4e07:62::/48
 IP-CIDR6,2a0d:2684:48::/48
