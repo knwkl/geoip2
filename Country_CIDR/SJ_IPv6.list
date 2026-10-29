@@ -1,7 +1,7 @@
 # SJ IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-10-28T04:09:14+00:00
-# Total: 66 rules
+# Updated: 2026-10-29T04:31:46+00:00
+# Total: 65 rules
 #
 IP-CIDR6,2602:814:ff20::/46
 IP-CIDR6,2606:40:16b0::/44
@@ -59,7 +59,6 @@ IP-CIDR6,2a13:ef41:ef7f::/48
 IP-CIDR6,2a13:ef41:ef80::/48
 IP-CIDR6,2a14:1c7:2800::/37
 IP-CIDR6,2a14:2d45:c700::/40
-IP-CIDR6,2a14:7580:cfc8::/48
 IP-CIDR6,2a14:7581:b10:d600::/56
 IP-CIDR6,2a14:7581:b11:d600::/56
 IP-CIDR6,2a14:7581:b12:d600::/56

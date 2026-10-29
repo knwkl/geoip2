@@ -1,7 +1,7 @@
 # HT IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-10-28T04:09:14+00:00
-# Total: 107 rules
+# Updated: 2026-10-29T04:31:46+00:00
+# Total: 106 rules
 #
 IP-CIDR,5.62.56.120/30
 IP-CIDR,5.62.58.112/30
@@ -108,5 +108,4 @@ IP-CIDR,201.131.77.0/24
 IP-CIDR,201.150.104.0/22
 IP-CIDR,206.224.73.20/32
 IP-CIDR,216.6.36.0/24
-IP-CIDR,216.139.187.0/24
 IP-CIDR,216.194.96.176/28

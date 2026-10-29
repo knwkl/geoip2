@@ -1,7 +1,7 @@
 # BJ IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-10-28T04:09:14+00:00
-# Total: 187 rules
+# Updated: 2026-10-29T04:31:46+00:00
+# Total: 186 rules
 #
 IP-CIDR,5.62.62.32/30
 IP-CIDR,41.74.0.0/20
@@ -189,4 +189,3 @@ IP-CIDR,196.251.154.0/24
 IP-CIDR,196.251.155.0/24
 IP-CIDR,197.234.216.0/21
 IP-CIDR,198.54.100.50/31
-IP-CIDR,217.77.103.0/24
