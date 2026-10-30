@@ -1,7 +1,7 @@
 # UG IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-10-29T04:31:46+00:00
-# Total: 638 rules
+# Updated: 2026-10-30T04:31:38+00:00
+# Total: 637 rules
 #
 IP-CIDR6,2001:43b8::/55
 IP-CIDR6,2001:43b8:0:200::/61
@@ -287,7 +287,6 @@ IP-CIDR6,2a04:4e41:31:14::/64
 IP-CIDR6,2a04:4e41:31:1400::/56
 IP-CIDR6,2a04:4e41:32:10::/64
 IP-CIDR6,2a04:4e41:32:1f00::/56
-IP-CIDR6,2a04:4e41:6c:d600::/55
 IP-CIDR6,2a04:4e41:1f2::/48
 IP-CIDR6,2a04:4e41:12d0::/48
 IP-CIDR6,2a04:4e41:132e::/48
