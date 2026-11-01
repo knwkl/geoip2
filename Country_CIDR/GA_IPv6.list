@@ -1,7 +1,7 @@
 # GA IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-10-31T04:13:47+00:00
-# Total: 177 rules
+# Updated: 2026-11-01T04:33:45+00:00
+# Total: 178 rules
 #
 IP-CIDR6,2001:43f8:1160::/48
 IP-CIDR6,2001:43f8:1161::/48
@@ -61,6 +61,7 @@ IP-CIDR6,2a04:4e41:5d:17::/64
 IP-CIDR6,2a04:4e41:5d:1600::/56
 IP-CIDR6,2a04:4e41:66:3a::/64
 IP-CIDR6,2a04:4e41:66:2500::/56
+IP-CIDR6,2a04:4e41:80:7000::/56
 IP-CIDR6,2a04:4e41:20a::/48
 IP-CIDR6,2a04:4e41:806::/48
 IP-CIDR6,2a04:4e41:181b::/48

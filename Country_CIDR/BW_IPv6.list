@@ -1,7 +1,7 @@
 # BW IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-10-31T04:13:47+00:00
-# Total: 233 rules
+# Updated: 2026-11-01T04:33:45+00:00
+# Total: 234 rules
 #
 IP-CIDR6,2001:4328::/61
 IP-CIDR6,2001:4328:0:8::/62
@@ -75,6 +75,7 @@ IP-CIDR6,2a04:4e41:11:4::/64
 IP-CIDR6,2a04:4e41:11:1300::/56
 IP-CIDR6,2a04:4e41:32:2::/64
 IP-CIDR6,2a04:4e41:32:1200::/56
+IP-CIDR6,2a04:4e41:80:4a00::/56
 IP-CIDR6,2a04:4e41:1e5::/48
 IP-CIDR6,2a04:4e41:12c3::/48
 IP-CIDR6,2a04:4e41:1307::/48
