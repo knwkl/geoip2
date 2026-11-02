@@ -1,6 +1,6 @@
 # HK IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-11-01T04:33:45+00:00
+# Updated: 2026-11-02T04:36:46+00:00
 # Total: 27552 rules
 #
 IP-CIDR,1.9.71.0/27

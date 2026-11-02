@@ -1,6 +1,6 @@
 # BE IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-11-01T04:33:45+00:00
+# Updated: 2026-11-02T04:36:46+00:00
 # Total: 11300 rules
 #
 IP-CIDR6,2001:438:ffff::407d:15e7/128
