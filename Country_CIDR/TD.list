@@ -1,6 +1,6 @@
 # TD IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-11-06T05:16:32+00:00
+# Updated: 2026-11-07T04:47:02+00:00
 # Total: 84 rules
 #
 IP-CIDR,5.62.62.80/30

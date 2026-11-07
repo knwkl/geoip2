@@ -1,7 +1,7 @@
 # GE IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-11-06T05:16:32+00:00
-# Total: 951 rules
+# Updated: 2026-11-07T04:47:02+00:00
+# Total: 950 rules
 #
 IP-CIDR6,2001:470:28:11d3::/64
 IP-CIDR6,2001:470:28:1258::/64
@@ -316,7 +316,6 @@ IP-CIDR6,2a01:b620::/32
 IP-CIDR6,2a01:ce8d:9000::/36
 IP-CIDR6,2a02:2d8:3:d800::/56
 IP-CIDR6,2a02:2d8:4:a000::/56
-IP-CIDR6,2a02:6bf:ff70:416::/64
 IP-CIDR6,2a02:2390::/32
 IP-CIDR6,2a02:23f0::/124
 IP-CIDR6,2a02:23f0::12/127
