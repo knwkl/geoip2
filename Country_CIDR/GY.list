@@ -1,7 +1,7 @@
 # GY IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-11-08T04:37:48+00:00
-# Total: 72 rules
+# Updated: 2026-11-09T04:47:52+00:00
+# Total: 71 rules
 #
 IP-CIDR,5.62.56.116/30
 IP-CIDR,5.62.58.108/30
@@ -73,5 +73,4 @@ IP-CIDR,190.108.208.0/21
 IP-CIDR,190.124.220.0/22
 IP-CIDR,190.242.180.35/32
 IP-CIDR,190.242.193.33/32
-IP-CIDR,190.242.193.35/32
 IP-CIDR,198.45.242.0/27

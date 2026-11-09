@@ -1,7 +1,7 @@
 # NF IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-11-08T04:37:48+00:00
-# Total: 104 rules
+# Updated: 2026-11-09T04:47:52+00:00
+# Total: 105 rules
 #
 IP-CIDR6,2001:df0:20c::/48
 IP-CIDR6,2405:b500:5380::/64
@@ -76,6 +76,7 @@ IP-CIDR6,2a0a:6044:f21e::/47
 IP-CIDR6,2a0a:6044:f220::/48
 IP-CIDR6,2a0d:2684:a3::/48
 IP-CIDR6,2a0d:9440:e000::/37
+IP-CIDR6,2a0e:4003:bbcb:c8ac::/64
 IP-CIDR6,2a0f:1cc1:fde0::/44
 IP-CIDR6,2a0f:1cc5:b10:a300::/56
 IP-CIDR6,2a0f:1cc5:b11:a300::/56
