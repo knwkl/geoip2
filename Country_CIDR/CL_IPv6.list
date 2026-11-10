@@ -1,7 +1,7 @@
 # CL IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-11-09T04:47:52+00:00
-# Total: 8528 rules
+# Updated: 2026-11-10T06:01:57+00:00
+# Total: 8522 rules
 #
 IP-CIDR6,2001:450:2001:1000:0:670:1708:3093/128
 IP-CIDR6,2001:450:2001:1000:0:670:1708:3231/128
@@ -8434,12 +8434,6 @@ IP-CIDR6,2a0f:ca80:1339:16e::/64
 IP-CIDR6,2a0f:ca80:1339:175::/64
 IP-CIDR6,2a0f:ca80:1339:176::/64
 IP-CIDR6,2a0f:ca80:1339:17b::/64
-IP-CIDR6,2a0f:ca81:deed:1b::/64
-IP-CIDR6,2a0f:ca81:deed:23::/64
-IP-CIDR6,2a0f:ca81:deed:33::/64
-IP-CIDR6,2a0f:ca81:deed:3d::/64
-IP-CIDR6,2a0f:ca81:deed:4b::/64
-IP-CIDR6,2a0f:ca81:deed:5d::/64
 IP-CIDR6,2a10:500:c200::/40
 IP-CIDR6,2a10:24c0:4774::/47
 IP-CIDR6,2a10:24c0:4776::/48

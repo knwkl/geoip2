@@ -1,6 +1,6 @@
 # MO IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-11-09T04:47:52+00:00
+# Updated: 2026-11-10T06:01:57+00:00
 # Total: 2721 rules
 #
 IP-CIDR6,2001:470:d:c41::/64
@@ -297,7 +297,7 @@ IP-CIDR6,2001:470:fb9f::/48
 IP-CIDR6,2001:470:fba3::/48
 IP-CIDR6,2001:470:fba7::/48
 IP-CIDR6,2001:470:fbab::/48
-IP-CIDR6,2001:470:fbb0::/48
+IP-CIDR6,2001:470:fbb9::/48
 IP-CIDR6,2001:470:fbbe::/48
 IP-CIDR6,2001:470:fbc3::/48
 IP-CIDR6,2001:470:fbc7::/48

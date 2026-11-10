@@ -1,7 +1,7 @@
 # IL IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-11-09T04:47:52+00:00
-# Total: 6041 rules
+# Updated: 2026-11-10T06:01:57+00:00
+# Total: 6040 rules
 #
 IP-CIDR6,2001:420:8e::/48
 IP-CIDR6,2001:420:4480::/45
@@ -5263,7 +5263,6 @@ IP-CIDR6,2a0b:4e07:fc::/47
 IP-CIDR6,2a0b:4e07:ff::/48
 IP-CIDR6,2a0b:4e07:214::/46
 IP-CIDR6,2a0b:4e07:218::/45
-IP-CIDR6,2a0b:4e07:240::/44
 IP-CIDR6,2a0b:4e07:250::/44
 IP-CIDR6,2a0b:4e07:283::/48
 IP-CIDR6,2a0b:4e07:284::/48

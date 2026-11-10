@@ -1,7 +1,7 @@
 # KG IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-11-09T04:47:52+00:00
-# Total: 383 rules
+# Updated: 2026-11-10T06:01:57+00:00
+# Total: 384 rules
 #
 IP-CIDR,5.57.8.0/21
 IP-CIDR,5.59.101.0/24
@@ -143,6 +143,7 @@ IP-CIDR,77.95.61.0/24
 IP-CIDR,77.95.62.0/23
 IP-CIDR,77.220.204.0/24
 IP-CIDR,77.235.0.0/19
+IP-CIDR,78.136.255.0/24
 IP-CIDR,80.72.176.0/20
 IP-CIDR,81.20.16.0/20
 IP-CIDR,81.85.75.0/24
