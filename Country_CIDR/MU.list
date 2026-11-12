@@ -1,7 +1,7 @@
 # MU IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-11-11T04:50:44+00:00
-# Total: 1147 rules
+# Updated: 2026-11-12T05:52:42+00:00
+# Total: 1146 rules
 #
 IP-CIDR,5.62.63.8/30
 IP-CIDR,41.57.112.0/21
@@ -890,7 +890,6 @@ IP-CIDR,196.50.36.0/22
 IP-CIDR,196.50.40.0/21
 IP-CIDR,196.50.48.0/20
 IP-CIDR,196.52.0.0/16
-IP-CIDR,196.53.0.0/24
 IP-CIDR,196.53.1.0/24
 IP-CIDR,196.53.2.0/23
 IP-CIDR,196.53.4.0/22

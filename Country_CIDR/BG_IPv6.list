@@ -1,7 +1,7 @@
 # BG IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-11-11T04:50:44+00:00
-# Total: 30095 rules
+# Updated: 2026-11-12T05:52:42+00:00
+# Total: 30055 rules
 #
 IP-CIDR6,2001:438:ffff::407d:139b/128
 IP-CIDR6,2001:438:ffff::407d:13a7/128
@@ -238,7 +238,6 @@ IP-CIDR6,2001:470:28:9cf::/64
 IP-CIDR6,2001:470:28:b25::/64
 IP-CIDR6,2001:470:28:e79::/64
 IP-CIDR6,2001:470:28:e98::/64
-IP-CIDR6,2001:470:36:8e6::/64
 IP-CIDR6,2001:470:6d:3ba::/64
 IP-CIDR6,2001:470:6d:7e6::/64
 IP-CIDR6,2001:470:6f:72::/64
@@ -25759,9 +25758,6 @@ IP-CIDR6,2620:0:1cff:dead:beef::2256/127
 IP-CIDR6,2620:0:1cff:dead:beef::2258/127
 IP-CIDR6,2620:0:1cff:dead:beef::2e6a/127
 IP-CIDR6,2620:0:1cff:dead:beef::2e70/126
-IP-CIDR6,2620:0:1cff:dead:beef::3ab8/127
-IP-CIDR6,2620:0:1cff:dead:beef::3e3c/127
-IP-CIDR6,2620:0:1cff:dead:beef::3ebc/126
 IP-CIDR6,2620:0:1cff:dead:beef::4187/128
 IP-CIDR6,2620:0:1cff:dead:beef::4760/125
 IP-CIDR6,2620:0:1cff:dead:beef::4ac2/127
@@ -25791,16 +25787,9 @@ IP-CIDR6,2620:0:1cff:dead:beef::55df/128
 IP-CIDR6,2620:0:1cff:dead:beef::55e1/128
 IP-CIDR6,2620:0:1cff:dead:beef::55e7/128
 IP-CIDR6,2620:0:1cff:dead:beef::55eb/128
-IP-CIDR6,2620:0:1cff:dead:beef::618e/127
+IP-CIDR6,2620:0:1cff:dead:beef::618f/128
 IP-CIDR6,2620:0:1cff:dead:beef::6191/128
-IP-CIDR6,2620:0:1cff:dead:beef::6192/127
-IP-CIDR6,2620:0:1cff:dead:beef::6875/128
-IP-CIDR6,2620:0:1cff:dead:beef::6877/128
-IP-CIDR6,2620:0:1cff:dead:beef::6879/128
-IP-CIDR6,2620:0:1cff:dead:beef::687b/128
-IP-CIDR6,2620:0:1cff:dead:beef::687f/128
-IP-CIDR6,2620:0:1cff:dead:beef::6881/128
-IP-CIDR6,2620:0:1cff:dead:beef::6883/128
+IP-CIDR6,2620:0:1cff:dead:beef::6193/128
 IP-CIDR6,2620:0:1cff:dead:beef::69a8/127
 IP-CIDR6,2620:0:1cff:dead:beef::69aa/128
 IP-CIDR6,2620:0:1cff:dead:beef::69ac/126
@@ -25861,16 +25850,10 @@ IP-CIDR6,2620:0:1cff:dead:beef:ffff:ffff:fc67/128
 IP-CIDR6,2620:0:1cff:dead:beef:ffff:ffff:fd8d/128
 IP-CIDR6,2620:0:1cff:dead:beef:ffff:ffff:fe23/128
 IP-CIDR6,2620:0:1cff:dead:beef:ffff:ffff:ff90/128
-IP-CIDR6,2620:0:1cff:dead:bef0:ffff:ffff:f4b8/127
-IP-CIDR6,2620:0:1cff:dead:bef0:ffff:ffff:f4bb/128
 IP-CIDR6,2620:0:1cff:dead:bef0:ffff:ffff:f7de/128
 IP-CIDR6,2620:0:1cff:dead:bef0:ffff:ffff:f7e0/127
 IP-CIDR6,2620:0:1cff:dead:bef0:ffff:ffff:f8a8/128
 IP-CIDR6,2620:0:1cff:dead:bef0:ffff:ffff:f8db/128
-IP-CIDR6,2620:0:1cff:dead:bef0:ffff:ffff:fb66/128
-IP-CIDR6,2620:0:1cff:dead:bef0:ffff:ffff:fb7b/128
-IP-CIDR6,2620:0:1cff:dead:bef0:ffff:ffff:fbd9/128
-IP-CIDR6,2620:0:1cff:dead:bef0:ffff:ffff:fbec/128
 IP-CIDR6,2620:0:1cff:dead:bef0:ffff:ffff:fc20/126
 IP-CIDR6,2620:0:1cff:dead:bef0:ffff:ffff:fc25/128
 IP-CIDR6,2620:0:1cff:dead:bef0:ffff:ffff:fc26/128
@@ -25922,7 +25905,6 @@ IP-CIDR6,2620:134:b0ff::1123/128
 IP-CIDR6,2620:134:b0ff::1124/128
 IP-CIDR6,2620:134:b0ff::1267/128
 IP-CIDR6,2620:171:66::/48
-IP-CIDR6,2620:1ec:27:e61a::/63
 IP-CIDR6,2a00:ca0:2050:1000::/52
 IP-CIDR6,2a00:ca0:2050:c000::/50
 IP-CIDR6,2a00:e40::/32
@@ -27843,7 +27825,6 @@ IP-CIDR6,2a06:9687::/32
 IP-CIDR6,2a06:9801:241::/48
 IP-CIDR6,2a06:9f00::/29
 IP-CIDR6,2a06:9f81:3916::/48
-IP-CIDR6,2a06:9f81:43ef:1500::/56
 IP-CIDR6,2a06:9f81:5616::/48
 IP-CIDR6,2a06:a005:af0::/44
 IP-CIDR6,2a06:a005:b00::/44
@@ -29293,12 +29274,7 @@ IP-CIDR6,2a09:be81::/32
 IP-CIDR6,2a09:be82::/31
 IP-CIDR6,2a09:be84::/31
 IP-CIDR6,2a09:be86::/32
-IP-CIDR6,2a09:be87::/38
-IP-CIDR6,2a09:be87:c00::/38
-IP-CIDR6,2a09:be87:1000::/36
-IP-CIDR6,2a09:be87:2000::/35
-IP-CIDR6,2a09:be87:4000::/34
-IP-CIDR6,2a09:be87:8000::/33
+IP-CIDR6,2a09:be87::/32
 IP-CIDR6,2a09:cbc0::/50
 IP-CIDR6,2a09:d980::/29
 IP-CIDR6,2a09:df80::/29
@@ -29548,14 +29524,6 @@ IP-CIDR6,2a0e:bfc7::/40
 IP-CIDR6,2a0e:ec01:4400::/38
 IP-CIDR6,2a0f:700::/29
 IP-CIDR6,2a0f:1cc1:a000::/40
-IP-CIDR6,2a0f:1cc5:b10:1f00::/56
-IP-CIDR6,2a0f:1cc5:b11:1f00::/56
-IP-CIDR6,2a0f:1cc5:b12:1f00::/56
-IP-CIDR6,2a0f:1cc5:b13:1f00::/56
-IP-CIDR6,2a0f:1cc5:b14:1f00::/56
-IP-CIDR6,2a0f:1cc5:b15:1f00::/56
-IP-CIDR6,2a0f:1cc5:b16:1f00::/56
-IP-CIDR6,2a0f:1cc5:b17:1f00::/56
 IP-CIDR6,2a0f:1cc5:1f31::/48
 IP-CIDR6,2a0f:2180:1::/50
 IP-CIDR6,2a0f:3980::/29
@@ -30047,14 +30015,6 @@ IP-CIDR6,2a14:6600::/29
 IP-CIDR6,2a14:67c2:84a::/48
 IP-CIDR6,2a14:7580:cf15::/48
 IP-CIDR6,2a14:7580:efbd::/48
-IP-CIDR6,2a14:7581:b10:1f00::/56
-IP-CIDR6,2a14:7581:b11:1f00::/56
-IP-CIDR6,2a14:7581:b12:1f00::/56
-IP-CIDR6,2a14:7581:b13:1f00::/56
-IP-CIDR6,2a14:7581:b14:1f00::/56
-IP-CIDR6,2a14:7581:b15:1f00::/56
-IP-CIDR6,2a14:7581:b16:1f00::/56
-IP-CIDR6,2a14:7581:b17:1f00::/56
 IP-CIDR6,2a14:7581:be0:6400::/56
 IP-CIDR6,2a14:7981:3008::/48
 IP-CIDR6,2a14:c380:90::/44
