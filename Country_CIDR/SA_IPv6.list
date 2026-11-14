@@ -1,7 +1,7 @@
 # SA IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-11-13T05:13:43+00:00
-# Total: 3246 rules
+# Updated: 2026-11-14T05:03:19+00:00
+# Total: 3247 rules
 #
 IP-CIDR6,2001:470:6d:59d::/64
 IP-CIDR6,2001:470:1d20::/48
@@ -3023,6 +3023,7 @@ IP-CIDR6,2a0e:3100:4000::/35
 IP-CIDR6,2a0e:3100:6000::/36
 IP-CIDR6,2a0e:3100:7000::/36
 IP-CIDR6,2a0e:3100:8000::/33
+IP-CIDR6,2a0e:4003:bb2e:fa04::/64
 IP-CIDR6,2a0e:4003:bba8:b9b6::/64
 IP-CIDR6,2a0e:7d46:a00::/40
 IP-CIDR6,2a0e:8f01:1000:57::/64

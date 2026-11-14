@@ -1,7 +1,7 @@
 # TV IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-11-13T05:13:43+00:00
-# Total: 176 rules
+# Updated: 2026-11-14T05:03:19+00:00
+# Total: 177 rules
 #
 IP-CIDR6,2400:3500::/32
 IP-CIDR6,2401:c720::/32
@@ -149,6 +149,7 @@ IP-CIDR6,2a0a:6044:f274::/46
 IP-CIDR6,2a0a:6044:f278::/45
 IP-CIDR6,2a0d:2684:e3::/48
 IP-CIDR6,2a0d:9442:8000::/37
+IP-CIDR6,2a0e:4003:bb79:37a6::/64
 IP-CIDR6,2a0e:4003:bbcb:9072::/64
 IP-CIDR6,2a0f:1cc1:fe80::/44
 IP-CIDR6,2a0f:85c1:81b:fb70::/60
