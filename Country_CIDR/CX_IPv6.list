@@ -1,8 +1,14 @@
 # CX IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-11-16T04:53:51+00:00
-# Total: 60 rules
+# Updated: 2026-11-17T06:42:20+00:00
+# Total: 66 rules
 #
+IP-CIDR6,2401:b60:12e0:4000::/50
+IP-CIDR6,2401:b60:12e0:8000::/49
+IP-CIDR6,2401:b60:12e1::/48
+IP-CIDR6,2401:b60:12e2::/47
+IP-CIDR6,2401:b60:12e4::/46
+IP-CIDR6,2401:b60:12e8::/45
 IP-CIDR6,2602:814:fcd4::/46
 IP-CIDR6,2606:40:a2:800::/54
 IP-CIDR6,2606:40:b2:1c00::/54
