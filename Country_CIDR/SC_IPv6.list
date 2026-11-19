@@ -1,7 +1,7 @@
 # SC IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-11-18T06:00:13+00:00
-# Total: 2552 rules
+# Updated: 2026-11-19T06:00:48+00:00
+# Total: 2553 rules
 #
 IP-CIDR6,2001:470:6a42::/48
 IP-CIDR6,2001:470:7169::/48
@@ -2320,7 +2320,8 @@ IP-CIDR6,2a10:5fc0:2000::/35
 IP-CIDR6,2a10:5fc0:4000::/34
 IP-CIDR6,2a10:5fc0:8000::/33
 IP-CIDR6,2a10:5fc1::/32
-IP-CIDR6,2a10:5fc2::/31
+IP-CIDR6,2a10:5fc2::/32
+IP-CIDR6,2a10:5fc3::/32
 IP-CIDR6,2a10:5fc4::/31
 IP-CIDR6,2a10:5fc6::/32
 IP-CIDR6,2a10:5fc7:0:4000::/50
