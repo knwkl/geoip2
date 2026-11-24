@@ -1,7 +1,7 @@
 # EG IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-11-23T05:54:30+00:00
-# Total: 512 rules
+# Updated: 2026-11-24T08:32:35+00:00
+# Total: 503 rules
 #
 IP-CIDR6,2001:500:15:5500::/56
 IP-CIDR6,2001:3786:b10b:a00::/56
@@ -38,14 +38,10 @@ IP-CIDR6,2001:4860:7:140c::/64
 IP-CIDR6,2001:4860:7:150c::/64
 IP-CIDR6,2001:4860:7:160c::/64
 IP-CIDR6,2001:4860:7:170c::/64
+IP-CIDR6,2400:58a0:d400::/40
 IP-CIDR6,2400:8800:e012::/48
 IP-CIDR6,2400:cb00:715::/48
-IP-CIDR6,2401:b60:1400:4000::/50
-IP-CIDR6,2401:b60:1400:8000::/49
-IP-CIDR6,2401:b60:1401::/48
-IP-CIDR6,2401:b60:1402::/47
-IP-CIDR6,2401:b60:1404::/46
-IP-CIDR6,2401:b60:1408::/45
+IP-CIDR6,2401:b60:1400::/44
 IP-CIDR6,2401:af20:1b16::/48
 IP-CIDR6,2404:a140:14::/48
 IP-CIDR6,2405:b500:2200::/64
@@ -146,7 +142,6 @@ IP-CIDR6,2620:0:1cff:dead:beef::4d3/128
 IP-CIDR6,2620:0:1cff:dead:beef::599/128
 IP-CIDR6,2620:0:1cff:dead:beef::673/128
 IP-CIDR6,2620:0:1cff:dead:beef::9a7/128
-IP-CIDR6,2620:0:1cff:dead:beef::116d/128
 IP-CIDR6,2620:0:1cff:dead:beef::1182/128
 IP-CIDR6,2620:0:1cff:dead:beef::133b/128
 IP-CIDR6,2620:0:1cff:dead:beef::1503/128
@@ -175,7 +170,7 @@ IP-CIDR6,2620:0:1cff:dead:beef::4f8a/128
 IP-CIDR6,2620:0:1cff:dead:beef::52e4/127
 IP-CIDR6,2620:0:1cff:dead:beef::5612/128
 IP-CIDR6,2620:0:1cff:dead:beef::5a20/128
-IP-CIDR6,2620:0:1cff:dead:beef::5a62/127
+IP-CIDR6,2620:0:1cff:dead:beef::5a62/128
 IP-CIDR6,2620:0:1cff:dead:beef::5a64/126
 IP-CIDR6,2620:0:1cff:dead:beef::5a68/126
 IP-CIDR6,2620:0:1cff:dead:beef::5a6d/128
@@ -204,10 +199,6 @@ IP-CIDR6,2620:0:1cff:dead:beef::a688/126
 IP-CIDR6,2620:0:1cff:dead:beef::a68c/127
 IP-CIDR6,2620:0:1cff:dead:beef::a68e/128
 IP-CIDR6,2620:0:1cff:dead:beef::a690/125
-IP-CIDR6,2620:0:1cff:dead:beef::ab91/128
-IP-CIDR6,2620:0:1cff:dead:beef::ab93/128
-IP-CIDR6,2620:0:1cff:dead:beef::ab95/128
-IP-CIDR6,2620:0:1cff:dead:beef:0:1:c122/128
 IP-CIDR6,2620:0:1cff:dead:beef:ffff:ffff:f1a2/127
 IP-CIDR6,2620:0:1cff:dead:beef:ffff:ffff:f1e0/128
 IP-CIDR6,2620:0:1cff:dead:beef:ffff:ffff:f2b1/128
