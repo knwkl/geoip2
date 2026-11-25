@@ -1,6 +1,6 @@
 # GA IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-11-24T08:32:35+00:00
+# Updated: 2026-11-25T07:07:29+00:00
 # Total: 119 rules
 #
 IP-CIDR,5.62.62.132/30
