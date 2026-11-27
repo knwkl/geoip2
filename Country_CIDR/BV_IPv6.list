@@ -1,7 +1,7 @@
 # BV IPv6 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-11-26T06:58:05+00:00
-# Total: 18 rules
+# Updated: 2026-11-27T06:52:14+00:00
+# Total: 17 rules
 #
 IP-CIDR6,2401:b60:11e0::/44
 IP-CIDR6,2401:af20:1b55::/48
@@ -13,7 +13,6 @@ IP-CIDR6,2a06:9f81:3922::/48
 IP-CIDR6,2a06:9f81:5622::/48
 IP-CIDR6,2a07:d887:2100::/40
 IP-CIDR6,2a0e:4003:bb96:998b::/64
-IP-CIDR6,2a0e:4003:bbff:d451::/64
 IP-CIDR6,2a0e:4007:a::/48
 IP-CIDR6,2a0e:4007:1d::/48
 IP-CIDR6,2a0e:4007:2e::/48
