@@ -1,11 +1,9 @@
 # ER IPv4 Surge Ruleset
 # Data source: ipinfo.io (IPInfo Lite)
-# Updated: 2026-11-27T06:52:14+00:00
-# Total: 65 rules
+# Updated: 2026-11-28T06:26:18+00:00
+# Total: 63 rules
 #
 IP-CIDR,5.62.62.116/30
-IP-CIDR,57.82.120.0/23
-IP-CIDR,57.83.40.0/21
 IP-CIDR,69.195.174.62/31
 IP-CIDR,84.254.152.0/24
 IP-CIDR,90.96.183.31/32
